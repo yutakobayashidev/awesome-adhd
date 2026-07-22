@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, work, executive-function, time-management, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md]
+sources: [raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md]
 confidence: low
 ---
 
@@ -19,6 +19,7 @@ confidence: low
 - **5分以内単位**: 仕事を5分以内で終わる単位へ分割し、1単位ごとに離脱可能にする。
 - **外部の強制起動**: タスクをアプリや同僚に共有し、軽く見張ってもらう。
 - **自動化とテンプレート**: AI、テンプレート、代行を使い、自分で判断する部分をコアだけに絞る。
+- **予定と作業手順を一体化する**: [[tiimo|Tiimo]]のように、ToDo、予定表、集中タイマーを同じ場所に置くと、仕事の流れを毎回組み立て直す負荷を下げられる可能性がある。
 
 ## 注意点
 

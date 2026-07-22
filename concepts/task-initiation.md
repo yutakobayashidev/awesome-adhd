@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md]
+sources: [raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md]
 confidence: low
 ---
 
@@ -19,6 +19,7 @@ confidence: low
 - **身体だけ動かすモード**: やる気や納得感を待たず、椅子に座る、ファイルを開く、手を動かすなど、最初の身体動作だけを目標にする。
 - **共有・見張り**: タスクをアプリや同僚へ共有し、一人で抱え込まない。[[external-memory]]と軽いアカウンタビリティを合わせる。
 - **テンプレート・AI・外注**: 自分で考える必要がある部分を絞り、定型部分をテンプレートやAIに寄せる。
+- **AIによる分解と所要時間見積もり**: [[tiimo|Tiimo]]は、入力や音声で出したタスクをステップ化し、所要時間を予測して予定にする機能をうたっている。
 
 ## 関連
 

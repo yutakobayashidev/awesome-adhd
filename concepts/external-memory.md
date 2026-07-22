@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, working-memory, executive-function, tool, accessibility, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md]
+sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md]
 confidence: low
 ---
 
@@ -18,6 +18,7 @@ confidence: low
 - **即時メモ**: 「あとで思い出す」を期待せず、5秒以内にToDoへ入れる。未整理でもよく、まず忘却を防ぐ。
 - **時間の外部化**: タイムタイマー、アナログ時計、アラーム、終了時刻メモを使い、体感時間ではなく外部表示に判断を任せる。
 - **人・場所への委譲**: ボディダブリングや場所トリガー式リマインダーのように、思い出す契機を自分の意志から切り離す。
+- **端末の常時表示へ預ける**: [[tiimo|Tiimo]]のウィジェットやライブ表示のように、予定・タイマー・次の行動をホーム画面や腕時計に出し、思い出す作業を画面側へ移す。
 
 ## 注意点
 

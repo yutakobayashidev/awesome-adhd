@@ -35,3 +35,19 @@
   - `concepts/sleep.md`
 - Updated `index.md`.
 - Note: X posts were treated as lived-experience/practical-tip sources, not medical evidence; concept pages use `confidence: low`.
+
+
+## [2026-07-22] ingest | Tiimo Japanese homepage
+- Source: https://www.tiimoapp.com/ja
+- Created raw source:
+  - `raw/articles/tiimo-homepage-2026.md`
+- Created entity page:
+  - `entities/tiimo.md`
+- Updated concept pages:
+  - `concepts/time-management.md`
+  - `concepts/external-memory.md`
+  - `concepts/task-initiation.md`
+  - `concepts/work-routines.md`
+  - `concepts/environment-design.md`
+- Updated `index.md`.
+- Note: Tiimo homepage is vendor-provided product text; treated as a tool description, not independent evidence of effectiveness.

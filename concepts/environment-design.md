@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, executive-function, home, work, accessibility, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079760615485448609-ziplock-bag-in-bag.md, raw/articles/tweet-2078379045746848120-pp-sheet-zip-bags.md, raw/articles/tweet-2068357308481261936-clothing-uniform.md, raw/articles/tweet-2070840382343291218-heavy-blanket-sleep-hack.md]
+sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079760615485448609-ziplock-bag-in-bag.md, raw/articles/tweet-2078379045746848120-pp-sheet-zip-bags.md, raw/articles/tweet-2068357308481261936-clothing-uniform.md, raw/articles/tweet-2070840382343291218-heavy-blanket-sleep-hack.md, raw/articles/tiimo-homepage-2026.md]
 confidence: low
 ---
 
@@ -18,6 +18,7 @@ confidence: low
 - **バッグ内の可視化**: 食品用ジップロック、透明PPシート、チャック付き袋などを使い、バッグの中身を一目で確認できるようにする。
 - **制服化**: 服や靴下を同色・同型で揃え、選ぶ・探す・左右を合わせる負荷を減らす。
 - **睡眠環境の局所調整**: 暑くて重い布団をかけにくい場合に、胸から腹へ重く畳んだ毛布を載せるという投稿があった。睡眠の医療的助言ではなく、感覚入力を調整する体験談として扱う。
+- **端末画面を環境の一部にする**: [[tiimo|Tiimo]]のウィジェット、腕時計、ロック画面表示のように、次の予定やタイマーを日常的に見る場所へ置く。
 
 ## 設計原則
 

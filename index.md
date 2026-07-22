@@ -2,9 +2,11 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-22 | Total pages: 10
+> Last updated: 2026-07-22 | Total pages: 11
 
 ## Entities
+
+- [[tiimo|Tiimo]] — ADHDや自閉スペクトラム症の人向けに、視覚的な予定表、集中タイマー、AIタスク分解、ウィジェットなどで実行機能を支える計画アプリ。
 
 ## Concepts
 
