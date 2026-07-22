@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, working-memory, executive-function, tool, accessibility, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md]
+sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/waiting-mode-the-conversation-2026.md]
 confidence: low
 ---
 
@@ -24,6 +24,7 @@ confidence: low
 - **状態の外部表示**: 施錠確認できる鍵カバーのように、「やったか」を記憶から物の状態表示へ移す。
 - **保管場所への外部化**: 重要書類を一箇所へ集めるなど、分類記憶ではなく探索場所の固定に頼る。
 - **位置情報・自動化への外部化**: 外出時の照明・エアコン自動オフのように、思い出す契機をGPSやスマートホーム側へ渡す。
+- **予定保持の外部化**: [[waiting-mode]]では、予定を忘れないよう頭の中で保持し続けることが一日を占有しやすい。複数リマインダー、支度リスト、前日準備で保持先を外へ移す。^[raw/articles/waiting-mode-the-conversation-2026.md]
 
 ## 注意点
 
@@ -37,3 +38,4 @@ confidence: low
 - [[time-management]]
 - [[task-initiation]]
 - [[i-have-adhd]]
+- [[waiting-mode]]

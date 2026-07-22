@@ -119,3 +119,19 @@
 - Updated navigation:
   - `index.md` summaries for expanded existing concept pages.
 - Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence.
+
+## [2026-07-22] ingest | The Conversation waiting mode article
+- Source: https://theconversation.com/do-you-lose-your-whole-day-to-one-appointment-waiting-mode-may-be-why-280608
+- Created raw source:
+  - `raw/articles/waiting-mode-the-conversation-2026.md`
+- Created concept page:
+  - `concepts/waiting-mode.md`
+- Updated concept pages:
+  - `concepts/time-management.md`
+  - `concepts/task-initiation.md`
+  - `concepts/external-memory.md`
+  - `concepts/executive-function.md`
+- Updated navigation:
+  - `index.md`
+  - `README.md`
+- Note: treated as an explanatory article and lived-experience vocabulary, not a formal clinical term or medical guidance.

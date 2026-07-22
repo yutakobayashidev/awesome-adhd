@@ -36,6 +36,7 @@ As an awesome list, the Contents section below gives you the public-facing entry
 - [Sleep](concepts/sleep.md) - Sleep-related environmental tweaks and hyperfocus controls in an ADHD context.
 - [Task initiation](concepts/task-initiation.md) - Reducing start friction with five-second notes, tiny Pomodoro blocks, body-first action, and shared accountability.
 - [Time management](concepts/time-management.md) - Visual timers, analog clocks, estimate buffers, and time anchors for time blindness, lateness, and hyperfocus.
+- [Waiting mode](concepts/waiting-mode.md) - A non-clinical term for losing usable time before an upcoming appointment or event, handled through structure, reminders, preparation, and time estimation.
 - [Work routines](concepts/work-routines.md) - Low-energy ways to get through uninteresting work: fixed procedures, tiny units, automation, and templates.
 - [Working memory](concepts/working-memory.md) - Moving information out of the head and into notes, places, checklists, and timers.
 
