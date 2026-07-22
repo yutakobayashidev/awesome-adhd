@@ -1,0 +1,54 @@
+{
+  "wiki_path": "/var/lib/hermes/awesome-adhd",
+  "max_age_days": 45,
+  "max_new_per_run": 40,
+  "queries": {
+    "arxiv": [
+      {
+        "name": "adhd-executive-function-hci",
+        "query": "all:ADHD AND all:\"executive function\" AND (cat:cs.HC OR cat:cs.AI OR cat:cs.LG)",
+        "max_results": 10
+      },
+      {
+        "name": "adhd-assistive-technology",
+        "query": "all:ADHD AND (all:\"assistive technology\" OR all:\"digital intervention\" OR all:\"mobile app\" OR all:\"self tracking\")",
+        "max_results": 10
+      },
+      {
+        "name": "neurodiversity-productivity-tools",
+        "query": "all:neurodiversity AND (all:productivity OR all:planning OR all:accessibility OR all:HCI)",
+        "max_results": 10
+      }
+    ],
+    "pubmed": [
+      {
+        "name": "adult-adhd-digital-support",
+        "query": "adult ADHD digital intervention executive function",
+        "max_results": 20
+      },
+      {
+        "name": "adhd-time-management-intervention",
+        "query": "ADHD time management intervention",
+        "max_results": 20
+      },
+      {
+        "name": "adhd-assistive-technology-reminders",
+        "query": "ADHD assistive technology reminders smartphone app",
+        "max_results": 20
+      },
+      {
+        "name": "adhd-ecological-momentary-intervention",
+        "query": "ADHD ecological momentary intervention",
+        "max_results": 20
+      }
+    ],
+    "semantic_scholar": [],
+    "rss": [
+      {
+        "name": "medrxiv-adhd-search",
+        "url": "https://connect.medrxiv.org/medrxiv_xml.php?subject=neurology",
+        "note": "Broad feed; discovery script filters ADHD-related titles/summaries."
+      }
+    ]
+  }
+}

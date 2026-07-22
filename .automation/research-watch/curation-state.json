@@ -1,0 +1,139 @@
+{
+  "created_at": "2026-07-22T08:27:24Z",
+  "last_decisions": [
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md",
+        "concepts/assistive-technology.md",
+        "concepts/executive-function.md",
+        "index.md",
+        "log.md"
+      ],
+      "id": "arxiv:2601.21791v1",
+      "score": 4,
+      "source_url": "https://arxiv.org/abs/2601.21791v1"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md",
+        "concepts/executive-function.md",
+        "concepts/working-memory.md",
+        "log.md"
+      ],
+      "id": "pubmed:42142506",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42142506/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md",
+        "concepts/exercise.md",
+        "concepts/executive-function.md",
+        "index.md",
+        "log.md"
+      ],
+      "id": "pubmed:41638541",
+      "score": 4,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41638541/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/lalwani-2025-productivity-social-robot-college-students.md",
+        "concepts/assistive-technology.md",
+        "log.md"
+      ],
+      "id": "arxiv:2512.01111v1",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2512.01111v1"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/zastudil-2025-neurodiversity-computing-education-review.md",
+        "log.md"
+      ],
+      "id": "arxiv:2504.13058v1",
+      "score": 2,
+      "source_url": "https://arxiv.org/abs/2504.13058v1"
+    }
+  ],
+  "last_run_at": "2026-07-22T08:27:24Z",
+  "processed": [
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md",
+        "concepts/assistive-technology.md",
+        "concepts/executive-function.md",
+        "index.md",
+        "log.md"
+      ],
+      "id": "arxiv:2601.21791v1",
+      "processed_at": "2026-07-22T08:27:24Z",
+      "score": 4,
+      "source_url": "https://arxiv.org/abs/2601.21791v1"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md",
+        "concepts/executive-function.md",
+        "concepts/working-memory.md",
+        "log.md"
+      ],
+      "id": "pubmed:42142506",
+      "processed_at": "2026-07-22T08:27:24Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42142506/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md",
+        "concepts/exercise.md",
+        "concepts/executive-function.md",
+        "index.md",
+        "log.md"
+      ],
+      "id": "pubmed:41638541",
+      "processed_at": "2026-07-22T08:27:24Z",
+      "score": 4,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41638541/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/lalwani-2025-productivity-social-robot-college-students.md",
+        "concepts/assistive-technology.md",
+        "log.md"
+      ],
+      "id": "arxiv:2512.01111v1",
+      "processed_at": "2026-07-22T08:27:24Z",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2512.01111v1"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/zastudil-2025-neurodiversity-computing-education-review.md",
+        "log.md"
+      ],
+      "id": "arxiv:2504.13058v1",
+      "processed_at": "2026-07-22T08:27:24Z",
+      "score": 2,
+      "source_url": "https://arxiv.org/abs/2504.13058v1"
+    }
+  ],
+  "processed_ids": [
+    "arxiv:2504.13058v1",
+    "arxiv:2512.01111v1",
+    "arxiv:2601.21791v1",
+    "pubmed:41638541",
+    "pubmed:42142506"
+  ],
+  "version": 1
+}

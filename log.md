@@ -51,3 +51,36 @@
   - `concepts/environment-design.md`
 - Updated `index.md`.
 - Note: Tiimo homepage is vendor-provided product text; treated as a tool description, not independent evidence of effectiveness.
+
+## [2026-07-22] ingest | screenpipe homepage
+- Source: https://screenpipe.com/
+- Created raw source:
+  - `raw/articles/screenpipe-homepage-2026.md`
+- Created entity page:
+  - `entities/screenpipe.md`
+- Updated concept pages:
+  - `concepts/external-memory.md`
+  - `concepts/work-routines.md`
+  - `concepts/executive-function.md`
+- Updated navigation:
+  - `index.md`
+  - `README.md`
+- Note: screenpipe homepage is vendor-provided product text; treated as a tool description. Continuous screen/audio capture has high privacy risk, so the wiki stores only product-level descriptions and reusable patterns.
+
+
+## [2026-07-22] ingest | Research-watch machine-readable candidate curation
+- Reviewed: 5 high-priority candidates from `.automation/research-watch/candidates.jsonl`.
+- Created raw sources:
+  - `raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md`
+  - `raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md`
+  - `raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md`
+  - `raw/papers/lalwani-2025-productivity-social-robot-college-students.md`
+  - `raw/papers/zastudil-2025-neurodiversity-computing-education-review.md`
+- Created concept pages:
+  - `concepts/assistive-technology.md`
+  - `concepts/exercise.md`
+- Updated concept pages:
+  - `concepts/executive-function.md`
+  - `concepts/working-memory.md`
+- Updated `index.md`.
+- Note: research claims are source-bound and cautious; product/design sources are not treated as evidence of clinical effectiveness.

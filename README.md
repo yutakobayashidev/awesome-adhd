@@ -22,6 +22,7 @@ As an awesome list, the Contents section below gives you the public-facing entry
 
 ### Tools
 
+- [screenpipe](entities/screenpipe.md) - A local-first workflow-memory tool that records screen and audio context, makes work history searchable, and can trigger agents such as meeting-note automation.
 - [Tiimo](entities/tiimo.md) - A visual planning app for ADHD and autistic users, with timelines, focus timers, AI task breakdowns, widgets, and other supports for executive function.
 
 ### Concepts
