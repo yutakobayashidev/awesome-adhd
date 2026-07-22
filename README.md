@@ -1,5 +1,7 @@
 # awesome-adhd
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A practical ADHD LLM Wiki and awesome list.
 
 This repo collects research, support practices, tools, and lived-experience tactics for ADHD. It is not just a link dump. Sources are saved, summarized, cross-linked, and turned into pages that can compound over time.
