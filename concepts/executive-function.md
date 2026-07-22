@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/screenpipe-homepage-2026.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/articles/waiting-mode-the-conversation-2026.md]
+sources: [raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/screenpipe-homepage-2026.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
 confidence: medium
 ---
 
@@ -26,6 +26,8 @@ confidence: medium
 
 成人ADHDの運動レビュー／メタ分析（Xuら, 2026）は、急性運動が抑制制御に中等度、中核症状に小さい有益効果を示したと要約している。ただし継続的運動の結果は混在しており、[[exercise]]は治療の断定ではなく、実行機能を一時的に支える候補として扱うのが安全。^[raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md]
 
+成人ADHDの[[cognitive-behavioural-therapy]]に関するCochraneレビュー（Lopezら, 2018）は、CBT系介入が短期的に中核症状を改善する可能性を示したが、証拠の質は低く、長期追跡と地域的な一般化に限界があるとしている。実行機能支援として読む場合も、治療効果を断定しない。^[raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
+
 ## 注意点
 
 このページは生活上の工夫を整理するための概念ページで、診断や治療方針の説明ではない。
@@ -38,3 +40,4 @@ confidence: medium
 - [[assistive-technology]]
 - [[exercise]]
 - [[waiting-mode]]
+- [[cognitive-behavioural-therapy]]

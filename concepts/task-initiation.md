@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/waiting-mode-the-conversation-2026.md]
+sources: [raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
 confidence: low
 ---
 
@@ -22,6 +22,7 @@ confidence: low
 - **AIによる分解と所要時間見積もり**: [[tiimo|Tiimo]]は、入力や音声で出したタスクをステップ化し、所要時間を予測して予定にする機能をうたっている。
 - **最初の一手を返答の先頭に置く**: [[i-have-adhd]] は、エージェントの返答で「まず何をするか」を先頭に出し、最後にも2分以内の次行動を1つだけ置く。これは着手前の迷いを減らす情報設計として扱える。
 - **予定前は低負荷タスクだけにする**: [[waiting-mode]]の状態では、予定前に何を始めるかの判断自体が重くなる。短い片付け、支度、確認など、失敗しても中断しやすい作業へ限定すると摩擦が下がる。^[raw/articles/waiting-mode-the-conversation-2026.md]
+- **認知行動療法で型を作る**: 成人ADHDへの[[cognitive-behavioural-therapy]]は、予定、優先順位、先延ばし、感情面の困りごとを扱う支援候補として読める。ただしCochraneレビューでは証拠の質に限界がある。^[raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
 
 ## 関連
 
@@ -30,3 +31,4 @@ confidence: low
 - [[hyperfocus-control]]
 - [[i-have-adhd]]
 - [[waiting-mode]]
+- [[cognitive-behavioural-therapy]]

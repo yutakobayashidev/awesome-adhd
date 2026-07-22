@@ -135,3 +135,36 @@
   - `index.md`
   - `README.md`
 - Note: treated as an explanatory article and lived-experience vocabulary, not a formal clinical term or medical guidance.
+
+## [2026-07-22] ingest | ADHD guidelines and adult research batch
+- Sources:
+  - NICE NG87 recommendations: https://www.nice.org.uk/guidance/ng87/chapter/recommendations
+  - Cochrane CBT review: https://pmc.ncbi.nlm.nih.gov/articles/PMC6494390/
+  - NICE NG87 appendices PDF: https://www.nice.org.uk/guidance/ng87/evidence/appendices-16-pdf-4783651312
+  - SCT / task-unrelated thought study: https://pmc.ncbi.nlm.nih.gov/articles/PMC7047632/
+  - ADHD, rumination, negative affect, PLEs study: https://pmc.ncbi.nlm.nih.gov/articles/PMC11594572/
+- Created raw sources:
+  - `raw/articles/nice-ng87-recommendations-2026.md`
+  - `raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md`
+  - `raw/papers/nice-ng87-appendices-2008.md`
+  - `raw/papers/fredrick-2020-sct-adhd-task-unrelated-thought.md`
+  - `raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md`
+- Created entity/concept pages:
+  - `entities/nice-ng87.md`
+  - `concepts/diagnosis-and-management.md`
+  - `concepts/cognitive-behavioural-therapy.md`
+  - `concepts/sluggish-cognitive-tempo.md`
+  - `concepts/rumination.md`
+  - `concepts/psychotic-like-experiences.md`
+  - `concepts/emotion-regulation.md`
+  - `concepts/public-support.md`
+  - `concepts/medication.md`
+  - `concepts/comorbidity.md`
+- Updated concept pages:
+  - `concepts/executive-function.md`
+  - `concepts/working-memory.md`
+  - `concepts/task-initiation.md`
+- Updated navigation:
+  - `index.md`
+  - `README.md`
+- Note: medical and guideline sources are summarized as source-bound evidence. They are not diagnosis, treatment, medication, or prescribing advice.

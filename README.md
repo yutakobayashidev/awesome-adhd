@@ -28,14 +28,27 @@ As an awesome list, the Contents section below gives you the public-facing entry
 - [screenpipe](entities/screenpipe.md) - A local-first workflow-memory tool that records screen and audio context, makes work history searchable, and can trigger agents such as meeting-note automation.
 - [Tiimo](entities/tiimo.md) - A visual planning app for ADHD and autistic users, with timelines, focus timers, AI task breakdowns, widgets, and other supports for executive function.
 
+### Guidelines and evidence sources
+
+- [NICE NG87](entities/nice-ng87.md) - UK guidance on recognition, diagnosis, and management of ADHD; useful as a structured reference, not personal medical advice.
+
 ### Concepts
 
+- [Cognitive behavioural therapy](concepts/cognitive-behavioural-therapy.md) - CBT-based interventions for adult ADHD, summarized with Cochrane evidence limits and links to executive-function support.
+- [Comorbidity](concepts/comorbidity.md) - Anxiety, depression, substance use, and broader mental-health risks that may overlap with ADHD and need specialist boundaries.
+- [Diagnosis and management](concepts/diagnosis-and-management.md) - Guideline-based notes on diagnosis discussions, environmental adjustments, psychosocial support, medication, and review.
+- [Emotion regulation](concepts/emotion-regulation.md) - How anxiety, low mood, anger, or rumination can interact with attention, initiation, and executive function.
 - [Environment design](concepts/environment-design.md) - Using physical setup, visible storage, clothing uniforms, and sleep-environment tweaks to reduce reliance on memory and willpower.
 - [Executive function](concepts/executive-function.md) - Initiation, prioritization, inhibition, task switching, time management, and ways to externalize those demands.
 - [External memory](concepts/external-memory.md) - Offloading memory and decisions into notes, timers, fixed places, checklists, screens, or other people.
 - [Forgetfulness countermeasures](concepts/forgetfulness-countermeasures.md) - Landing pads by the door, door checklists, transparent storage, instant notes, and clothing simplification.
 - [Hyperfocus control](concepts/hyperfocus-control.md) - Setting exit conditions before starting: alarms, blockers, written stop points, and leaving the room.
+- [Medication](concepts/medication.md) - Medication as a guideline topic, not individual advice: initiation, monitoring, adherence, and review should stay clinician-led.
+- [Psychotic-like experiences](concepts/psychotic-like-experiences.md) - Research notes on subclinical psychotic-like experiences, rumination, negative affect, and ADHD symptoms.
+- [Public support](concepts/public-support.md) - Service, school, work, and reasonable-adjustment support patterns, with jurisdiction limits.
+- [Rumination](concepts/rumination.md) - Repetitive negative thinking as a bridge between attention, emotion regulation, and some comorbidity research.
 - [Sleep](concepts/sleep.md) - Sleep-related environmental tweaks and hyperfocus controls in an ADHD context.
+- [Sluggish cognitive tempo](concepts/sluggish-cognitive-tempo.md) - A research construct around daydreaming, mental fog, and mind-wandering that overlaps with but is not identical to ADHD.
 - [Task initiation](concepts/task-initiation.md) - Reducing start friction with five-second notes, tiny Pomodoro blocks, body-first action, and shared accountability.
 - [Time management](concepts/time-management.md) - Visual timers, analog clocks, estimate buffers, and time anchors for time blindness, lateness, and hyperfocus.
 - [Waiting mode](concepts/waiting-mode.md) - A non-clinical term for losing usable time before an upcoming appointment or event, handled through structure, reminders, preparation, and time estimation.
