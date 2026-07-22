@@ -1,115 +1,115 @@
 # awesome-adhd
 
-ADHD（注意欠如・多動症）に関する、実践寄りの LLM Wiki / awesome list です。
+A practical ADHD LLM Wiki and awesome list.
 
-ここでは、研究・支援策・道具・当事者の工夫を Markdown の知識ベースとして整理します。普通のリンク集ではなく、取り込んだ情報をあとから読み返しやすいページにまとめ、関連する概念同士をつないでいく運用です。
+This repo collects research, support practices, tools, and lived-experience tactics for ADHD. It is not just a link dump. Sources are saved, summarized, cross-linked, and turned into pages that can compound over time.
 
 > [!IMPORTANT]
-> このリポジトリは医療助言ではありません。診断、薬、治療方針については医師など専門職に相談してください。個人の症状や服薬歴など、本人特定につながる情報は保存しない方針です。
+> This repository is not medical advice. Talk to a qualified clinician about diagnosis, medication, or treatment decisions. We avoid storing personal health details that could identify someone.
 
-## これは何？
+## What is this?
 
-- ADHDに関する実践的な知識ベース
-- Karpathy 型の LLM Wiki 風に育てる Markdown vault
-- GitHubで読める awesome-adhd リスト
-- ObsidianやVS Codeでも開けるプレーンなファイル群
+- A practical knowledge base about ADHD.
+- A Markdown vault grown in the style of Karpathy's LLM Wiki.
+- An awesome-adhd list that is readable on GitHub.
+- Plain files you can open in Obsidian, VS Code, or any editor.
 
-LLM Wiki としては、`raw/` に原資料を保存し、`entities/` や `concepts/` に整理済みページを作ります。ページ同士は `[[wikilinks]]` でつなぎます。
+As an LLM Wiki, this repo keeps source material in `raw/` and turns useful ideas into pages under `entities/` and `concepts/`. Pages use `[[wikilinks]]` so related ideas stay connected.
 
-awesome list としては、下の「Contents」から主要トピックや道具へ直接飛べます。
+As an awesome list, the Contents section below gives you the public-facing entry point.
 
 ## Contents
 
 ### Tools
 
-- [Tiimo](entities/tiimo.md) — ADHDや自閉スペクトラム症の人向けに、視覚的な予定表、集中タイマー、AIタスク分解、ウィジェットなどで実行機能を支える計画アプリ。
+- [Tiimo](entities/tiimo.md) - A visual planning app for ADHD and autistic users, with timelines, focus timers, AI task breakdowns, widgets, and other supports for executive function.
 
 ### Concepts
 
-- [Environment design](concepts/environment-design.md) — ADHDの困りごとを、物理配置・透明収納・制服化・睡眠環境などで外部から支える考え方。
-- [Executive function](concepts/executive-function.md) — 着手・優先順位づけ・抑制・切り替え・時間管理を支える実行機能と、その外部化の考え方。
-- [External memory](concepts/external-memory.md) — 紙・スマホ・タイマー・置き場所・人に記憶や判断を預け、作業記憶の負荷を下げる考え方。
-- [Forgetfulness countermeasures](concepts/forgetfulness-countermeasures.md) — 玄関ランディングパッド、ドア貼りチェックリスト、透明収納、即時メモ、服の制服化などの忘れ物対策。
-- [Hyperfocus control](concepts/hyperfocus-control.md) — 過集中を自力で止めるのではなく、開始前に終了条件・アラーム・ブロッカー・退室を仕込む方法。
-- [Sleep](concepts/sleep.md) — ADHD文脈での睡眠に関する環境調整・過集中対策の体験談メモ。
-- [Task initiation](concepts/task-initiation.md) — 5秒以内メモ、極短ポモドーロ、身体だけ動かす、タスク共有などで着手摩擦を下げる方法。
-- [Time management](concepts/time-management.md) — 時間盲・遅刻・過集中に対して、視覚タイマー、アナログ時計、見積もり補正、時間アンカーを使う方法。
-- [Work routines](concepts/work-routines.md) — 興味のない仕事を低消耗で通過するための2割以内ルール、手順固定、5分単位化、自動化。
-- [Working memory](concepts/working-memory.md) — 頭の中で保持し続ける負荷を、メモ・配置・チェックリスト・タイマーへ逃がす考え方。
+- [Environment design](concepts/environment-design.md) - Using physical setup, visible storage, clothing uniforms, and sleep-environment tweaks to reduce reliance on memory and willpower.
+- [Executive function](concepts/executive-function.md) - Initiation, prioritization, inhibition, task switching, time management, and ways to externalize those demands.
+- [External memory](concepts/external-memory.md) - Offloading memory and decisions into notes, timers, fixed places, checklists, screens, or other people.
+- [Forgetfulness countermeasures](concepts/forgetfulness-countermeasures.md) - Landing pads by the door, door checklists, transparent storage, instant notes, and clothing simplification.
+- [Hyperfocus control](concepts/hyperfocus-control.md) - Setting exit conditions before starting: alarms, blockers, written stop points, and leaving the room.
+- [Sleep](concepts/sleep.md) - Sleep-related environmental tweaks and hyperfocus controls in an ADHD context.
+- [Task initiation](concepts/task-initiation.md) - Reducing start friction with five-second notes, tiny Pomodoro blocks, body-first action, and shared accountability.
+- [Time management](concepts/time-management.md) - Visual timers, analog clocks, estimate buffers, and time anchors for time blindness, lateness, and hyperfocus.
+- [Work routines](concepts/work-routines.md) - Low-energy ways to get through uninteresting work: fixed procedures, tiny units, automation, and templates.
+- [Working memory](concepts/working-memory.md) - Moving information out of the head and into notes, places, checklists, and timers.
 
 ## Wiki structure
 
 ```text
 .
-├── README.md          # GitHub向けの入口。このファイル
-├── SCHEMA.md          # Wikiの運用規約、タグ体系、注意事項
-├── index.md           # Wiki内部の目録
-├── log.md             # 取り込み・更新ログ
-├── raw/               # 原資料。基本的に編集しない
+├── README.md          # GitHub entry point
+├── SCHEMA.md          # Wiki rules, tag taxonomy, and safety notes
+├── index.md           # Internal wiki index
+├── log.md             # Ingest and update log
+├── raw/               # Source material; treat as immutable
 │   ├── articles/
 │   ├── papers/
 │   ├── transcripts/
 │   └── assets/
-├── entities/          # 道具、組織、人物、制度など
-├── concepts/          # 概念、困りごと、実践パターン
-├── comparisons/       # 比較ページ
-└── queries/           # 後で残したい調査結果
+├── entities/          # Tools, organizations, people, programs, laws
+├── concepts/          # Concepts, problems, tactics, patterns
+├── comparisons/       # Side-by-side comparisons
+└── queries/           # Saved research answers worth keeping
 ```
 
-## How to read
+## How to read it
 
-GitHubでは、まずこのREADMEのContentsから気になるページへ移動してください。
+On GitHub, start with the Contents section above or open [index.md](index.md).
 
-Obsidianや対応エディタで開くと、`[[external-memory]]` のようなリンクがそのまま知識グラフになります。GitHub上では一部の `[[wikilinks]]` は普通のリンクとしては動かないため、入口として [index.md](index.md) も用意しています。
+In Obsidian or another Markdown editor that supports wikilinks, links such as `[[external-memory]]` become a navigable knowledge graph. GitHub does not fully understand those links, so this README uses normal Markdown links for the main entry points.
 
-## What goes in
+## What belongs here
 
-歓迎するもの:
+Good fits:
 
-- 実生活で使える工夫、道具、環境設計
-- ADHDや実行機能に関する研究・診療指針・制度情報
-- 当事者体験から抽出できる再利用可能なパターン
-- アクセシビリティ、学校、仕事、家庭での支援策
+- Practical tactics, tools, and environment design for everyday life.
+- Research, clinical guidelines, policy, and support systems related to ADHD and executive function.
+- Reusable patterns extracted from lived experience.
+- Accessibility practices for school, work, home, and public support.
 
-入れないもの:
+Poor fits:
 
-- 個人を特定できる健康情報
-- 診断や服薬の直接的な助言
-- 出典のない断定的な医療情報
-- ただの炎上、ミーム、スティグマを強める内容
+- Identifiable personal health information.
+- Direct advice about diagnosis or medication.
+- Unsourced medical claims.
+- Drama, memes, stigma, or dunking with no reusable insight.
 
 ## Source policy
 
-`raw/` は原資料の保管場所です。記事、投稿、メモを取り込むときは、出典URL、取り込み日、本文ハッシュを付けます。
+`raw/` stores source material. Ingested articles, posts, or notes should include the source URL, ingest date, and a hash of the captured body.
 
-整理済みページでは、出典の性質を分けて扱います。
+Curated pages separate the type of source from the claim:
 
-- 研究・指針: できるだけ出典と対象国・時期を明記する
-- 製品ページ: 道具の説明として扱い、効果検証とは分ける
-- X/Twitter等の投稿: 当事者の実践メモとして扱い、医療的根拠とはみなさない
+- Research and guidelines should include jurisdiction, date, and source context where possible.
+- Product pages are treated as descriptions of tools, not evidence that the tool works.
+- X/Twitter posts and similar sources are treated as lived-experience notes, not medical evidence.
 
 ## Contributing
 
-今は小さく育てている段階です。追加したいものがある場合は、URLやメモをIssueやPRで投げてください。
+This is early and intentionally small. If you have something to add, open an issue or PR with the URL, note, paper, or tool.
 
-PRで追加する場合の目安:
+For PRs:
 
-1. 原資料は `raw/` に置く
-2. 重要な概念や道具は `concepts/` または `entities/` に整理する
-3. 新しいページは `index.md` に1行で追加する
-4. `log.md` に作業内容を追記する
-5. 医療・個人情報まわりは強く安全側に倒す
+1. Put source material under `raw/`.
+2. Summarize important tools or concepts under `entities/` or `concepts/`.
+3. Add new pages to [index.md](index.md) with a one-line summary.
+4. Append the work to [log.md](log.md).
+5. Be conservative around medical claims and personal information.
 
-詳しい運用は [SCHEMA.md](SCHEMA.md) を見てください。
+See [SCHEMA.md](SCHEMA.md) for the full operating rules.
 
 ## Automation
 
-このWikiは、Hermes Agent が定期的に公開情報を探して取り込む実験も兼ねています。たとえば `#ADHD` の実践的な工夫を検索し、有用そうなものだけを raw source と concept page に整理します。
+This repo also dogfoods Hermes Agent as a curator. A scheduled job can search public sources, such as practical `#ADHD` posts, and ingest only the ones that look reusable.
 
-自動取り込みは便利ですが、万能ではありません。とくに医療、薬、診断、個人情報に関わる内容は、人間が確認する前提です。
+Automation is useful, but it is not a substitute for review. Medical, medication, diagnostic, or personal information should be checked by a human before it hardens into wiki knowledge.
 
 ## License
 
-未定。ライセンスを決めるまでは、再利用範囲を明示できません。
+Not decided yet. Until a license is added, reuse rights are not explicit.
 
-各原資料の著作権は元の著作者にあります。このリポジトリ内の引用・要約は、出典確認と学習用の整理を目的としています。
+Copyright for source material belongs to the original authors. Summaries and excerpts in this repo are kept for source tracking, study, and curation.
