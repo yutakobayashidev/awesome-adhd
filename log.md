@@ -100,3 +100,22 @@
   - `index.md`
   - `README.md`
 - Note: treated as an ADHD-aware information-design/developer-tool source, not clinical evidence.
+
+## [2026-07-22] ingest | X/Twitter ADHDパワー系ソリューション定期検索
+- Searches: Japanese ADHD practical-tip queries across `Latest` and `Top`; deduplicated by tweet id.
+- Created raw sources:
+  - `raw/articles/tweet-1740351903421337650-routine-timer-morning.md`
+  - `raw/articles/tweet-1740366768441602453-lock-check-key-cover.md`
+  - `raw/articles/tweet-1739953040227287247-minimalism-less-stuff.md`
+  - `raw/articles/tweet-1797396340231770380-geofence-auto-off.md`
+  - `raw/articles/tweet-1740321810779103522-one-place-documents.md`
+  - `raw/articles/tweet-2079859998449193147-hyperfocus-peak-time.md`
+- Updated concept pages:
+  - `concepts/time-management.md`
+  - `concepts/forgetfulness-countermeasures.md`
+  - `concepts/environment-design.md`
+  - `concepts/external-memory.md`
+  - `concepts/hyperfocus-control.md`
+- Updated navigation:
+  - `index.md` summaries for expanded existing concept pages.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence.

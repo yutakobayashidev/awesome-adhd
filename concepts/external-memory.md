@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, working-memory, executive-function, tool, accessibility, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md]
+sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md]
 confidence: low
 ---
 
@@ -21,6 +21,9 @@ confidence: low
 - **端末の常時表示へ預ける**: [[tiimo|Tiimo]]のウィジェットやライブ表示のように、予定・タイマー・次の行動をホーム画面や腕時計に出し、思い出す作業を画面側へ移す。
 - **作業履歴の検索化**: [[screenpipe]]のような道具は、画面・音声・アプリ上の出来事をあとから検索できる形にし、会議や作業の記憶を個人の頭から外へ出す。
 - **返答形式への外部化**: [[i-have-adhd]] のように、エージェント側が次の行動・現在地・完了事項を毎回画面に出すと、利用者が会話の流れを頭の中で保持し続ける負荷を減らせる。
+- **状態の外部表示**: 施錠確認できる鍵カバーのように、「やったか」を記憶から物の状態表示へ移す。
+- **保管場所への外部化**: 重要書類を一箇所へ集めるなど、分類記憶ではなく探索場所の固定に頼る。
+- **位置情報・自動化への外部化**: 外出時の照明・エアコン自動オフのように、思い出す契機をGPSやスマートホーム側へ渡す。
 
 ## 注意点
 
