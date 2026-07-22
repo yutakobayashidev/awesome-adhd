@@ -2,10 +2,11 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-22 | Total pages: 14
+> Last updated: 2026-07-22 | Total pages: 15
 
 ## Entities
 
+- [[i-have-adhd]] — コーディング用エージェントの返答を、次の行動・番号つき手順・現在地・短いリストへ寄せるADHD向け出力設計 skill/plugin。
 - [[screenpipe]] — 画面・音声・アプリ上の出来事をローカルに記録し、検索可能な作業記憶や会議後自動メモへつなげる道具。
 - [[tiimo|Tiimo]] — ADHDや自閉スペクトラム症の人向けに、視覚的な予定表、集中タイマー、AIタスク分解、ウィジェットなどで実行機能を支える計画アプリ。
 

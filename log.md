@@ -84,3 +84,19 @@
   - `concepts/working-memory.md`
 - Updated `index.md`.
 - Note: research claims are source-bound and cautious; product/design sources are not treated as evidence of clinical effectiveness.
+
+## [2026-07-22] ingest | i-have-adhd GitHub repository
+- Source: https://github.com/ayghri/i-have-adhd
+- Commit inspected: `ccce9e793a0d9fa008e9fb42199c39463f73a70a`
+- Created raw source:
+  - `raw/articles/i-have-adhd-github-2026.md`
+- Created entity page:
+  - `entities/i-have-adhd.md`
+- Updated concept pages:
+  - `concepts/assistive-technology.md`
+  - `concepts/external-memory.md`
+  - `concepts/task-initiation.md`
+- Updated navigation:
+  - `index.md`
+  - `README.md`
+- Note: treated as an ADHD-aware information-design/developer-tool source, not clinical evidence.
