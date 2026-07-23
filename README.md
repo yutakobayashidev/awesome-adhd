@@ -35,6 +35,11 @@ As an awesome list, the Contents section below gives you the public-facing entry
 
 ### Concepts
 
+- [Attention control](concepts/attention-control.md) - Distraction by task-irrelevant stimuli, perceptual load, and environment design for ADHD support.
+- [Curiosity, reward, and memory](concepts/curiosity-reward-memory.md) - Curiosity and information value as adjacent evidence for interest-driven motivation and memory.
+- [Digital interruptions](concepts/digital-interruptions.md) - Smartphone notifications, email checking, social media dissociation, and task-resumption costs.
+- [Prospective memory](concepts/prospective-memory.md) - Remembering and executing future intentions: appointments, replies, belongings, medication, and deadlines.
+- [Task resumption](concepts/task-resumption.md) - Returning to work after interruptions using spatial cues, next-action notes, and external memory.
 - [Digital ADHD support](concepts/digital-adhd-support.md) - AI, software, digital therapeutics, diagnosis support, self-management apps, and implementation caveats for ADHD.
 - [Body doubling](concepts/body-doubling.md) - Using another person's presence, in person or virtual, as an external support for starting and staying with a task.
 - [Cognitive behavioural therapy](concepts/cognitive-behavioural-therapy.md) - CBT-based interventions for adult ADHD, summarized with Cochrane evidence limits and links to executive-function support.

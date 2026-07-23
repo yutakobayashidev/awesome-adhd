@@ -1,10 +1,10 @@
 ---
 title: ワーキングメモリ
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-23
 type: concept
 tags: [adhd, working-memory, executive-function, attention, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/fredrick-2020-sct-adhd-task-unrelated-thought.md]
+sources: [raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md, raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md, raw/papers/ratwani-2008-spatial-memory-task-resumption.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/fredrick-2020-sct-adhd-task-unrelated-thought.md]
 confidence: medium
 ---
 
@@ -19,6 +19,9 @@ confidence: medium
 - 時間情報も保持し続けず、タイマーやアナログ時計など[[time-management]]の道具に任せる。
 
 ## 研究メモ
+
+展望記憶と作業再開の研究は、ADHDの困りごとを『覚えておく力』だけでなく、『後で実行する』『中断後に戻る』という一連の流れとして扱う必要を示す。[[prospective-memory]]と[[task-resumption]]では、予定・次の一手・場所手がかりを外部化する設計として整理する。^[raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md]^[raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md]^[raw/papers/ratwani-2008-spatial-memory-task-resumption.md]
+
 
 成人ADHD向けデジタル認知トレーニングRCTでは、参加者の主観的な記憶・注意・実行機能評価には改善が報告されたが、客観的な神経心理検査では対応する改善が確認されなかった。ワーキングメモリ支援を読むときは、[[assistive-technology]]による「本人の感じる使いやすさ」と、測定可能な認知機能改善を分けて扱う必要がある。^[raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md]
 

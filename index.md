@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-23 | Total pages: 29
+> Last updated: 2026-07-23 | Total pages: 34
 
 ## Entities
 
@@ -14,6 +14,11 @@
 
 ## Concepts
 
+- [[attention-control]] — 成人ADHDの課題無関係刺激への弱さを、環境設計・作業負荷・通知制御と接続して扱うページ。
+- [[curiosity-reward-memory]] — 好奇心、情報価値、報酬系、記憶の研究を、興味駆動の着手・過集中設計の補助線として扱うページ。
+- [[digital-interruptions]] — スマホ通知、メール確認、SNS設計が注意・時間管理・作業再開へ与える割り込みを整理するページ。
+- [[prospective-memory]] — 「あとでやる」を覚えて実行する展望記憶を、ADHDの予定・持ち物・返信・服薬・提出物支援と接続するページ。
+- [[task-resumption]] — 中断後にどこへ戻るかを、空間手がかり、次の一手、作業履歴、外部記憶で支えるページ。
 - [[digital-adhd-support]] — AI、医療機器プログラム、自己管理アプリ、診断補助、親支援、学校・職場配慮を、証拠の強さと生活実装に分けて読む入口。
 - [[body-doubling]] — 他の人が同じ場にいる状態を、作業開始・注意維持・終了確認の外部支えとして使う実践。
 - [[assistive-technology]] — 成人ADHDや高等教育・職場での困りごとに対し、記憶・時間・着手・切り替えを道具や環境へ分散する支援技術の研究・設計メモ。

@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-23
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, tool, lived-experience, japanese-context]
-sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2041992479973765361-sticky-note-game-task-hack.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md]
+sources: [raw/papers/kang-2009-curiosity-reward-memory.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2041992479973765361-sticky-note-game-task-hack.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md]
 confidence: low
 ---
 
@@ -29,6 +29,10 @@ confidence: low
 - **予定前は低負荷タスクだけにする**: [[waiting-mode]]の状態では、予定前に何を始めるかの判断自体が重くなる。短い片付け、支度、確認など、失敗しても中断しやすい作業へ限定すると摩擦が下がる。^[raw/articles/waiting-mode-the-conversation-2026.md]
 - **認知行動療法で型を作る**: 成人ADHDへの[[cognitive-behavioural-therapy]]は、予定、優先順位、先延ばし、感情面の困りごとを扱う支援候補として読める。ただしCochraneレビューでは証拠の質に限界がある。^[raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
 
+## 研究メモ
+
+好奇心・情報価値・計画作成の研究は、着手支援を『気合い』ではなく、報酬の見え方、次に分かること、具体的な実行計画として設計する補助線になる。^[raw/papers/kang-2009-curiosity-reward-memory.md]^[raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md]
+
 ## 関連
 
 - [[body-doubling]]
@@ -38,3 +42,5 @@ confidence: low
 - [[i-have-adhd]]
 - [[waiting-mode]]
 - [[cognitive-behavioural-therapy]]
+- [[curiosity-reward-memory]]
+- [[prospective-memory]]

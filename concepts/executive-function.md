@@ -1,10 +1,10 @@
 ---
 title: 実行機能
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-23
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/screenpipe-homepage-2026.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
+sources: [raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md, raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md, raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/screenpipe-homepage-2026.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
 confidence: medium
 ---
 
@@ -21,6 +21,9 @@ confidence: medium
 - [[waiting-mode]]のように、予定前の不確実性が着手・切り替え・優先順位づけを止めることがある。予定を早めに置く、前の時間を短い枠へ切る、リマインダーへ預ける、といった足場が実行機能負荷を下げる。^[raw/articles/waiting-mode-the-conversation-2026.md]
 
 ## 研究メモ
+
+妨害刺激、展望記憶、計画作成の研究を合わせると、実行機能支援は『集中する』だけでなく、『あとでやることを失わない』『中断後に戻る』『未完了目標を計画として外へ出す』ことまで含む。^[raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md]^[raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md]^[raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md]
+
 
 成人ADHDのデジタル認知トレーニングRCT（Bergmannら, 2026）は、12週間のアプリ介入で心理的QOLと主観的な注意・記憶・言語・実行機能評価に改善が見られた一方、客観的な神経心理検査やADHD特性には有意な変化が見られなかったとする。したがって、[[assistive-technology]]は「効いた気がする／生活の見通しがよくなる」可能性と、客観指標では差が出ない可能性を分けて読む必要がある。^[raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md]
 
@@ -41,3 +44,6 @@ confidence: medium
 - [[exercise]]
 - [[waiting-mode]]
 - [[cognitive-behavioural-therapy]]
+- [[attention-control]]
+- [[prospective-memory]]
+- [[task-resumption]]

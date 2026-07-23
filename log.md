@@ -238,3 +238,36 @@
   - `index.md`
   - `README.md`
 - Note: treated as a secondary attached research report. Claims about digital therapeutics, diagnosis support, and AI tools should be verified against primary sources before being treated as high-confidence evidence.
+
+## [2026-07-23] ingest | Curiosity, hyperfocus, prospective memory, and digital interruption research batch
+- Sources: 13 DOI records provided by user, spanning curiosity/reward, hyperfocus in adult ADHD, ADHD distraction, prospective memory, task resumption, plan making, notification batching, email checking, social media dissociation, and smartphone non-use design.
+- Created raw paper records:
+  - `raw/papers/kang-2009-curiosity-reward-memory.md`
+  - `raw/papers/kobayashi-2019-reward-information-value.md`
+  - `raw/papers/hupfeld-2019-living-in-the-zone-hyperfocus-adhd.md`
+  - `raw/papers/hupfeld-2024-adult-hyperfocus-questionnaire-validation.md`
+  - `raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md`
+  - `raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md`
+  - `raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md`
+  - `raw/papers/ratwani-2008-spatial-memory-task-resumption.md`
+  - `raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md`
+  - `raw/papers/baughan-2022-design-influences-dissociation-social-media.md`
+  - `raw/papers/fitz-2019-batching-smartphone-notifications-wellbeing.md`
+  - `raw/papers/kushlev-2015-checking-email-less-stress.md`
+  - `raw/papers/hiniker-2016-mytime-smartphone-non-use.md`
+- Created concept pages:
+  - `concepts/curiosity-reward-memory.md`
+  - `concepts/attention-control.md`
+  - `concepts/prospective-memory.md`
+  - `concepts/task-resumption.md`
+  - `concepts/digital-interruptions.md`
+- Updated concept pages:
+  - `concepts/hyperfocus-control.md`
+  - `concepts/working-memory.md`
+  - `concepts/executive-function.md`
+  - `concepts/time-management.md`
+  - `concepts/task-initiation.md`
+- Updated navigation:
+  - `index.md`
+  - `README.md`
+- Note: several sources are adjacent cognitive/HCI evidence rather than ADHD-specific clinical evidence; they are used for design implications, not treatment advice.
