@@ -2,10 +2,11 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-23 | Total pages: 26
+> Last updated: 2026-07-23 | Total pages: 29
 
 ## Entities
 
+- [[focusmate|Focusmate]] — 予約したビデオ共同作業枠で、相手の存在・開始宣言・終了確認を使って着手と注意維持を支える仮想ボディダブリングサービス。
 - [[i-have-adhd]] — コーディング用エージェントの返答を、次の行動・番号つき手順・現在地・短いリストへ寄せるADHD向け出力設計 skill/plugin。
 - [[nice-ng87]] — 英国NICEによるADHDの認識・診断・管理指針。医療判断の代替ではなく、支援の層を整理する基準として扱う。
 - [[screenpipe]] — 画面・音声・アプリ上の出来事をローカルに記録し、検索可能な作業記憶や会議後自動メモへつなげる道具。
@@ -13,6 +14,8 @@
 
 ## Concepts
 
+- [[digital-adhd-support]] — AI、医療機器プログラム、自己管理アプリ、診断補助、親支援、学校・職場配慮を、証拠の強さと生活実装に分けて読む入口。
+- [[body-doubling]] — 他の人が同じ場にいる状態を、作業開始・注意維持・終了確認の外部支えとして使う実践。
 - [[assistive-technology]] — 成人ADHDや高等教育・職場での困りごとに対し、記憶・時間・着手・切り替えを道具や環境へ分散する支援技術の研究・設計メモ。
 - [[cognitive-behavioural-therapy]] — 成人ADHDへの認知行動療法系介入を、短期的な支援候補と証拠の限界に分けて整理するページ。
 - [[comorbidity]] — ADHDに重なりやすい不安、抑うつ、物質使用、精神健康リスクを生活工夫と専門支援に切り分けて扱う入口。

@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-23
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2041992479973765361-sticky-note-game-task-hack.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md]
+sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2041992479973765361-sticky-note-game-task-hack.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md]
 confidence: low
 ---
 
@@ -19,6 +19,7 @@ confidence: low
 - **身体だけ動かすモード**: やる気や納得感を待たず、椅子に座る、ファイルを開く、手を動かすなど、最初の身体動作だけを目標にする。
 - **共有・見張り**: タスクをアプリや同僚へ共有し、一人で抱え込まない。[[external-memory]]と軽いアカウンタビリティを合わせる。
 - **通話ボディダブリング**: 片付け、洗濯、移動の第一歩などは、誰かと通話を開始してから動く。相手に監督してもらうというより、「人がいる状態」を外部の始動スイッチにする。
+- **予約された共同作業枠**: [[focusmate|Focusmate]]のようなサービスでは、25分・50分・75分の枠を予約し、相手と開始・終了確認をすることで「いつ始めるか」と「どこで終えるか」を外へ置ける。^[raw/articles/focusmate-homepage-2026.md]
 - **テンプレート・AI・外注**: 自分で考える必要がある部分を絞り、定型部分をテンプレートやAIに寄せる。
 - **長期タスクをAIで25分化**: 3か月後など遠い締切は、管理者・支援者が中間マイルストーンと週次確認の枠を作り、本人は生成AIに「週ごとのゴール」「今週の25分タスク」「今日の最初の25分の5〜7手順」を出させる。AI案は全部やらず、当日の体力に合わせて引き算して採用する。
 - **ゲーム化された付箋管理**: ゲームで集中できる理由を、付箋タスクの視覚化・小さな達成・次の一手の明確化へ移すという記事紹介がある。tweet本文だけでは詳細不足なので、付箋でタスクを物理カード化する弱い実践候補として扱う。
@@ -30,6 +31,7 @@ confidence: low
 
 ## 関連
 
+- [[body-doubling]]
 - [[time-management]]
 - [[work-routines]]
 - [[hyperfocus-control]]

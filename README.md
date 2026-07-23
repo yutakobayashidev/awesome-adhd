@@ -24,6 +24,7 @@ As an awesome list, the Contents section below gives you the public-facing entry
 
 ### Tools
 
+- [Focusmate](entities/focusmate.md) - A virtual coworking/body-doubling service that turns task initiation into scheduled video sessions with a partner, start check-in, and end check-in.
 - [i-have-adhd](entities/i-have-adhd.md) - An agent skill/plugin that makes coding-agent output more ADHD-friendly: action first, numbered steps, visible progress, concrete time estimates, and fewer tangents.
 - [screenpipe](entities/screenpipe.md) - A local-first workflow-memory tool that records screen and audio context, makes work history searchable, and can trigger agents such as meeting-note automation.
 - [Tiimo](entities/tiimo.md) - A visual planning app for ADHD and autistic users, with timelines, focus timers, AI task breakdowns, widgets, and other supports for executive function.
@@ -34,6 +35,8 @@ As an awesome list, the Contents section below gives you the public-facing entry
 
 ### Concepts
 
+- [Digital ADHD support](concepts/digital-adhd-support.md) - AI, software, digital therapeutics, diagnosis support, self-management apps, and implementation caveats for ADHD.
+- [Body doubling](concepts/body-doubling.md) - Using another person's presence, in person or virtual, as an external support for starting and staying with a task.
 - [Cognitive behavioural therapy](concepts/cognitive-behavioural-therapy.md) - CBT-based interventions for adult ADHD, summarized with Cochrane evidence limits and links to executive-function support.
 - [Comorbidity](concepts/comorbidity.md) - Anxiety, depression, substance use, and broader mental-health risks that may overlap with ADHD and need specialist boundaries.
 - [Diagnosis and management](concepts/diagnosis-and-management.md) - Guideline-based notes on diagnosis discussions, environmental adjustments, psychosocial support, medication, and review.

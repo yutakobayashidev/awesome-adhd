@@ -1,10 +1,10 @@
 ---
 title: 仕事のルーティン
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-23
 type: concept
 tags: [adhd, work, executive-function, time-management, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md]
+sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md]
 confidence: low
 ---
 
@@ -18,6 +18,7 @@ confidence: low
 - **手順固定・簡略マニュアル**: ルーチンワークは自分用に超簡略化し、毎回同じ順番・同じ方法で処理する。
 - **5分以内単位**: 仕事を5分以内で終わる単位へ分割し、1単位ごとに離脱可能にする。
 - **外部の強制起動**: タスクをアプリや同僚に共有し、軽く見張ってもらう。
+- **仮想共同作業枠**: [[focusmate|Focusmate]]のように、作業を予約した短いビデオ共同作業枠へ入れると、開始時刻、相手の存在、終了確認が仕事のルーティンになる。^[raw/articles/focusmate-homepage-2026.md]
 - **自動化とテンプレート**: AI、テンプレート、代行を使い、自分で判断する部分をコアだけに絞る。
 - **予定と作業手順を一体化する**: [[tiimo|Tiimo]]のように、ToDo、予定表、集中タイマーを同じ場所に置くと、仕事の流れを毎回組み立て直す負荷を下げられる可能性がある。
 - **イベント後の自動後処理**: [[screenpipe]]の会議後メモ例のように、会議終了などを契機に要約・担当別行動項目・決定事項を自動で残すと、後から思い出して整理する負荷を減らせる。
@@ -32,3 +33,5 @@ confidence: low
 - [[task-initiation]]
 - [[time-management]]
 - [[external-memory]]
+- [[body-doubling]]
+- [[focusmate|Focusmate]]

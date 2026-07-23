@@ -204,3 +204,37 @@
 - Updated navigation:
   - `index.md`
 - Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`.
+
+## [2026-07-23] ingest | Focusmate homepage
+- Source: https://www.focusmate.com
+- Created raw source:
+  - `raw/articles/focusmate-homepage-2026.md`
+- Created entity/concept pages:
+  - `entities/focusmate.md`
+  - `concepts/body-doubling.md`
+- Updated concept pages:
+  - `concepts/task-initiation.md`
+  - `concepts/external-memory.md`
+  - `concepts/work-routines.md`
+  - `concepts/assistive-technology.md`
+- Updated navigation:
+  - `index.md`
+  - `README.md`
+- Note: treated as an official product description and virtual body-doubling pattern, not as medical evidence or ADHD treatment advice.
+
+## [2026-07-23] ingest | Deep research report on AI and software for ADHD
+- Source: Discord attachment `deep-research-report.md`
+- Cached source file: `/var/lib/hermes/.hermes/cache/documents/doc_7130d5e36751_deep-research-report.md`
+- Created raw source:
+  - `raw/articles/deep-research-report-ai-software-adhd-2026.md`
+- Created concept page:
+  - `concepts/digital-adhd-support.md`
+- Updated concept pages:
+  - `concepts/assistive-technology.md`
+  - `concepts/diagnosis-and-management.md`
+  - `concepts/cognitive-behavioural-therapy.md`
+  - `concepts/external-memory.md`
+- Updated navigation:
+  - `index.md`
+  - `README.md`
+- Note: treated as a secondary attached research report. Claims about digital therapeutics, diagnosis support, and AI tools should be verified against primary sources before being treated as high-confidence evidence.
