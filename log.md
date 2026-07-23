@@ -168,3 +168,39 @@
   - `index.md`
   - `README.md`
 - Note: medical and guideline sources are summarized as source-bound evidence. They are not diagnosis, treatment, medication, or prescribing advice.
+
+## [2026-07-22] ingest | X/Twitter ADHDパワー系ソリューション定期検索 2
+- Searches: Japanese ADHD practical-tip queries across `Latest` and `Top`; deduplicated by tweet id. Skipped generic empathy, discourse, medical claims without concrete workflow, and already-ingested tweet ids.
+- Created raw sources:
+  - `raw/articles/tweet-2039229335836696862-forgetfulness-company-locker-fixed-bag.md`
+  - `raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md`
+  - `raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md`
+  - `raw/articles/tweet-2079844647199715690-hyperfocus-end-time-before-start.md`
+  - `raw/articles/tweet-2079903068330574127-visible-time-arrival-readiness.md`
+  - `raw/articles/tweet-2041992479973765361-sticky-note-game-task-hack.md`
+- Updated concept pages:
+  - `concepts/forgetfulness-countermeasures.md`
+  - `concepts/time-management.md`
+  - `concepts/task-initiation.md`
+  - `concepts/external-memory.md`
+  - `concepts/hyperfocus-control.md`
+  - `concepts/work-routines.md`
+- Updated navigation:
+  - `index.md`
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`.
+
+## [2026-07-23] ingest | X/Twitter ADHDパワー系ソリューション定期検索 3
+- Searches: Japanese ADHD practical-tip queries across `Latest` and `Top`; deduplicated by tweet id. Skipped already-ingested tweets, generic empathy, vague motivation, memes, diagnosis discourse, and medical claims without concrete workflow.
+- Created raw sources:
+  - `raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md`
+  - `raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md`
+  - `raw/articles/tweet-2080060334786887716-housework-automation-no-fold-laundry.md`
+- Updated concept pages:
+  - `concepts/time-management.md`
+  - `concepts/task-initiation.md`
+  - `concepts/forgetfulness-countermeasures.md`
+  - `concepts/environment-design.md`
+  - `concepts/external-memory.md`
+- Updated navigation:
+  - `index.md`
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`.

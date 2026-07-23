@@ -1,10 +1,10 @@
 ---
 title: 外部記憶
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-23
 type: concept
 tags: [adhd, working-memory, executive-function, tool, accessibility, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/waiting-mode-the-conversation-2026.md]
+sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md]
 confidence: low
 ---
 
@@ -23,8 +23,12 @@ confidence: low
 - **返答形式への外部化**: [[i-have-adhd]] のように、エージェント側が次の行動・現在地・完了事項を毎回画面に出すと、利用者が会話の流れを頭の中で保持し続ける負荷を減らせる。
 - **状態の外部表示**: 施錠確認できる鍵カバーのように、「やったか」を記憶から物の状態表示へ移す。
 - **保管場所への外部化**: 重要書類を一箇所へ集めるなど、分類記憶ではなく探索場所の固定に頼る。
+- **物理チェック盤への外部化**: 忘れ物チェッカーやホワイトボードのように、残タスクを手で切り替えられる物へ置く。完了状態が目に残るため、頭の中で「何が残っているか」を保持し続けなくてよい。
 - **位置情報・自動化への外部化**: 外出時の照明・エアコン自動オフのように、思い出す契機をGPSやスマートホーム側へ渡す。
 - **予定保持の外部化**: [[waiting-mode]]では、予定を忘れないよう頭の中で保持し続けることが一日を占有しやすい。複数リマインダー、支度リスト、前日準備で保持先を外へ移す。^[raw/articles/waiting-mode-the-conversation-2026.md]
+- **朝の判断の外部化**: 服、持ち物、朝の順番を夜に決めて、朝は「読む／見る／なぞる」だけにする。判断を朝のワーキングメモリに置かない。
+- **人の存在への外部化**: 通話をつないだ状態で片付けや洗濯を始めるなど、ボディダブリングを「開始の合図」として使う。記憶だけでなく、始動のきっかけも外へ置く。
+- **AIへの計画外部化**: 長期タスクを自分の頭だけで保持・分解せず、生成AIに週・日・25分単位の案を作らせる。採用判断は本人が行い、診断・治療・人事法務判断には使わない線引きが必要。
 
 ## 注意点
 

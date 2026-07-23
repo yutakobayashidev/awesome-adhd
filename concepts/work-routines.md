@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-22
 type: concept
 tags: [adhd, work, executive-function, time-management, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md]
+sources: [raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md]
 confidence: low
 ---
 
@@ -21,6 +21,7 @@ confidence: low
 - **自動化とテンプレート**: AI、テンプレート、代行を使い、自分で判断する部分をコアだけに絞る。
 - **予定と作業手順を一体化する**: [[tiimo|Tiimo]]のように、ToDo、予定表、集中タイマーを同じ場所に置くと、仕事の流れを毎回組み立て直す負荷を下げられる可能性がある。
 - **イベント後の自動後処理**: [[screenpipe]]の会議後メモ例のように、会議終了などを契機に要約・担当別行動項目・決定事項を自動で残すと、後から思い出して整理する負荷を減らせる。
+- **長期仕事の枠組み分業**: 3か月締切のような遠い仕事は、上司・管理者が中間マイルストーン、週1回の短い確認、時間ブロックを用意し、本人は生成AIで週・日・25分タスクへ落とす。上司は方向性と優先度を調整し、本人は「最初の25分」から着手する。
 
 ## 注意点
 
