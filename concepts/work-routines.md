@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-23
 type: concept
 tags: [adhd, work, executive-function, time-management, tool, lived-experience, japanese-context]
-sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/papers/gibbs-2026-female-adhd-academia-work.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md]
+sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080257873259716882-seven-failures-eighth-system.md, raw/articles/tweet-2080259380080161006-dont-be-careful-build-systems.md, raw/papers/gibbs-2026-female-adhd-academia-work.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md]
 confidence: low
 ---
 
@@ -23,6 +23,8 @@ confidence: low
 - **予定と作業手順を一体化する**: [[tiimo|Tiimo]]のように、ToDo、予定表、集中タイマーを同じ場所に置くと、仕事の流れを毎回組み立て直す負荷を下げられる可能性がある。
 - **イベント後の自動後処理**: [[screenpipe]]の会議後メモ例のように、会議終了などを契機に要約・担当別行動項目・決定事項を自動で残すと、後から思い出して整理する負荷を減らせる。
 - **長期仕事の枠組み分業**: 3か月締切のような遠い仕事は、上司・管理者が中間マイルストーン、週1回の短い確認、時間ブロックを用意し、本人は生成AIで週・日・25分タスクへ落とす。上司は方向性と優先度を調整し、本人は「最初の25分」から着手する。
+- **続ける主体を自分から仕組みへ移す**: 「毎日、自分の意志で同じことをやる」という前提を捨て、続ける対象を行動ではなく仕組みにする。AIや自動化で投稿・記録・リマインドを回し、本人は違和感があったときだけ修正する役割に徹する。三日坊主は性格ではなく設計ミスと捉える。^[raw/articles/tweet-2080257873259716882-seven-failures-eighth-system.md]
+- **慎重になるより仕組みで防ぐ**: ADHDにおいて「注意して慎重に確認する」は最大の悪手。ミスが物理的に発生しない仕組みと、ミスより成果が評価される環境を選ぶ。注意力に頼る対策の限界を認め、制約・自動チェック・環境設計へ移行する。^[raw/articles/tweet-2080259380080161006-dont-be-careful-build-systems.md]
 
 ## 研究から見える職場・高等教育の支え
 

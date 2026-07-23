@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-23
 type: concept
 tags: [adhd, attention, executive-function, time-management, tool, lived-experience, japanese-context]
-sources: [raw/papers/hupfeld-2019-living-in-the-zone-hyperfocus-adhd.md, raw/papers/hupfeld-2024-adult-hyperfocus-questionnaire-validation.md, raw/papers/kang-2009-curiosity-reward-memory.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079859998449193147-hyperfocus-peak-time.md, raw/articles/tweet-2079844647199715690-hyperfocus-end-time-before-start.md]
+sources: [raw/papers/hupfeld-2019-living-in-the-zone-hyperfocus-adhd.md, raw/papers/hupfeld-2024-adult-hyperfocus-questionnaire-validation.md, raw/papers/kang-2009-curiosity-reward-memory.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079859998449193147-hyperfocus-peak-time.md, raw/articles/tweet-2079844647199715690-hyperfocus-end-time-before-start.md, raw/articles/tweet-2080201263778771041-hyperfocus-visual-progress-tracking.md]
 confidence: medium
 ---
 
@@ -20,7 +20,8 @@ confidence: medium
 - 「今日はここまで」を紙に書いて、終了条件を目に見える形にする。
 - タイマーが鳴ったら、作業を続けるか考える前に物理的に部屋を出る。
 - 「終わる時間」を開始前に決め、終了アラームを作業中の判断ではなく外部の割り込みにする。
-- 過集中が出やすい時間帯を記録し、最重要タスクをそこに置く。止める工夫だけでなく、向け先を先に設計する。
+- **過集中が出やすい時間帯を記録し、最重要タスクをそこに置く。止める工夫だけでなく、向け先を先に設計する。
+- **数字の見える化で過集中を呼び起こす**: 体重・貯金・作業時間など定量化できる対象をグラフ化し、「変化」と「達成」を毎日視覚的に確認する。ADHDの脳は伸びが目に見えると報酬系が反応し、快感を追いかけるだけで過集中へ入りやすくなる。「過集中を意志で起こす」のではなく、視覚フィードバックで誘発する考え方。^[raw/articles/tweet-2080201263778771041-hyperfocus-visual-progress-tracking.md]
 
 ## 研究メモ
 
