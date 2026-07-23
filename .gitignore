@@ -1,0 +1,8 @@
+node_modules/
+public/
+.quartz-cache/
+.obsidian/
+.DS_Store
+
+# resolve-links.py の自動生成物（CI で毎回再生成する）
+content/
