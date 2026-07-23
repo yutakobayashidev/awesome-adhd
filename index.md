@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-23 | Total pages: 34
+> Last updated: 2026-07-23 | Total pages: 36
 
 ## Entities
 
@@ -30,6 +30,7 @@
 - [[executive-function]] — 着手・優先順位づけ・抑制・切り替え・時間管理を支える実行機能と、その外部化の考え方。
 - [[exercise]] — 成人ADHDの実行機能や中核症状に対する運動研究を、非薬物的支援の候補として慎重に整理するページ。
 - [[external-memory]] — 紙・スマホ・タイマー・置き場所・状態表示・自動化・通話相手・AIに記憶や判断を預け、作業記憶の負荷を下げる考え方。
+- [[fear-of-missing-out]] — SNSや通知の見逃し不安を、ADHD支援の有限化・作業復帰・感情調整と接続して整理するページ。
 - [[forgetfulness-countermeasures]] — 玄関ランディングパッド、ドア貼りチェックリスト、透明収納、施錠確認ツール、書類一箇所化、現地常備などの忘れ物対策。
 - [[hyperfocus-control]] — 過集中を自力で止めるのではなく、開始前に終了条件・アラーム・ブロッカー・退室を仕込む方法。
 - [[medication]] — ADHD薬物療法を、個別助言ではなく指針に含まれる開始・維持・監視・中止検討の概念として扱うページ。
@@ -47,3 +48,5 @@
 ## Comparisons
 
 ## Queries
+
+- [[toymaker-openbrief-adhd-design-notes]] — OpenBrief / Toymaker の注意・通知・生活事務支援を、ADHD Wiki の FoMO、作業復帰、外部記憶、ボディダブリングへ接続する設計メモ。

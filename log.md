@@ -271,3 +271,22 @@
   - `index.md`
   - `README.md`
 - Note: several sources are adjacent cognitive/HCI evidence rather than ADHD-specific clinical evidence; they are used for design implications, not treatment advice.
+
+## [2026-07-23] ingest | FOMO and Admin Night keyword research
+- Corrected target from `/var/lib/hermes/wiki` to this awesome-adhd wiki root.
+- Added FoMO research raw sources:
+  - `raw/papers/przybylski-2013-fomo-scale.md`
+  - `raw/papers/elhai-2021-fomo-overview.md`
+  - `raw/papers/fitz-2019-notification-batching-fomo.md`
+  - `raw/papers/montag-2023-fomo-cognitive-failure.md`
+  - `raw/papers/akbari-2021-fomo-internet-use-meta-analysis.md`
+  - `raw/papers/groenestein-2024-fomo-social-media-longitudinal.md`
+- Added Admin Night / body doubling raw sources:
+  - `raw/articles/x-tmiyatake-admin-night-2026.md`
+  - `raw/articles/body-doubling-life-admin-sources-2026.md`
+- Created concept page: `concepts/fear-of-missing-out.md`
+- Updated concept page: `concepts/body-doubling.md`
+- Created query page: `queries/toymaker-openbrief-adhd-design-notes.md`
+- Updated `index.md`.
+- Note: the attached X video was not transcribed; the Admin Night ingest used bird metadata, post text, and keyword-based surrounding sources.
+
