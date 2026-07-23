@@ -4,64 +4,95 @@
     {
       "decision": "accepted",
       "files_changed": [
-        "raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md",
+        "raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
         "concepts/assistive-technology.md",
-        "concepts/executive-function.md",
-        "index.md",
-        "log.md"
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
       ],
-      "id": "arxiv:2601.21791v1",
-      "score": 4,
-      "source_url": "https://arxiv.org/abs/2601.21791v1"
-    },
-    {
-      "decision": "accepted",
-      "files_changed": [
-        "raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md",
-        "concepts/executive-function.md",
-        "concepts/working-memory.md",
-        "log.md"
-      ],
-      "id": "pubmed:42142506",
+      "id": "arxiv:2605.31131v1",
       "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42142506/"
+      "source_url": "https://arxiv.org/abs/2605.31131v1"
     },
     {
       "decision": "accepted",
       "files_changed": [
-        "raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md",
-        "concepts/exercise.md",
-        "concepts/executive-function.md",
-        "index.md",
-        "log.md"
-      ],
-      "id": "pubmed:41638541",
-      "score": 4,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41638541/"
-    },
-    {
-      "decision": "accepted",
-      "files_changed": [
-        "raw/papers/lalwani-2025-productivity-social-robot-college-students.md",
+        "raw/papers/arakawa-2026-calmreminder-parental-engagement.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
         "concepts/assistive-technology.md",
-        "log.md"
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
       ],
-      "id": "arxiv:2512.01111v1",
+      "id": "arxiv:2602.16893v2",
       "score": 3,
-      "source_url": "https://arxiv.org/abs/2512.01111v1"
+      "source_url": "https://arxiv.org/abs/2602.16893v2"
     },
     {
-      "decision": "accepted_raw_only",
+      "decision": "accepted",
       "files_changed": [
-        "raw/papers/zastudil-2025-neurodiversity-computing-education-review.md",
-        "log.md"
+        "raw/papers/gibbs-2026-female-adhd-academia-work.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
       ],
-      "id": "arxiv:2504.13058v1",
-      "score": 2,
-      "source_url": "https://arxiv.org/abs/2504.13058v1"
+      "id": "pubmed:42177761",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42177761/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2302.06376v2",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2302.06376v2"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:38231536",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38231536/"
     }
   ],
-  "last_run_at": "2026-07-22T08:27:24Z",
+  "last_run_at": "2026-07-23T08:03:00Z",
   "processed": [
     {
       "decision": "accepted",
@@ -126,14 +157,114 @@
       "processed_at": "2026-07-22T08:27:24Z",
       "score": 2,
       "source_url": "https://arxiv.org/abs/2504.13058v1"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2605.31131v1",
+      "processed_at": "2026-07-23T08:03:00Z",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2605.31131v1"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/arakawa-2026-calmreminder-parental-engagement.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2602.16893v2",
+      "processed_at": "2026-07-23T08:03:00Z",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2602.16893v2"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/gibbs-2026-female-adhd-academia-work.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42177761",
+      "processed_at": "2026-07-23T08:03:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42177761/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2302.06376v2",
+      "processed_at": "2026-07-23T08:03:00Z",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2302.06376v2"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "concepts/attention-control.md",
+        "concepts/work-routines.md",
+        "concepts/public-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:38231536",
+      "processed_at": "2026-07-23T08:03:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38231536/"
     }
   ],
   "processed_ids": [
+    "arxiv:2302.06376v2",
     "arxiv:2504.13058v1",
     "arxiv:2512.01111v1",
     "arxiv:2601.21791v1",
+    "arxiv:2602.16893v2",
+    "arxiv:2605.31131v1",
+    "pubmed:38231536",
     "pubmed:41638541",
-    "pubmed:42142506"
+    "pubmed:42142506",
+    "pubmed:42177761"
   ],
   "version": 1
 }

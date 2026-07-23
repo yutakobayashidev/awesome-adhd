@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-23 | Total pages: 38
+> Last updated: 2026-07-23 | Total pages: 43
 
 ## Entities
 
@@ -14,6 +14,7 @@
 
 ## Concepts
 
+- [[async-meetings-context-fit]] — 非同期連絡、同期会議、AI支援、作業復帰、通信容量表示を、神経発達症の文脈適合として整理するページ。
 - [[attention-control]] — 成人ADHDの課題無関係刺激への弱さを、環境設計・作業負荷・通知制御と接続して扱うページ。
 - [[curiosity-reward-memory]] — 好奇心、情報価値、報酬系、記憶の研究を、興味駆動の着手・過集中設計の補助線として扱うページ。
 - [[digital-interruptions]] — スマホ通知、メール確認、SNS設計が注意・時間管理・作業再開へ与える割り込みを整理するページ。
@@ -22,6 +23,7 @@
 - [[digital-adhd-support]] — AI、医療機器プログラム、自己管理アプリ、診断補助、親支援、学校・職場配慮を、証拠の強さと生活実装に分けて読む入口。
 - [[body-doubling]] — 他の人が同じ場にいる状態を、作業開始・注意維持・終了確認の外部支えとして使う実践。
 - [[assistive-technology]] — 成人ADHDや高等教育・職場での困りごとに対し、記憶・時間・着手・切り替えを道具や環境へ分散する支援技術の研究・設計メモ。
+- [[careless-mistake-countermeasures]] — ケアレスミスしやすい状況だけを短い確認リストへ外部化し、試験・提出直前の注意負荷を下げる実践。
 - [[cognitive-behavioural-therapy]] — 成人ADHDへの認知行動療法系介入を、短期的な支援候補と証拠の限界に分けて整理するページ。
 - [[cognitive-personal-informatics]] — 認知状態を人格評価にせず、読む・戻る・覚える・始める条件を本人の文脈で記録する支援設計。
 - [[comorbidity]] — ADHDに重なりやすい不安、抑うつ、物質使用、精神健康リスクを生活工夫と専門支援に切り分けて扱う入口。
@@ -34,6 +36,7 @@
 - [[fear-of-missing-out]] — SNSや通知の見逃し不安を、ADHD支援の有限化・作業復帰・感情調整と接続して整理するページ。
 - [[forgetfulness-countermeasures]] — 玄関ランディングパッド、ドア貼りチェックリスト、透明収納、施錠確認ツール、書類一箇所化、現地常備などの忘れ物対策。
 - [[hyperfocus-control]] — 過集中を自力で止めるのではなく、開始前に終了条件・アラーム・ブロッカー・退室を仕込む方法。
+- [[impulsivity-countermeasures]] — セール通知オフ、保存カード削除などで衝動が立ち上がる入口を減らし、我慢より環境側の摩擦で支える実践。
 - [[medication]] — ADHD薬物療法を、個別助言ではなく指針に含まれる開始・維持・監視・中止検討の概念として扱うページ。
 - [[psychotic-like-experiences]] — ADHD症状、反すう、否定的感情との関連を、非臨床サンプルの研究概念として慎重に整理するページ。
 - [[public-support]] — 医療、学校、職場、地域サービスを通じた支援や合理的調整を、制度差に注意して整理する入口。
@@ -50,5 +53,7 @@
 
 ## Queries
 
+- [[openbrief-vs-karpathy-llm-wiki-2026]] — OpenBrief と Karpathy LLM Wiki を、注意遷移支援と知識蓄積様式として切り分ける比較メモ。
+- [[toymaker-neurodivergent-async-meetings-ai-2026]] — 神経発達症における非同期ツール、同期会議、AI支援、文脈不協を Toymaker/OpenBrief 設計へ落とす調査メモ。
 - [[misfiled-adhd-openbrief-migration-audit-2026]] — 誤って一般 Wiki に入った ADHD / OpenBrief / Toymaker 関連情報を awesome-adhd へ移植した監査記録。
 - [[toymaker-openbrief-adhd-design-notes]] — OpenBrief / Toymaker の注意・通知・生活事務支援を、ADHD Wiki の FoMO、作業復帰、外部記憶、ボディダブリングへ接続する設計メモ。

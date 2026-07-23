@@ -308,3 +308,59 @@
 - Created audit query page: `queries/misfiled-adhd-openbrief-migration-audit-2026.md`.
 - Updated `index.md` total pages to 38 after audit page creation.
 
+## [2026-07-23] ingest | X/Twitter ADHDパワー系ソリューション定期検索 4
+- Searches: Japanese ADHD practical-tip queries across `Latest` and `Top`; deduplicated by tweet id. Skipped already-ingested tweets, generic empathy, diagnosis/stigma discourse, vague motivation, unsafe medical-style hacks, and posts without concrete workflow.
+- Created raw sources:
+  - `raw/articles/tweet-2080187975636509069-one-note-single-window-distraction-reduction.md`
+  - `raw/articles/tweet-2080186209872351354-impulse-buying-notification-card-friction.md`
+  - `raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md`
+- Created concept pages:
+  - `concepts/impulsivity-countermeasures.md`
+  - `concepts/careless-mistake-countermeasures.md`
+- Updated concept pages:
+  - `concepts/attention-control.md`
+  - `concepts/environment-design.md`
+  - `concepts/external-memory.md`
+  - `concepts/working-memory.md`
+- Updated navigation:
+  - `index.md`
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; new tweet-based pages use `confidence: low`.
+
+
+## [2026-07-23] ingest | Research-watch curated adult/digital ADHD support batch
+- Reviewed and accepted: 5 machine-readable candidates from `.automation/research-watch/candidates.jsonl`.
+- Created raw sources:
+  - `raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md`
+  - `raw/papers/arakawa-2026-calmreminder-parental-engagement.md`
+  - `raw/papers/gibbs-2026-female-adhd-academia-work.md`
+  - `raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md`
+  - `raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md`
+- Updated concept pages:
+  - `concepts/emotion-regulation.md`
+  - `concepts/digital-adhd-support.md`
+  - `concepts/assistive-technology.md`
+  - `concepts/attention-control.md`
+  - `concepts/work-routines.md`
+  - `concepts/public-support.md`
+  - `concepts/cognitive-behavioural-therapy.md`
+- Updated automation state: `.automation/research-watch/curation-state.json`.
+- Note: sources were treated cautiously; HCI/design studies are not clinical efficacy evidence, and medication/diagnosis advice was not added.
+
+## [2026-07-23] ingest | Neurodivergent async communication, meetings, AI support, and context fit
+- Created concept: `concepts/async-meetings-context-fit.md`.
+- Created query: `queries/toymaker-neurodivergent-async-meetings-ai-2026.md`.
+- Created raw sources:
+  - `raw/papers/das-2021-accessible-remote-work-neurodivergent.md`
+  - `raw/papers/liebel-2023-software-engineers-adhd-meetings.md`
+  - `raw/papers/jameson-2026-sustainable-work-adhd.md`
+  - `raw/papers/oconnor-2025-autistic-asynchronous-focus-group.md`
+  - `raw/papers/deshmukh-2025-neurodivergent-aware-productivity-ai.md`
+  - `raw/articles/welcomebrain-2026-neuroinclusive-meetings.md`
+- Updated: `concepts/digital-adhd-support.md`, `concepts/work-routines.md`, `concepts/task-resumption.md`, `index.md`.
+- Synthesis: async communication helps processing time and written memory; meetings can still help body-doubling, repair, and alignment; the key design target is context fit rather than async-vs-sync absolutism.
+
+## [2026-07-23] query | OpenBrief vs Karpathy LLM Wiki
+- Created raw source: `raw/articles/karpathy-llm-wiki-pattern-2026.md`.
+- Created query: `queries/openbrief-vs-karpathy-llm-wiki-2026.md`.
+- Updated: `queries/toymaker-openbrief-adhd-design-notes.md`, `index.md`, `log.md`.
+- Synthesis: LLM Wiki is a persistent knowledge compiler; OpenBrief is an attention-transition product that finite-izes exploration, protects obligations, and returns the user to prior context. OpenBrief can feed an LLM Wiki, but should not automatically turn every capture into a task or wiki page.

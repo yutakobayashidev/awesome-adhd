@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-23
 type: concept
 tags: [adhd, working-memory, executive-function, tool, accessibility, lived-experience, japanese-context]
-sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md]
+sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md, raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md]
 confidence: low
 ---
 
@@ -30,6 +30,7 @@ confidence: low
 - **人の存在への外部化**: 通話をつないだ状態で片付けや洗濯を始めるなど、[[body-doubling]]を「開始の合図」として使う。記憶だけでなく、始動のきっかけも外へ置く。
 - **予約・相手・終了確認への外部化**: [[focusmate|Focusmate]]は、作業予定を予約枠、相手の存在、最後の進捗確認へ預ける設計として読める。^[raw/articles/focusmate-homepage-2026.md]
 - **AIへの計画外部化**: 長期タスクを自分の頭だけで保持・分解せず、生成AIに週・日・25分単位の案を作らせる。採用判断は本人が行い、診断・治療・人事法務判断には使わない線引きが必要。
+- **ミスの状況リスト**: 試験・答練・提出前に、自分がケアレスミスしやすい状況だけを短いチェックリストへ残す。問題全体の写経ではなく、再発しやすい癖を直前に見る[[careless-mistake-countermeasures]]として使う。
 
 ## 注意点
 
