@@ -290,3 +290,21 @@
 - Updated `index.md`.
 - Note: the attached X video was not transcribed; the Admin Night ingest used bird metadata, post text, and keyword-based surrounding sources.
 
+## [2026-07-23] ingest | Misfiled ADHD/OpenBrief wiki migration audit
+- Audited untracked ADHD/OpenBrief/Toymaker candidates in `/var/lib/hermes/wiki` and migrated remaining relevant material to `/var/lib/hermes/awesome-adhd`.
+- Added raw sources:
+  - `raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md`
+  - `raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md`
+  - `raw/papers/arxiv-neurodiversity-demographics-education-research-2026.md`
+  - `raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md`
+  - `raw/papers/pubmed-adhd-ema-daily-life-adolescents-2026.md`
+  - `raw/articles/github-open-brief-project-docs-2026.md`
+  - `raw/articles/i-have-adhd-agent-output-skill-2026.md`
+  - `raw/articles/tiimo-neurodivergent-planner-2026.md`
+- Created concept page: `concepts/cognitive-personal-informatics.md`.
+- Updated concept/entity/query pages: `concepts/assistive-technology.md`, `concepts/digital-adhd-support.md`, `entities/i-have-adhd.md`, `entities/tiimo.md`, `queries/toymaker-openbrief-adhd-design-notes.md`.
+- Updated `index.md`.
+- Left non-ADHD/general LLM-infrastructure material in `/var/lib/hermes/wiki`.
+- Created audit query page: `queries/misfiled-adhd-openbrief-migration-audit-2026.md`.
+- Updated `index.md` total pages to 38 after audit page creation.
+

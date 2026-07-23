@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-23 | Total pages: 36
+> Last updated: 2026-07-23 | Total pages: 38
 
 ## Entities
 
@@ -23,6 +23,7 @@
 - [[body-doubling]] — 他の人が同じ場にいる状態を、作業開始・注意維持・終了確認の外部支えとして使う実践。
 - [[assistive-technology]] — 成人ADHDや高等教育・職場での困りごとに対し、記憶・時間・着手・切り替えを道具や環境へ分散する支援技術の研究・設計メモ。
 - [[cognitive-behavioural-therapy]] — 成人ADHDへの認知行動療法系介入を、短期的な支援候補と証拠の限界に分けて整理するページ。
+- [[cognitive-personal-informatics]] — 認知状態を人格評価にせず、読む・戻る・覚える・始める条件を本人の文脈で記録する支援設計。
 - [[comorbidity]] — ADHDに重なりやすい不安、抑うつ、物質使用、精神健康リスクを生活工夫と専門支援に切り分けて扱う入口。
 - [[diagnosis-and-management]] — ADHDの診断後説明、環境調整、心理社会的支援、薬物療法、継続見直しを指針ベースで整理するページ。
 - [[emotion-regulation]] — 不安・落ち込み・焦りなどが注意や着手を飲み込まないように扱う働きと支援の研究メモ。
@@ -49,4 +50,5 @@
 
 ## Queries
 
+- [[misfiled-adhd-openbrief-migration-audit-2026]] — 誤って一般 Wiki に入った ADHD / OpenBrief / Toymaker 関連情報を awesome-adhd へ移植した監査記録。
 - [[toymaker-openbrief-adhd-design-notes]] — OpenBrief / Toymaker の注意・通知・生活事務支援を、ADHD Wiki の FoMO、作業復帰、外部記憶、ボディダブリングへ接続する設計メモ。
