@@ -1,5 +1,5 @@
 ---
-title: Toymaker: 受動記憶・ADHD設計・Screenpipe/Rewind調査
+title: "Toymaker: 受動記憶・ADHD設計・Screenpipe/Rewind調査"
 created: 2026-07-23
 updated: 2026-07-23
 type: query
