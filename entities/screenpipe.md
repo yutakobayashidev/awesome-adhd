@@ -28,6 +28,7 @@ Do not store private captures, transcripts, credentials, health information, or 
 
 ## Related
 
+- [[passive-memory-assistants-adhd]]
 - [[external-memory]]
 - [[work-routines]]
 - [[working-memory]]

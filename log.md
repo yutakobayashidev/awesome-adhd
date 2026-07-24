@@ -378,3 +378,10 @@
 - Updated navigation:
   - `index.md` (total pages: 43 → 46)
 - Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; new tweet-based pages use `confidence: low`.
+
+## [2026-07-23] ingest | Deep research report: Screenpipe, Rewind, and ADHD-centered passive-memory design
+- Created raw source: `raw/articles/deep-research-screenpipe-rewind-adhd-design-2026.md`.
+- Created concept: `concepts/passive-memory-assistants-adhd.md`.
+- Created query: `queries/toymaker-passive-memory-adhd-design-2026.md`.
+- Updated: `concepts/assistive-technology.md`, `concepts/external-memory.md`, `concepts/task-resumption.md`, `entities/screenpipe.md`, `index.md`, `log.md`.
+- Synthesis: passive memory tools (Screenpipe, Rewind/Limitless, Recall) are promising ADHD scaffolding but must prioritize resume, time anchoring, externalized next-steps, sensory safety, and privacy-by-design over raw capture breadth. Screenpipe is the best current reference architecture; Rewind's legacy local-first model is informative but it is sunsetting into a cloud-mediated Limitless platform.

@@ -43,9 +43,14 @@ confidence: low
 
 画面・音声の継続記録は、通常のメモより個人情報リスクが大きい。使う場合は、除外するアプリ・画面・URL、保存先、削除方針を先に決める。
 
+## 受動記憶ツールとの接続
+
+[[passive-memory-assistants-adhd]] は、画面キャプチャや音声記録を受動的に蓄積し、後から検索・再構成するツール群を ADHD 支援として評価する。外部記憶としては強力だが、キャプチャ量が増えると検索と整理の負荷が増すため、[[task-resumption]] や [[working-memory]] と組み合わせた設計が必要になる。
+
 ## 関連
 
-- [[forgetfulness-countermeasures]]
+- [[passive-memory-assistants-adhd]]
+- [[working-memory]]
 - [[time-management]]
 - [[task-initiation]]
 - [[i-have-adhd]]

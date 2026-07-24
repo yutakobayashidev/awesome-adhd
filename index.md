@@ -6,7 +6,7 @@ title: Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-23 | Total pages: 46
+> Last updated: 2026-07-23 | Total pages: 48
 
 ## Entities
 
@@ -18,6 +18,7 @@ title: Wiki Index
 
 ## Concepts
 
+- [[passive-memory-assistants-adhd]] — 受動記憶ツール（Screenpipe、Rewind、Recall等）をADHDの作業復帰・時間定位・外部記憶・プライバシー制御の観点から評価するページ。
 - [[async-meetings-context-fit]] — 非同期連絡、同期会議、AI支援、作業復帰、通信容量表示を、神経発達症の文脈適合として整理するページ。
 - [[attention-control]] — 成人ADHDの課題無関係刺激への弱さを、環境設計・作業負荷・通知制御と接続して扱うページ。
 - [[curiosity-reward-memory]] — 好奇心、情報価値、報酬系、記憶の研究を、興味駆動の着手・過集中設計の補助線として扱うページ。
@@ -60,6 +61,7 @@ title: Wiki Index
 
 ## Queries
 
+- [[toymaker-passive-memory-adhd-design-2026]] — 受動記憶ツール（Screenpipe/Rewind等）のADHD設計評価と、Toymakerへの実装優先順位・技術スタック案。
 - [[openbrief-vs-karpathy-llm-wiki-2026]] — OpenBrief と Karpathy LLM Wiki を、注意遷移支援と知識蓄積様式として切り分ける比較メモ。
 - [[toymaker-neurodivergent-async-meetings-ai-2026]] — 神経発達症における非同期ツール、同期会議、AI支援、文脈不協を Toymaker/OpenBrief 設計へ落とす調査メモ。
 - [[misfiled-adhd-openbrief-migration-audit-2026]] — 誤って一般 Wiki に入った ADHD / OpenBrief / Toymaker 関連情報を awesome-adhd へ移植した監査記録。
