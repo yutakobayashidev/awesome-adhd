@@ -364,3 +364,17 @@
 - Created query: `queries/openbrief-vs-karpathy-llm-wiki-2026.md`.
 - Updated: `queries/toymaker-openbrief-adhd-design-notes.md`, `index.md`, `log.md`.
 - Synthesis: LLM Wiki is a persistent knowledge compiler; OpenBrief is an attention-transition product that finite-izes exploration, protects obligations, and returns the user to prior context. OpenBrief can feed an LLM Wiki, but should not automatically turn every capture into a task or wiki page.
+
+## [2026-07-23] ingest | X/Twitter ADHDパワー系ソリューション定期検索 5
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID. Skipped already-ingested tweets, generic empathy, diagnosis/stigma discourse, vague motivation, and posts without concrete workflow.
+- Created raw sources:
+  - `raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md`
+  - `raw/articles/tweet-2080292256523936015-adhd-self-experimentation-method.md`
+  - `raw/articles/tweet-2001281922069340279-41-adhd-parenting-tactics.md`
+- Created concept pages:
+  - `concepts/energy-management.md`
+  - `concepts/self-experimentation.md`
+  - `concepts/parenting.md`
+- Updated navigation:
+  - `index.md` (total pages: 43 → 46)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; new tweet-based pages use `confidence: low`.

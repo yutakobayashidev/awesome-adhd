@@ -6,7 +6,7 @@ title: Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-23 | Total pages: 43
+> Last updated: 2026-07-23 | Total pages: 46
 
 ## Entities
 
@@ -33,6 +33,7 @@ title: Wiki Index
 - [[comorbidity]] — ADHDに重なりやすい不安、抑うつ、物質使用、精神健康リスクを生活工夫と専門支援に切り分けて扱う入口。
 - [[diagnosis-and-management]] — ADHDの診断後説明、環境調整、心理社会的支援、薬物療法、継続見直しを指針ベースで整理するページ。
 - [[emotion-regulation]] — 不安・落ち込み・焦りなどが注意や着手を飲み込まないように扱う働きと支援の研究メモ。
+- [[energy-management]] — ADHDバーンアウト（エネルギー切れ＋うつ状態の波）を、見える化・タイマー制御・休息予定化・最低ライン設定で防ぐ7つの対策。
 - [[environment-design]] — 物理配置・透明収納・制服化・物量削減・位置情報自動化などで、記憶や意志力への依存を減らす考え方。
 - [[executive-function]] — 着手・優先順位づけ・抑制・切り替え・時間管理を支える実行機能と、その外部化の考え方。
 - [[exercise]] — 成人ADHDの実行機能や中核症状に対する運動研究を、非薬物的支援の候補として慎重に整理するページ。
@@ -42,9 +43,11 @@ title: Wiki Index
 - [[hyperfocus-control]] — 過集中を自力で止めるのではなく、開始前に終了条件・アラーム・ブロッカー・退室を仕込む方法。
 - [[impulsivity-countermeasures]] — セール通知オフ、保存カード削除などで衝動が立ち上がる入口を減らし、我慢より環境側の摩擦で支える実践。
 - [[medication]] — ADHD薬物療法を、個別助言ではなく指針に含まれる開始・維持・監視・中止検討の概念として扱うページ。
+- [[parenting]] — ADHDの子育てで親たちが「やってよかった」環境・生活・勉強・声かけの41の工夫とマインドセット。
 - [[psychotic-like-experiences]] — ADHD症状、反すう、否定的感情との関連を、非臨床サンプルの研究概念として慎重に整理するページ。
 - [[public-support]] — 医療、学校、職場、地域サービスを通じた支援や合理的調整を、制度差に注意して整理する入口。
 - [[rumination]] — 否定的な考えを繰り返す反すうを、注意、感情調整、着手困難、併存リスクと接続して整理するページ。
+- [[self-experimentation]] — 「普通」が合わない前提で、対策を仮説として試し、合う／合わないを淡々と観察して自分用に最適化していく人体実験アプローチ。
 - [[sleep]] — ADHD文脈での睡眠に関する環境調整・過集中対策の体験談メモ。
 - [[sluggish-cognitive-tempo]] — ぼんやり、空想、反応の遅さなどをADHDと重なるが同一ではない注意研究概念として扱うページ。
 - [[task-initiation]] — 5秒以内メモ、極短ポモドーロ、通話ボディダブリング、AIによる25分分解などで着手摩擦を下げる方法。
