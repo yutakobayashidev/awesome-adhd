@@ -1,10 +1,10 @@
 ---
 title: 自己実験（人体実験アプローチ）
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [adhd, executive-function, lived-experience, tool, work, home]
-sources: [raw/articles/tweet-2080292256523936015-adhd-self-experimentation-method.md]
+sources: [raw/articles/tweet-2080292256523936015-adhd-self-experimentation-method.md, raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md]
 confidence: low
 ---
 
@@ -21,6 +21,14 @@ ADHDの人は「普通」とされる方法が合わないことが多い。定�
 - 「一般的には～」を一切気にしない。他の人がうまくいっていても、自分に合わなければ捨てる
 - 合う／合わないを観察して決める。続かなかったら「自分の意志が弱い」ではなく「その方法が自分に合わなかった」と捉える
 - 実験そのものがドーパミン（新規性）を生む。次々試すこと自体がADHDの脳に合っている
+
+## 引き算で本当の興味を発見する
+
+ADHDの人は適性の差が激しいため、「向いている分野」だけで戦う必要がある。しかし、雑多なタスクに埋もれていると、自分が本当に何をしたいのか見えなくなる。
+
+そこで有効なのが **「引き算」による自己発見法**：一度タスクを徹底的に減らして「暇」を作り、スマホを一切触らない状態で手持無沙汰にする。すると、それでも自然に考えてしまうこと、やってしまう行動が浮かび上がる。これが本当の興味・適性のサインであり、「向いている分野」の発見につながる。^[raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md]
+
+この手法は「足し算」（もっと頑張る、もっと工夫する）ではなく「引き算」（やめる、減らす）で自分を知る点が特徴的。[[attention-control]]と[[task-initiation]]の両方に接続する。
 
 ## 人体実験の実例
 

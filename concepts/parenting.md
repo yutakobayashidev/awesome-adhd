@@ -1,10 +1,10 @@
 ---
 title: ADHD子育ての工夫
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [adhd, parenting, home, environment-design, external-memory, time-management, executive-function, lived-experience]
-sources: [raw/articles/tweet-2001281922069340279-41-adhd-parenting-tactics.md]
+sources: [raw/articles/tweet-2001281922069340279-41-adhd-parenting-tactics.md, raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md, raw/articles/tweet-2080841443212665173-receipt-print-child-task-management.md]
 confidence: low
 ---
 
@@ -25,6 +25,8 @@ ADHDのある子どもを育てる親たちから集められた「やってよ�
 - 部屋の視覚的ノイズを減らす（断捨離） → [[environment-design]]
 - 物の定位置を写真やテプラで明示する → [[external-memory]]
 - 翌日の準備ボックスを玄関に置く → [[forgetfulness-countermeasures]]
+- **体育着で寝る**: 朝起きられないADHD傾向の子には、前夜に体育着で寝て、起きたらそのまま登校できる状態にしておく。朝の着替え判断を省き、目覚めの悪さに対処する。児童精神科医が提案する実践。^[raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md]
+- **レシート印刷でタスク管理**: スマホのタスクアプリはロック解除と同時に別アプリを見てしまうため、アプリで管理したタスクを朝食時にレシートプリンターで印刷し、筆箱に入れて学校へ持たせる。学校ではスマホ禁止のため紙が使え、手書きメモも可能。印刷音が朝の合図にもなる。^[raw/articles/tweet-2080841443212665173-receipt-print-child-task-management.md]
 - GPSタグの活用（忘れ物・迷子防止） → [[external-memory]]
 - イヤーマフやノイズキャンセリングの活用 → [[attention-control]]
 - 服のタグを切る・肌触りの良い服を選ぶ（感覚過敏対策）

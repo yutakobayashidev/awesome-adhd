@@ -1,10 +1,10 @@
 ---
 title: 環境設計
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [adhd, executive-function, home, work, accessibility, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079760615485448609-ziplock-bag-in-bag.md, raw/articles/tweet-2078379045746848120-pp-sheet-zip-bags.md, raw/articles/tweet-2068357308481261936-clothing-uniform.md, raw/articles/tweet-2070840382343291218-heavy-blanket-sleep-hack.md, raw/articles/tiimo-homepage-2026.md, raw/articles/tweet-1739953040227287247-minimalism-less-stuff.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/tweet-2080060334786887716-housework-automation-no-fold-laundry.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md, raw/articles/tweet-2080187975636509069-one-note-single-window-distraction-reduction.md, raw/articles/tweet-2080186209872351354-impulse-buying-notification-card-friction.md, raw/articles/tweet-2080130992845795353-soap-grater-bath-routine-hack.md]
+sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079760615485448609-ziplock-bag-in-bag.md, raw/articles/tweet-2078379045746848120-pp-sheet-zip-bags.md, raw/articles/tweet-2068357308481261936-clothing-uniform.md, raw/articles/tweet-2070840382343291218-heavy-blanket-sleep-hack.md, raw/articles/tiimo-homepage-2026.md, raw/articles/tweet-1739953040227287247-minimalism-less-stuff.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/tweet-2080060334786887716-housework-automation-no-fold-laundry.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md, raw/articles/tweet-2080187975636509069-one-note-single-window-distraction-reduction.md, raw/articles/tweet-2080186209872351354-impulse-buying-notification-card-friction.md, raw/articles/tweet-2080130992845795353-soap-grater-bath-routine-hack.md, raw/articles/tweet-2080841443212665173-receipt-print-child-task-management.md, raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md, raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md]
 confidence: low
 ---
 
@@ -27,6 +27,9 @@ confidence: low
 - **戻る経路を一手にする**: OneNoteなど作業アプリの窓を増やしすぎず、作業中の画面へワンクリックで戻れる配置にする。注意が逸れた後の復帰コストを下げる[[attention-control]]。
 - **衝動の入口を消す**: セール通知を切る、保存済みカード情報を消すなど、衝動買いの高揚感に触れる前の入口を減らす。[[impulsivity-countermeasures]]と接続する実践。
 - **感覚遊びでルーティンに誘導する**: 入浴を拒否するADHD/ASD児に対して、百均の固形石鹸とおろし金を風呂に用意することで、石鹸を削る感覚遊びを通じて入浴行動を自然に引き出す。行動を「やらせる」のではなく、感覚刺激への興味を利用して環境側から誘導する。^[raw/articles/tweet-2080130992845795353-soap-grater-bath-routine-hack.md]
+- **スマホを迂回する紙のタスク管理**: スマホのタスクアプリはロック解除と同時に別アプリへ流れてしまうため、アプリでタスクを管理しつつ、朝食時にレシートプリンターで印刷して物理的なタスクリストにする。学校などスマホ禁止環境でも使え、印刷音が朝のルーティンの合図にもなる。紙とデジタルのハイブリッド設計。^[raw/articles/tweet-2080841443212665173-receipt-print-child-task-management.md]
+- **前夜に翌日の自分を完成させる**: 朝に判断が必要な服を前夜に着て寝る（体育着で寝る）、持ち物を前夜に準備するなど、朝は「なぞるだけ」の状態にしておく。朝の判断疲れを回避し、起床から出発までの摩擦を最小化する。^[raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md]
+- **仕組みも壊れる前提で直す**: 意志力に頼らず仕組みを作るのがADHDの基本だが、自動化やシステムも最初から完璧には動かない。AI自動化を試みた投稿者は、初回設計が失敗したその日のうちに設計を作り直し、夜間AI生成→AI検品→予約投稿の3段階に落ち着けた。「決意をやめて仕組みにする。仕組みも直しながら」という反復的環境設計の考え方。^[raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md]
 
 ## 設計原則
 

@@ -1,10 +1,10 @@
 ---
 title: エネルギー管理（ADHDバーンアウト対策）
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-24
 type: concept
 tags: [adhd, executive-function, time-management, work, home, lived-experience]
-sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md]
+sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md, raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md]
 confidence: low
 ---
 
@@ -38,6 +38,21 @@ ADHDは他の人以上に睡眠不足や運動不足の影響を強く受けや�
 
 ### 7. 専門家のサポートも選択肢に
 波が大きくてうつ状態まで行くことが繰り返されているなら、ADHD専門医や心療内科でエネルギーマネジメントの相談をする。薬物療法（刺激薬など）で波自体が緩和されるケースもある。→ [[medication]], [[public-support]]
+
+## 脳疲労への物理的対策（栄養・遮断アプローチ）
+
+ADHDの脳疲労が深刻でHPゼロ状態に陥っている場合、以下の物理的対策が提案されている。^[raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md]
+
+- **睡眠7時間の死守**: 睡眠不足はADHD症状を悪化させる中核要因。→ [[sleep]]
+- **起床即プロテイン**: 朝一番のタンパク質摂取でドーパミンの材料を確保する。
+- **低糖質で血糖値スパイク防止**: 血糖値の急上昇・急降下は眠気・イライラを引き起こし、ADHDの実行機能をさらに損なう。
+- **ノイキャン常時装着**: 聴覚刺激を遮断し、脳の処理負荷（メモリ消費）を守る。→ [[environment-design]]
+- **予定は全てスマホに外注**: 脳を信用せず、記憶・予定管理を外部へ委譲。→ [[external-memory]]
+- **タイマーで5分だけ着手**: 「やる気」を待たず、時間制限で行動を起動。→ [[task-initiation]]
+- **風呂・サウナで強制デジタルデトックス**: 物理的にデバイスから離れ、脳を強制リセット。
+- **鉄・亜鉛・Mgで神経伝達物質サポート**: ミネラル不足がADHD症状を悪化させる可能性への注意。
+
+これらの対策は「根性」ではなく「物理（栄養・遮断）」で脳機能を整える発想。サプリメントや食事は補助的な位置づけであり、治療の代替ではない。
 
 ## 関連ページ
 

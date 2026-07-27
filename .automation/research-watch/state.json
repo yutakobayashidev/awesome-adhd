@@ -1,9 +1,11 @@
 {
   "created_at": "2026-07-22T00:00:00Z",
-  "last_run_at": "2026-07-23T07:01:19Z",
+  "last_run_at": "2026-07-27T07:01:24Z",
   "seen_ids": [
     "arxiv:2005.09993v1",
     "arxiv:2302.06376v2",
+    "arxiv:2410.15527v1",
+    "arxiv:2410.18876v1",
     "arxiv:2503.09079v1",
     "arxiv:2504.13058v1",
     "arxiv:2506.00142v1",
@@ -66,11 +68,14 @@
     "pubmed:42288756",
     "pubmed:42299226",
     "pubmed:42312718",
-    "pubmed:42433964"
+    "pubmed:42433964",
+    "pubmed:42499140",
+    "pubmed:42500318",
+    "pubmed:42500785"
   ],
   "stats": {
-    "candidates_written": 65,
-    "runs": 4
+    "candidates_written": 70,
+    "runs": 8
   },
   "version": 1
 }

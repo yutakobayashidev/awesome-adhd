@@ -4,95 +4,67 @@
     {
       "decision": "accepted",
       "files_changed": [
-        "raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md",
-        "concepts/emotion-regulation.md",
+        "raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md",
+        "concepts/executive-function.md",
+        "concepts/medication.md",
         "concepts/digital-adhd-support.md",
-        "concepts/assistive-technology.md",
-        "concepts/attention-control.md",
-        "concepts/work-routines.md",
-        "concepts/public-support.md",
         "concepts/cognitive-behavioural-therapy.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
       ],
-      "id": "arxiv:2605.31131v1",
+      "id": "pubmed:38178649",
       "score": 3,
-      "source_url": "https://arxiv.org/abs/2605.31131v1"
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38178649/"
     },
     {
       "decision": "accepted",
       "files_changed": [
-        "raw/papers/arakawa-2026-calmreminder-parental-engagement.md",
-        "concepts/emotion-regulation.md",
-        "concepts/digital-adhd-support.md",
-        "concepts/assistive-technology.md",
-        "concepts/attention-control.md",
-        "concepts/work-routines.md",
-        "concepts/public-support.md",
-        "concepts/cognitive-behavioural-therapy.md",
+        "raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md",
+        "concepts/medication.md",
+        "concepts/diagnosis-and-management.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
       ],
-      "id": "arxiv:2602.16893v2",
+      "id": "pubmed:42500318",
       "score": 3,
-      "source_url": "https://arxiv.org/abs/2602.16893v2"
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42500318/"
     },
     {
       "decision": "accepted",
       "files_changed": [
-        "raw/papers/gibbs-2026-female-adhd-academia-work.md",
-        "concepts/emotion-regulation.md",
-        "concepts/digital-adhd-support.md",
-        "concepts/assistive-technology.md",
-        "concepts/attention-control.md",
-        "concepts/work-routines.md",
-        "concepts/public-support.md",
-        "concepts/cognitive-behavioural-therapy.md",
+        "raw/papers/iwanami-2026-guanfacine-adult-adhd-japan-pms.md",
+        "concepts/medication.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
       ],
-      "id": "pubmed:42177761",
+      "id": "pubmed:42159952",
       "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42177761/"
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42159952/"
     },
     {
-      "decision": "accepted",
+      "decision": "accepted_raw_only",
       "files_changed": [
-        "raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md",
-        "concepts/emotion-regulation.md",
-        "concepts/digital-adhd-support.md",
-        "concepts/assistive-technology.md",
-        "concepts/attention-control.md",
-        "concepts/work-routines.md",
-        "concepts/public-support.md",
-        "concepts/cognitive-behavioural-therapy.md",
+        "raw/papers/fuengfoo-2026-parent-training-preschool-adhd-thailand-rct.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
       ],
-      "id": "arxiv:2302.06376v2",
-      "score": 3,
-      "source_url": "https://arxiv.org/abs/2302.06376v2"
+      "id": "pubmed:42433964",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42433964/"
     },
     {
-      "decision": "accepted",
+      "decision": "accepted_raw_only",
       "files_changed": [
-        "raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md",
-        "concepts/emotion-regulation.md",
-        "concepts/digital-adhd-support.md",
-        "concepts/assistive-technology.md",
-        "concepts/attention-control.md",
-        "concepts/work-routines.md",
-        "concepts/public-support.md",
-        "concepts/cognitive-behavioural-therapy.md",
+        "raw/papers/winter-2026-screen-time-adhd-children-adolescents-narrative-review.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
       ],
-      "id": "pubmed:38231536",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38231536/"
+      "id": "pubmed:41237171",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41237171/"
     }
   ],
-  "last_run_at": "2026-07-23T08:03:00Z",
+  "last_run_at": "2026-07-27T07:01:24Z",
   "processed": [
     {
       "decision": "accepted",
@@ -252,6 +224,73 @@
       "processed_at": "2026-07-23T08:03:00Z",
       "score": 3,
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/38231536/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md",
+        "concepts/executive-function.md",
+        "concepts/medication.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:38178649",
+      "processed_at": "2026-07-27T07:01:24Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38178649/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md",
+        "concepts/medication.md",
+        "concepts/diagnosis-and-management.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42500318",
+      "processed_at": "2026-07-27T07:01:24Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42500318/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/iwanami-2026-guanfacine-adult-adhd-japan-pms.md",
+        "concepts/medication.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42159952",
+      "processed_at": "2026-07-27T07:01:24Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42159952/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/fuengfoo-2026-parent-training-preschool-adhd-thailand-rct.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42433964",
+      "processed_at": "2026-07-27T07:01:24Z",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42433964/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/winter-2026-screen-time-adhd-children-adolescents-narrative-review.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41237171",
+      "processed_at": "2026-07-27T07:01:24Z",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41237171/"
     }
   ],
   "processed_ids": [
@@ -261,10 +300,15 @@
     "arxiv:2601.21791v1",
     "arxiv:2602.16893v2",
     "arxiv:2605.31131v1",
+    "pubmed:38178649",
     "pubmed:38231536",
+    "pubmed:41237171",
     "pubmed:41638541",
     "pubmed:42142506",
-    "pubmed:42177761"
+    "pubmed:42159952",
+    "pubmed:42177761",
+    "pubmed:42433964",
+    "pubmed:42500318"
   ],
   "version": 1
 }

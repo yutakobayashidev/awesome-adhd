@@ -1,10 +1,10 @@
 ---
 title: 注意制御と妨害刺激
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [adhd, attention, executive-function, research]
-sources: [raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md, raw/articles/tweet-2080187975636509069-one-note-single-window-distraction-reduction.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md]
+sources: [raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md, raw/articles/tweet-2080187975636509069-one-note-single-window-distraction-reduction.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/tweet-2081356392972038227-interruption-tally-three-workplace-tactics.md, raw/articles/tweet-2081363947450712183-boring-to-interesting-conversion-tactic.md]
 confidence: medium
 ---
 
@@ -23,6 +23,8 @@ Kasatskiiらは、IDE上のプログラミング課題で知覚負荷（視覚�
 - [[task-initiation]]では、最初の一手を明確にして無関係刺激へ流れる余地を減らす。
 - 作業アプリや文書を複数窓に分散させると、戻るための判断が増える場合がある。OneNoteを1窓にし、作業中の窓へいつでもワンクリックで戻れる状態にした投稿は、「戻り道を短くする」注意制御として保存する。^[raw/articles/tweet-2080187975636509069-one-note-single-window-distraction-reduction.md]
 - 「気になった物は全部しまう」のように、視界に入る未処理物を減らすことは、注意を奪われてから戻すより先に妨害刺激を減らす[[environment-design]]として扱える。
+- **中断の定量化**: 1日に何回作業を中断されたかを正の字で数えることで、「集中力がない」という自己責めを「環境の問題」に置き換えられる。投稿者の実測では1日平均47回の中断があり、実働2時間未満だった。紙とペンだけで始められ、診断やカミングアウトも不要。^[raw/articles/tweet-2081356392972038227-interruption-tally-three-workplace-tactics.md]
+- **退屈を面白さに変換する**: ADHDの脳は退屈で注意の燃料が切れるため、勉強や作業を「好きなジャンルから入る」「クイズ形式で自分に出題する」などで面白くし、興味駆動で注意を持続させる。歯を食いしばる根性ではなく、退屈を消す工夫で注意を引き出す。^[raw/articles/tweet-2081363947450712183-boring-to-interesting-conversion-tactic.md]
 
 ## 関連
 

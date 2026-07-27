@@ -2,9 +2,9 @@
 title: 支援技術
 type: concept
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [adhd, tool, accessibility, executive-function, research]
-sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/papers/lalwani-2025-productivity-social-robot-college-students.md, raw/articles/i-have-adhd-github-2026.md, raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md, raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/arakawa-2026-calmreminder-parental-engagement.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md]
+sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/papers/lalwani-2025-productivity-social-robot-college-students.md, raw/articles/i-have-adhd-github-2026.md, raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md, raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/arakawa-2026-calmreminder-parental-engagement.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/deep-research-report-stt-neurodiversity-2026.md]
 confidence: medium
 ---
 
@@ -39,6 +39,12 @@ LalwaniとSalamの生産性支援ロボット研究は、ADHDのある学生を�
 - エージェントや開発道具では、出力そのものを支援技術として設計できる。短さだけでなく、次の行動、現在地、完了したことが見えるかが重要になる。
 - 支援技術はプライバシー・監視・依存・通知疲れのリスクも持つ。特にセンサー、録音、画面記録、AI要約を使う道具では、最小限の記録、ローカル処理、削除しやすさを確認したい。
 
+## 音声認識（STT）と神経多様性支援
+
+[[speech-to-text-neurodiversity-support|STTと神経多様性支援]] は、音声認識を ADHD・ディスレクシア・自閉スペクトラムの学習・仕事支援に使う際の設計指針を扱う。ASR の最高精度を競うより、**低信頼語のハイライト、再編集可能性、要約前の人間確認**といった confidence-aware UI が、神経多様性のある利用者の認知負荷を下げる鍵になる。録音＋検索可能な transcript は ADHD 学生の自己ペース学習や聞き逃し補完に有効だが、誤った字幕や同期ずれはむしろ負荷を増やす。^[raw/articles/deep-research-report-stt-neurodiversity-2026.md]
+
+[[genio-notes|Genio Notes]] は、高等教育の障害学生支援向けに設計された録音・文字起こし・ノート化ツールで、「講義中は内容理解に集中し、後から transcript と同期再生で補強する」という、同時処理負荷の低減パターンを実装している。
+
 ## 注意点
 
 このページは技術設計と研究動向の整理であり、医療上の助言ではない。製品ページや設計研究は、有効性の証拠と分けて読む。
@@ -49,6 +55,8 @@ LalwaniとSalamの生産性支援ロボット研究は、ADHDのある学生を�
 
 ## 関連
 
+- [[speech-to-text-neurodiversity-support]]
+- [[genio-notes]]
 - [[passive-memory-assistants-adhd]]
 - [[screenpipe]]
 - [[executive-function]]

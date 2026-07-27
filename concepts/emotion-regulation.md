@@ -1,10 +1,10 @@
 ---
 title: 感情調整
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-07-24
 type: concept
 tags: [adhd, emotion-regulation, anxiety, depression, executive-function]
-sources: [raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md]
+sources: [raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md, raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md]
 confidence: medium
 ---
 
@@ -31,6 +31,10 @@ Nordbyら（2024）は、成人ADHDと感情調整困難のある16人を対象�
 - **紙に書いて返却する**: 一日の終わりに「今日拾った感情」を紙に書き出し、「返却する」という儀式で心理的境界を再設定する。全員を救おうとせず、まず自分の感情の席を自分に返す。
 
 これらの工夫は「意志で感情を制御する」ではなく、「仕組みと行動で境界を作る」パワー系アプローチ。^[raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md]
+
+## 白黒思考（0か100か）との接続
+
+[[all-or-nothing-thinking|白黒思考]]は、不安や実行機能の負荷が背景にある「安心を得るための脳の工夫」であり、感情調整の困難と深く結びつく。「絶対ダメだ」「全部失敗だ」といった極端な認知は、感情の振れ幅を大きくし、[[task-initiation|着手]]や[[executive-function|切り替え]]をさらに難しくする。詳しくは → [[all-or-nothing-thinking]]
 
 ## 関連
 

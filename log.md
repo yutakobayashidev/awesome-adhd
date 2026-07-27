@@ -385,3 +385,72 @@
 - Created query: `queries/toymaker-passive-memory-adhd-design-2026.md`.
 - Updated: `concepts/assistive-technology.md`, `concepts/external-memory.md`, `concepts/task-resumption.md`, `entities/screenpipe.md`, `index.md`, `log.md`.
 - Synthesis: passive memory tools (Screenpipe, Rewind/Limitless, Recall) are promising ADHD scaffolding but must prioritize resume, time anchoring, externalized next-steps, sensory safety, and privacy-by-design over raw capture breadth. Screenpipe is the best current reference architecture; Rewind's legacy local-first model is informative but it is sunsetting into a cloud-mediated Limitless platform.
+
+## [2026-07-27] ingest | X/Twitter ADHDパワー系ソリューション定期検索 7
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID. Skipped already-ingested tweets, generic empathy, diagnosis/stigma discourse, vague motivation, and medical claims without concrete workflow.
+- Created raw sources:
+  - `raw/articles/tweet-2080841443212665173-receipt-print-child-task-management.md`
+  - `raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md`
+  - `raw/articles/tweet-2081356392972038227-interruption-tally-three-workplace-tactics.md`
+  - `raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md`
+  - `raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md`
+  - `raw/articles/tweet-2081363947450712183-boring-to-interesting-conversion-tactic.md`
+- Updated concept pages:
+  - `concepts/parenting.md` (receipt task management, sleep in PE uniform)
+  - `concepts/task-initiation.md` (boredom→interest conversion, subtraction method, PE uniform)
+  - `concepts/work-routines.md` (interruption tally + 3 workplace tactics, AI automation iterative fixing)
+  - `concepts/attention-control.md` (interruption quantification, boredom→interest)
+  - `concepts/self-experimentation.md` (subtraction method for discovering true interests)
+  - `concepts/environment-design.md` (paper task management, night-before prep, systems breaking & fixing)
+- Updated navigation:
+  - `index.md` (last updated date)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`.
+
+## [2026-07-24] ingest | X/Twitter ADHDパワー系ソリューション定期検索 6
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords focused on パワー系/物理/仕組み化/タイマー etc). Deduplicated by tweet ID. Skipped 37 already-ingested tweets, generic empathy, diagnosis discourse without tactics, and English-only content.
+- Created raw sources:
+  - `raw/articles/tweet-2080128266187190604-deadline-declaration-tactic.md`
+  - `raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md`
+  - `raw/articles/tweet-2080308025915785565-overdeposit-auto-payment.md`
+  - `raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md`
+  - `raw/articles/tweet-1971854125399978149-asd-adhd-structuring-comparison.md`
+  - `raw/articles/tweet-2003712226386227420-adhd-happiness-tier.md`
+  - `raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md`
+- Created concept pages:
+  - `concepts/relationships.md`
+  - `concepts/all-or-nothing-thinking.md`
+- Created comparison page:
+  - `comparisons/asd-adhd-structuring.md`
+- Updated concept pages:
+  - `concepts/time-management.md` (deadline-declaration tactic)
+  - `concepts/forgetfulness-countermeasures.md` (financial over-deposit tactic)
+  - `concepts/energy-management.md` (brain fatigue physical countermeasures section)
+  - `concepts/emotion-regulation.md` (white-black thinking link)
+- Updated navigation:
+  - `index.md` (total pages: 48 → 51)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence. Happiness-tier tweet was ingested as raw source for cross-referencing but did not generate a standalone page (techniques already covered across existing concepts).
+
+## [2026-07-27] ingest | Research-watch curated candidate curation (batch 3)
+
+- Reviewed 5 unprocessed candidates from `.automation/research-watch/candidates.jsonl`.
+- Accepted 3 for raw + page update (score 3) and 2 for raw-only (score 2).
+
+### Accepted (score 3): raw + wiki page update
+- `pubmed:38178649` — Wilens et al. (2024), "Treating Executive Function in Youth With ADHD: A Review of Pharmacological and Non-Pharmacological Interventions" (systematic review, 136 RCTs, 11,443 participants)
+  - Raw source: `raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md`
+  - Updated: `concepts/executive-function.md`, `concepts/medication.md`, `concepts/digital-adhd-support.md`, `concepts/cognitive-behavioural-therapy.md`
+- `pubmed:42500318` — Popit et al. (2026), "Prevalence of pharmacologically treated ADHD: systematic review and meta-analysis" (systematic review + meta-analysis, 13 studies)
+  - Raw source: `raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md`
+  - Updated: `concepts/medication.md`, `concepts/diagnosis-and-management.md`
+- `pubmed:42159952` — Iwanami et al. (2026), "Safety and Effectiveness of Guanfacine Hydrochloride Extended-Release in Adult Patients with ADHD in Japan: A Post-Marketing Surveillance Study" (PMS, 961 patients, 155 Japanese sites)
+  - Raw source: `raw/papers/iwanami-2026-guanfacine-adult-adhd-japan-pms.md`
+  - Updated: `concepts/medication.md`
+
+### Accepted (score 2): raw-only
+- `pubmed:42433964` — Fuengfoo et al. (2026), "Parent training for preschool ADHD risk" (RCT, Thailand)
+  - Raw source: `raw/papers/fuengfoo-2026-parent-training-preschool-adhd-thailand-rct.md`
+- `pubmed:41237171` — Winter & O'Neill (2026), "Screen time impact on ADHD symptoms" (narrative review, children/adolescents)
+  - Raw source: `raw/papers/winter-2026-screen-time-adhd-children-adolescents-narrative-review.md`
+
+- Updated: `index.md` (date bump), `log.md`, `.automation/research-watch/curation-state.json`.
+- Note: all drug/medication references are source-bound summaries, not prescribing or treatment advice. Wilens review is youth-focused; adult generalisation should be cautious. Iwanami PMS is industry-funded post-marketing surveillance, not an RCT. Japanese context added to medication page.

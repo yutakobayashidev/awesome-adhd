@@ -1,10 +1,10 @@
 ---
 title: 診断と管理
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [adhd, diagnosis, guideline, medication, therapy, public-support]
-sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nice-ng87-appendices-2008.md]
+sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nice-ng87-appendices-2008.md, raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md]
 confidence: high
 ---
 
@@ -22,6 +22,9 @@ NICEは、診断後に本人や家族・支援者と構造化された話し合�
 - **環境調整**: 学校・職場・家庭で、[[executive-function]]や[[time-management]]への負荷を下げる。
 - **心理社会的支援**: 成人では[[cognitive-behavioural-therapy]]のような支援が、薬物療法とは別の補助になり得る。
 - **薬物療法**: NICEは薬物療法の開始、維持、監視、中止検討を分けて扱う。ここでは個別薬の推奨は行わない。
+
+  薬物療法の普及率について、系統的レビュー・メタ分析（Popitら, 2026）は、ADHD診断を受けた人の統合有病率を73.4%と推定しているが、研究間の異質性が非常に高く、年齢・国・性別による系統的な差は検出されなかった。この数字は地域・制度によって大きく変わりうることに注意。^[raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md]
+
 - **継続的な見直し**: 効果、副作用、服薬継続、生活環境の変化を定期的に確認する。
 
 ## 注意点

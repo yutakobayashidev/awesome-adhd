@@ -1,10 +1,10 @@
 ---
 title: 認知行動療法
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [adhd, therapy, research, executive-function, anxiety, depression]
-sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md]
+sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md]
 confidence: medium
 ---
 

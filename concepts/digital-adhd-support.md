@@ -1,10 +1,10 @@
 ---
 title: ADHD向けデジタル支援
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [adhd, tool, research, therapy, diagnosis, medication, school, work, accessibility, policy]
-sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/focusmate-homepage-2026.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/pubmed-adhd-ema-daily-life-adolescents-2026.md, raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/arakawa-2026-calmreminder-parental-engagement.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md]
+sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/focusmate-homepage-2026.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/pubmed-adhd-ema-daily-life-adolescents-2026.md, raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/arakawa-2026-calmreminder-parental-engagement.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md]
 confidence: medium
 ---
 
@@ -42,6 +42,8 @@ CalmReminderは、子どもの落ち着いた状態を腕時計センシング�
 
 ## 関連
 
+- [[speech-to-text-neurodiversity-support]]
+- [[genio-notes]]
 - [[async-meetings-context-fit]]
 - [[assistive-technology]]
 - [[cognitive-personal-informatics]]
