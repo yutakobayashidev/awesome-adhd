@@ -454,3 +454,66 @@
 
 - Updated: `index.md` (date bump), `log.md`, `.automation/research-watch/curation-state.json`.
 - Note: all drug/medication references are source-bound summaries, not prescribing or treatment advice. Wilens review is youth-focused; adult generalisation should be cautious. Iwanami PMS is industry-funded post-marketing surveillance, not an RCT. Japanese context added to medication page.
+
+## [2026-07-27] ingest | X/Twitter ADHDパワー系ソリューション定期検索 8
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID. Skipped already-ingested tweets, generic empathy, diagnosis/stigma discourse, vague motivation, medical claims without concrete workflow, and non-actionable content.
+- Created raw sources:
+  - `raw/articles/tweet-2081682049648439480-willpower-to-systems-three-tactics.md`
+  - `raw/articles/tweet-2081688580913545612-time-visualization-predict-record.md`
+  - `raw/articles/tweet-2081695224825626992-mental-accounting-auto-save.md`
+  - `raw/articles/tweet-2081575303542104352-short-time-disability-employment.md`
+  - `raw/articles/tweet-2081700413070512286-external-memory-justification.md`
+  - `raw/articles/tweet-2081670676457591068-five-forgetfulness-systems.md`
+  - `raw/articles/tweet-2081302504999207021-self-commentary-task-initiation.md`
+- Updated concept pages:
+  - `concepts/impulsivity-countermeasures.md` (24hr rule, credit limit, auto-save)
+  - `concepts/time-management.md` (predict-record time estimation training)
+  - `concepts/work-routines.md` (short-time disability employment, forced reset)
+  - `concepts/task-initiation.md` (self-commentary technique)
+  - `concepts/external-memory.md` (外付けメモリ framing, 5-point system)
+  - `concepts/forgetfulness-countermeasures.md` (定時確認ルーティン)
+  - `concepts/hyperfocus-control.md` (forced reset technique)
+  - `concepts/environment-design.md` (financial environment design)
+  - `concepts/working-memory.md` (外付けメモリ framing)
+- Updated navigation:
+  - `index.md` date bump (total pages unchanged at 51)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`.
+
+## [2026-07-27] ingest | X/Twitter ADHDパワー系ソリューション定期検索 9
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID. Skipped already-ingested tweets, generic empathy, diagnosis/stigma discourse, vague motivation, medical claims without concrete workflow, and non-actionable content.
+- Created raw sources:
+  - `raw/articles/tweet-2081752543818821682-eight-adhd-tricks.md` (8 tactics batch: 5秒ルール, 2分だけやる, ボディダブリング, 見える化作戦, 3段階アラーム, 靴を履く, 完璧禁止, スマホ隔離)
+  - `raw/articles/tweet-2081731399271461102-gps-schedule-forced-systems.md` (GPS on keys/wallet + hourly schedule checks)
+  - `raw/articles/tweet-2081718500041900538-hyperfocus-dont-stop-timer.md` (don't stop hyperfocus when flowing)
+  - `raw/articles/tweet-2081726188532477959-low-gi-diet-brain-fog.md` (low-GI diet + reduced portions for post-meal brain fog)
+  - `raw/articles/tweet-2081760716277899506-shopping-impulse-investment.md` (redirect shopping impulse to investment trusts)
+  - `raw/articles/tweet-2081740061046088085-otonotone-brown-noise-app.md` (おとのもり brown noise app for ADHD)
+  - `raw/articles/tweet-2081662616582361210-dopamine-addiction-systems.md` (building systems to quit addictive dopamine behaviors)
+- Updated concept pages:
+  - `concepts/hyperfocus-control.md` (don't stop timer when hyperfocus is flowing)
+  - `concepts/forgetfulness-countermeasures.md` (GPS tag on keys/wallet)
+  - `concepts/time-management.md` (hourly schedule check routine)
+  - `concepts/energy-management.md` (low-GI diet for brain fog)
+  - `concepts/impulsivity-countermeasures.md` (shopping→investment redirection, addiction systems)
+  - `concepts/task-initiation.md` (shoes indoors for work mode switch)
+- Updated navigation:
+  - `index.md` date bump (total pages unchanged at 51)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`.
+
+## [2026-07-28] ingest | X/Twitter ADHDパワー系ソリューション定期検索 10
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID. Skipped already-ingested tweets, generic empathy, diagnosis discourse without tactics, English-only content, and vague motivation posts.
+- Created raw sources:
+  - `raw/articles/tweet-2081895802356851193-hyperfocus-punctuate-water.md` (45分タイマー＋水一口で過集中を「区切る」戦略)
+  - `raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md` (AI専属タスク消化コーチプロンプト全文＋設計思想＋5原則)
+  - `raw/articles/tweet-2081875013561708615-rsd-seven-symptoms-five-countermeasures.md` (RSD 7現象＋5対策)
+  - `raw/articles/tweet-2081888402581176448-self-distrust-procrastination-alert.md` (「自分はやらない人間」と信頼して後回しセンサーを育てる)
+- Updated concept pages:
+  - `concepts/hyperfocus-control.md` (「区切る」戦略追記)
+  - `concepts/task-initiation.md` (AI専属コーチで毎日報告＋褒めで着手回す)
+  - `concepts/body-doubling.md` (AIを24時間のボディダブルとして使う新節)
+  - `concepts/emotion-regulation.md` (RSD対策5選の新節)
+  - `concepts/relationships.md` (RSD対策セクションへのクロスリンク追記)
+  - `concepts/work-routines.md` (後回しセンサー戦略＋AIコーチ毎日ルーティン)
+- Updated navigation:
+  - `index.md` date bump (total pages unchanged at 51)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`. The AI coach prompt (tweet 2081891109413007381) is the richest single find this run — a complete, copy-paste-able Japanese prompt for task accountability + pattern discovery.

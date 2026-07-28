@@ -1,10 +1,10 @@
 ---
 title: 忘れ物・失くし物の対策
 created: 2026-07-22
-updated: 2026-07-24
+updated: 2026-07-27
 type: concept
 tags: [adhd, working-memory, executive-function, home, tool, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079760615485448609-ziplock-bag-in-bag.md, raw/articles/tweet-2078379045746848120-pp-sheet-zip-bags.md, raw/articles/tweet-2068357308481261936-clothing-uniform.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-2039229335836696862-forgetfulness-company-locker-fixed-bag.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080308025915785565-overdeposit-auto-payment.md]
+sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079760615485448609-ziplock-bag-in-bag.md, raw/articles/tweet-2078379045746848120-pp-sheet-zip-bags.md, raw/articles/tweet-2068357308481261936-clothing-uniform.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-2039229335836696862-forgetfulness-company-locker-fixed-bag.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080308025915785565-overdeposit-auto-payment.md, raw/articles/tweet-2081670676457591068-five-forgetfulness-systems.md, raw/articles/tweet-2081731399271461102-gps-schedule-forced-systems.md]
 confidence: low
 ---
 
@@ -24,6 +24,8 @@ X/Twitter由来の当事者・支援系投稿では、忘れ物対策は「思�
 - **重要書類の一箇所化**: 細かく分類せず、「大事そうな書類は全部ここ」にする。探索範囲を一箇所に限定し、見つからない時のパニックを減らす。
 - **忘れ物を起こせない配置**: 会社や学校で使う備品は現地ロッカーへ常備する。持ち帰り必須の物はカバンから出さない。家でも使う物は可能なら2セット化し、固定カバンを玄関前に置く。気をつけるのではなく、忘れる余地を減らす発想。
 - **引き落とし口座に多め入金（金融忘れ対策）**: 毎月の返済額や引き落とし日を正確に覚えていなくても、勘で多めに入金しておけば、引き落とし不能による事故や延滞を防げる。少額でも「塵みたいな貯金」が残る副次的効果もある。記憶に頼らず、バッファ（余裕幅）で吸収するパワー系ソリューション。^[raw/articles/tweet-2080308025915785565-overdeposit-auto-payment.md]
+- **朝・昼・夜の定時確認ルーティン**: 一日の決まったタイミングでメモやリマインダーを確認する習慣を作る。ADHDは「記憶力が低い」のではなく、注意が別のことに移って思い出せなくなる特性があるため、定時確認で思い出しのトリガーを外部化する。^[raw/articles/tweet-2081670676457591068-five-forgetfulness-systems.md]
+- **鍵・財布にGPSタグで強制アラート**: 鍵や財布など毎回失くす物にはGPSタグ（Tile、AirTag、Mili等）を付け、スマホからアラートを鳴らせるようにする。さらにスマホを忘れた時のために、スマホとGPSタグの双方向探索を設定しておく。記憶や注意力で探すのではなく、強制的に位置を知らせる仕組みで紛失時間を激減させる。^[raw/articles/tweet-2081731399271461102-gps-schedule-forced-systems.md]
 
 ## 注意点
 

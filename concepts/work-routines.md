@@ -1,10 +1,10 @@
 ---
 title: 仕事のルーティン
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-07-28
 type: concept
 tags: [adhd, work, executive-function, time-management, tool, lived-experience, japanese-context]
-sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080257873259716882-seven-failures-eighth-system.md, raw/articles/tweet-2080259380080161006-dont-be-careful-build-systems.md, raw/papers/gibbs-2026-female-adhd-academia-work.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/tweet-2081356392972038227-interruption-tally-three-workplace-tactics.md, raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md]
+sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080257873259716882-seven-failures-eighth-system.md, raw/articles/tweet-2080259380080161006-dont-be-careful-build-systems.md, raw/papers/gibbs-2026-female-adhd-academia-work.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/tweet-2081356392972038227-interruption-tally-three-workplace-tactics.md, raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md, raw/articles/tweet-2081575303542104352-short-time-disability-employment.md, raw/articles/tweet-2081888402581176448-self-distrust-procrastination-alert.md, raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md]
 confidence: low
 ---
 
@@ -29,6 +29,11 @@ confidence: low
   - **派生策① 90分の集中枠を会議扱いで予定表に入れる**: 「集中する時間」ではなく、会議と同じ扱いでカレンダーをブロックする。空き時間は他人の時間、埋めた時間だけが自分の時間になる。
   - **派生策② 成果ではなく実働時間で報告する**: 「終わりませんでした」ではなく「実働2時間でした」と言う。責められる会話が相談される会話に変わる。
 - **自動化も一発では決まらない──作って、壊して、その日のうちに作り直す**: 意志力に頼らず仕組みで回すのがADHDの基本だが、自動化そのものが最初から完璧に動くわけではない。AIを使ったX投稿の自動化を試みた投稿者は、初回設計が失敗したその日のうちに設計を作り直し、夜間にAIが原稿生成・別AIが検品・予約投稿に積む3段階の仕組みに落ち着けた。決意をやめて仕組みにし、仕組みも直しながら運用する。^[raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md]
+- **短時間集中×障害者雇用の組み合わせ**: 週40時間勤務で体調不良と短期離職を繰り返していたAuDHD当事者が、障害者雇用の短時間勤務に切り替え、集中が入る2〜3時間だけ全力を出し、それ以外は流す戦略に転換。体調不良時の対応を事前に相談・合意し、疲れたら過集中を強制リセットする習慣を組み合わせた結果、ミスが激減し、運動や自分の時間を確保できるようになった。長時間耐えるより短時間集中の方が結果的に生産性が上がる。^[raw/articles/tweet-2081575303542104352-short-time-disability-employment.md]
+
+- **「自分はやらない人間」と信頼して後回しセンサーを育てる**: ADHDの後回し系トラブルを減らす最大の要因は、「自分がやらない人間であること」を深く信頼すること。後回しにしようとした瞬間に「だからお前は今やれ」と内なるアラートを出せるようになると、ADHD TAX（後回しによる損）が激減する。仕組み化の根底にあるのも同じ発想——自分の意志力を信用しないからこそ、環境やルールで強制する。意志力への期待を手放すことが、実は最も強力な自己管理戦略になる。^[raw/articles/tweet-2081888402581176448-self-distrust-procrastination-alert.md]
+
+- **AIタスクコーチで毎日報告ルーティンを回す**: 「自分専用のタスク消化AIコーチ」に毎日タスク報告し、褒めてもらう仕組みを作る。具体的なプロンプトが公開されており、「褒める→構造化→次の一手→質問」の4ステップで返答が来る。報告を1つのチャットに溜め続けるほどAIのパターン発見精度が上がり、自分では気づかない勝ちパターン・負けパターンを掘り出してくれる。[[task-initiation]]の項も参照。^[raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md]
 
 ## 研究から見える職場・高等教育の支え
 

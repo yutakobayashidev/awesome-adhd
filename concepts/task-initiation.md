@@ -1,10 +1,10 @@
 ---
 title: 着手支援
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-07-28
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, tool, lived-experience, japanese-context]
-sources: [raw/papers/kang-2009-curiosity-reward-memory.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2041992479973765361-sticky-note-game-task-hack.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md, raw/articles/tweet-2081363947450712183-boring-to-interesting-conversion-tactic.md]
+sources: [raw/papers/kang-2009-curiosity-reward-memory.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2041992479973765361-sticky-note-game-task-hack.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md, raw/articles/tweet-2081363947450712183-boring-to-interesting-conversion-tactic.md, raw/articles/tweet-2081302504999207021-self-commentary-task-initiation.md, raw/articles/tweet-2081752543818821682-eight-adhd-tricks.md, raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md]
 confidence: low
 ---
 
@@ -31,6 +31,10 @@ confidence: low
 - **退屈を面白さに変換する**: ADHDの脳は退屈で燃料が切れるため、やるべき作業に「好きなジャンルから入る」「クイズ形式で自分に出題する」「解けたらタイマー1本分休む」など、面白さを仕掛けることで着手と継続を引き出す。「歯を食いしばる根性」ではなく「退屈を消す工夫」を先に作る。^[raw/articles/tweet-2081363947450712183-boring-to-interesting-conversion-tactic.md]
 - **暇を作って本当の興味を発見する**: タスクを徹底的に減らして「暇」を作り、スマホを一切触らない状態で手持無沙汰にすると、それでも考えてしまう／やってしまう行動が自然に出てくる。これが「向いている分野」の発見につながる。適性の差が激しいADHDこそ、向いている分野だけで戦うためにこの引き算が必要。^[raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md]
 - **体育着で寝る（朝の判断を省く）**: 朝起きられないADHD傾向の子は、前夜に体育着で寝ることで朝の着替え判断を省き、起床から登校までのハードルを下げる。[[parenting]]に詳述。^[raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md]
+- **頭の中で自分を実況（セルフ・コメンタリー）**: やりたくない作業や動きたくない時に、頭の中で「さあ、今から椅子に座る」「ファイルを開く」「1行目を書く」と自分を実況する。考えたり迷ったりする暇を与えず、スピード感を持って実況することで、脳の選択コストをバイパスして着手できる。^[raw/articles/tweet-2081302504999207021-self-commentary-task-initiation.md]
+- **室内でも靴を履いて「仕事モード」へ切り替え**: 家の中でも作業する時だけ靴を履くことで、身体感覚から「仕事モード」へ切り替える。裸足やスリッパのリラックス状態との差別化を物理的に作り、脳に「今から集中する」という合図を送る。着替えと同じく、服装・靴といった身体レベルの変化で着手のスイッチを入れる発想。^[raw/articles/tweet-2081752543818821682-eight-adhd-tricks.md]
+
+- **AIを「専属タスクコーチ」にして毎日報告と褒めで回す**: 自分専用の「タスク消化最大化コーチ」としてAIを使い、毎日タスクを報告して具体的に褒めてもらう。たったこれだけで消化速度が上がる理由は、(1)宣言効果（「これからやります」と言うだけで実行率が上がる）、(2)ボディダブリング効果（AIが見てくれるだけで[[body-doubling|人の存在と同じ効果]]が生まれる）、(3)即時フィードバック（脳は「3ヶ月後の成果」ではなく「今この瞬間の手応え」で動く）。さらに報告を溜めるとAIが横断的に勝ちパターン・負けパターンを発見してくれる。投稿者は具体的なプロンプト全文を公開しており、ChatGPT・Claude・Geminiでそのまま使える。^[raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md]
 
 ## 研究メモ
 

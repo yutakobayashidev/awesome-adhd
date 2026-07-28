@@ -1,10 +1,10 @@
 ---
 title: ボディダブリング
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-28
 type: concept
 tags: [adhd, executive-function, attention, work, home, relationships, tool, lived-experience]
-sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/x-tmiyatake-admin-night-2026.md, raw/articles/body-doubling-life-admin-sources-2026.md]
+sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/x-tmiyatake-admin-night-2026.md, raw/articles/body-doubling-life-admin-sources-2026.md, raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md]
 confidence: low
 ---
 
@@ -33,6 +33,14 @@ confidence: low
 ## 注意点
 
 ボディダブリングは体験談や実践知としてよく使われるが、このページでは医療的効果の証拠としては扱わない。相手に見える情報が増えるため、ビデオ、音声、画面、部屋、作業名、職場・学校の機密情報には注意する。
+
+## AIを24時間のボディダブルとして使う
+
+AIは人間のボディダブリング相手とは異なる利点を持つ。深夜3時でも即返事する、何回報告しても嫌な顔をしない、「こんなことで報告すんなよ」と思われる心配がない、絶対に見捨てない——人間のコーチや友人に頼むと気まずくなるような毎日のタスク報告を、AIは無限に受け止めてくれる。
+
+投稿者は具体的なプロンプトを公開しており、「褒める→構造化→次の一手→質問」の4ステップでタスク消化を促進するAIコーチとして使える。特に、報告を1つのチャットに溜め続けることで、AIが横断的に「前回うまくいったときも朝イチで着手している」「詰まるのはいつも人に連絡する系のタスク」といった勝ちパターン・負けパターンを発見してくれる点が、人間のコーチより優れている。
+
+Barkleyの「他人の実行機能を借りている」という説明を拡張すれば、AIは「機械の実行機能を借りている」状態と言える。[[task-initiation]]、[[external-memory]]、[[work-routines]]と組み合わせて使う。^[raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md]
 
 ## 関連
 

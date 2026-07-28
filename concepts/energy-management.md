@@ -1,10 +1,10 @@
 ---
 title: エネルギー管理（ADHDバーンアウト対策）
 created: 2026-07-23
-updated: 2026-07-24
+updated: 2026-07-27
 type: concept
 tags: [adhd, executive-function, time-management, work, home, lived-experience]
-sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md, raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md]
+sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md, raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md, raw/articles/tweet-2081726188532477959-low-gi-diet-brain-fog.md]
 confidence: low
 ---
 
@@ -51,6 +51,7 @@ ADHDの脳疲労が深刻でHPゼロ状態に陥っている場合、以下の�
 - **タイマーで5分だけ着手**: 「やる気」を待たず、時間制限で行動を起動。→ [[task-initiation]]
 - **風呂・サウナで強制デジタルデトックス**: 物理的にデバイスから離れ、脳を強制リセット。
 - **鉄・亜鉛・Mgで神経伝達物質サポート**: ミネラル不足がADHD症状を悪化させる可能性への注意。
+- **低GI食＋食事量調整で食後の脳霧を防ぐ**: 食後に猛烈な眠気で仕事に支障が出る場合、食べる量を減らし低GI食品（玄米、全粒粉、豆類、野菜中心）に置き換えることで、血糖値の急上昇・急降下を緩和し、頭の中のモヤと喧騒（脳霧）を軽減できる。1年継続で集中力の持続に効果を実感した例がある。食後すぐ血糖値スパイクでダウンするADHD傾向の人には、食事の中身と量を変えることが、薬以前の環境調整として検討できる。^[raw/articles/tweet-2081726188532477959-low-gi-diet-brain-fog.md]
 
 これらの対策は「根性」ではなく「物理（栄養・遮断）」で脳機能を整える発想。サプリメントや食事は補助的な位置づけであり、治療の代替ではない。
 

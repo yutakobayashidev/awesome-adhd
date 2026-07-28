@@ -1,7 +1,7 @@
 ---
 title: ADHDと人間関係
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-07-28
 type: concept
 tags: [adhd, relationships, executive-function, emotion-regulation, impulsivity, lived-experience, japanese-context]
 sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md]
@@ -31,6 +31,10 @@ ADHDの特性が対人関係に与える影響として、初対面では新規�
 - **日常化→ドパミン低下→関心減退**: 関係が日常に変わると刺激が減り、脳が次の刺激を求め始める。相手には「冷たくなった」と伝わる。
 - **ワーキングメモリ弱さ→約束忘れ・返信遅れ**: 記憶に留めておくのが難しく、悪意なく連絡が滞る。
 - **RSD→些細な指摘を全否定と受け取る**: 相手の軽微な注意を人格否定と捉え、過剰反応してしまう。
+
+## RSD対策
+
+RSD（拒絶敏感性）の具体的対策は[[emotion-regulation#RSD（拒絶敏感性）への実践的対策|感情調整ページのRSDセクション]]に詳しい。「即答しない」「断る＝嫌われるではない」「事実確認」「70点で十分」「安心できる環境を選ぶ」の5つの対策を参照。
 
 ## 注意点
 

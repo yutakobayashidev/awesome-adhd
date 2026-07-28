@@ -1,10 +1,10 @@
 ---
 title: ワーキングメモリ
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [adhd, working-memory, executive-function, attention, lived-experience, japanese-context]
-sources: [raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md, raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md, raw/papers/ratwani-2008-spatial-memory-task-resumption.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/fredrick-2020-sct-adhd-task-unrelated-thought.md, raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md]
+sources: [raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md, raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md, raw/papers/ratwani-2008-spatial-memory-task-resumption.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/fredrick-2020-sct-adhd-task-unrelated-thought.md, raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2081700413070512286-external-memory-justification.md]
 confidence: medium
 ---
 
@@ -18,6 +18,7 @@ confidence: medium
 - 玄関トレイ、ドア貼りチェックリスト、透明収納、即時ToDoメモなど、見れば分かる形にする。
 - 時間情報も保持し続けず、タイマーやアナログ時計など[[time-management]]の道具に任せる。
 - 試験・仕事の確認では、「気をつける」対象を頭の中に置かず、再発しやすいミス状況だけを[[careless-mistake-countermeasures]]として外へ出す。
+- ADHDの「部屋に入ったら目的を忘れる」「会話中に言いたいことが消える」は記憶力の低さではなく、注意が切り替わると脳内の情報が上書きされやすいワーキングメモリの特性。この一時保存の仕組みの違いを前提に、メモを「外付けメモリ」として遠慮なく使う姿勢が重要。^[raw/articles/tweet-2081700413070512286-external-memory-justification.md]
 
 ## 研究メモ
 
