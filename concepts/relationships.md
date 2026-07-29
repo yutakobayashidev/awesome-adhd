@@ -4,7 +4,7 @@ created: 2026-07-24
 updated: 2026-07-28
 type: concept
 tags: [adhd, relationships, executive-function, emotion-regulation, impulsivity, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md]
+sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md, raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md]
 confidence: low
 ---
 
@@ -14,7 +14,16 @@ confidence: low
 
 ADHDの特性が対人関係に与える影響として、初対面では新規性（ドーパミン）で好印象を与えるが、関係が日常化すると相手への関心が維持しにくくなるパターンが指摘されている。ワーキングメモリの弱さによる約束忘れ・返信遅れ・遅刻が「相手を軽んじている」と誤解されやすく、さらにRSD（[[emotion-regulation|拒絶敏感性]]）で些細な指摘に過剰反応することで関係が悪化する。悪意ではなく脳の特性によるものなので、根性ではなく仕組みで補う方向が実践的。
 
-## 3つの対策
+## パートナーとのコミュニケーション設計
+
+ADHDのパートナーとの約束や予定の共有では、口頭での会話だけでは意識に残らない前提で設計する。^[raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md]
+
+- **カレンダーで視覚化する**: 会話で決めた予定はその場でカレンダーに入れ、目に見える形にする。口頭だけではワーキングメモリから抜ける。
+- **「残る形」にする**: LINEや紙に書くなど、後から確認できる形で残す。会話だけでは本人も意識できない。
+- **「今も進行中の話」として再登場させる**: 過去に決めたことを「思い出させる」のではなく、「これどうしようか？」と現在進行形の話題として定期的に出し直す。ADHDの時間的展望の弱さ（未来の予定が過去の情報のように薄れる）を前提に、話題を現在へ引き戻す。
+- **期待値を調整する**: 「なんで覚えてないんだ」ではなく「今回覚えてたらラッキーくらいでいよう」と、パートナー側の受け止め方を整える。相手を変える工夫と自分の受け止め方を整える工夫の両方が同じくらい大切。
+
+## 3つの対策（基本）
 
 ### 1. 連絡をタスク化する
 気持ちや「返信しなきゃ」という義務感で動くのではなく、思いついた瞬間に返信するか即座にリマインダーへ入れる。感情ではなく[[external-memory|システム]]で動かす。返信を先延ばしにすると、相手への負い目が積み重なってさらに返信しにくくなる悪循環を断つ。

@@ -517,3 +517,54 @@
 - Updated navigation:
   - `index.md` date bump (total pages unchanged at 51)
 - Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`. The AI coach prompt (tweet 2081891109413007381) is the richest single find this run — a complete, copy-paste-able Japanese prompt for task accountability + pattern discovery.
+
+## [2026-07-28] ingest | X/Twitter ADHDパワー系ソリューション定期検索 11
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID across products. Skipped already-ingested tweets, generic empathy, diagnosis discourse, personal arguments, English-only, self-promotion without actionable content, and vague motivation.
+- Created raw sources:
+  - `raw/articles/tweet-2081967583767802139-ten-second-record.md` (思いついた瞬間に10秒でスマホに記録、「後でまとめて」をしない)
+  - `raw/articles/tweet-2081966844601344356-post-it-search-drift.md` (検索前に「調べること」を付箋に書いてPCに貼る脱線防止)
+  - `raw/articles/tweet-2081992548311298078-physical-money-controls.md` (医師による遅延報酬の割引解説＋口座分離・カード不携帯・使う日事前決定)
+  - `raw/articles/tweet-2081905102391300471-credit-limit-auto-transfer.md` (自己肯定感低下→大盤振る舞いの心理メカニズム＋クレカ上限・先取り振替)
+  - `raw/articles/tweet-2081991150618177582-rsd-mistake-defense-three-tactics.md` (RSDミス指摘時悪循環＋その場で結論出さない/事実・解釈・対策分離/謝罪→仕組み化の3対策)
+  - `raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md` (タクシー1200円vs有給8時間損失、目先の節約と未来の損失の比較視点)
+- Updated concept pages:
+  - `concepts/external-memory.md` (10秒以内の即時記録)
+  - `concepts/hyperfocus-control.md` (検索脱線防止の物理付箋)
+  - `concepts/impulsivity-countermeasures.md` (物理的金銭管理3策＋大盤振る舞い心理メカニズム＋コスト比較リフレーミング)
+  - `concepts/emotion-regulation.md` (ミス指摘時防衛反応への3つの対策)
+  - `concepts/energy-management.md` (目先の節約と未来の損失の数字比較)
+- Updated navigation: `index.md` date unchanged (already 2026-07-28 from earlier run); total pages unchanged at 51.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence. The RSD mistake-defense 3 tactics (tweet 2081991150618177582) is the richest find this run — a clear, structured framework connecting RSD, cognitive dissonance, and system-building.
+
+## [2026-07-28] ingest | X/Twitter ADHDパワー系ソリューション定期検索 12
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID across products. Skipped already-ingested tweets, generic empathy, diagnosis discourse, memes, and vague motivation.
+- Created raw sources:
+  - `raw/articles/tweet-2082058495449579544-subscription-model-tidying.md` (片付けの会費モデル：「戻すのが1歩以下」の場所へ住所を移す)
+  - `raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md` (旅行計画忘れへの仕組み：カレンダー視覚化、LINE/紙に残す、「今も進行中の話」として再登場、期待値調整)
+  - `raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md` (ミス防止5つの仕組み：即メモ、チェックリスト化、ダブルチェック、作業細分化、急がない)
+  - `raw/articles/tweet-2082035838532157764-night-prep-by-neurotype-morning-panic.md` (特性別・前夜準備：ASD/ADHD/AuDHDの3類型で朝のパニック防止)
+  - `raw/articles/tweet-2082047175236759863-overspending-social-three-countermeasures.md` (奢りすぎ防止3策：月額上限、現金減らす、割り勘練習)
+- Updated concept pages:
+  - `concepts/environment-design.md` (会費モデルの片付け＋特性別前夜準備)
+  - `concepts/careless-mistake-countermeasures.md` (5つのミス防止仕組みの新節)
+  - `concepts/external-memory.md` (会話の外部記憶化＋「今も進行中」フレーミング)
+  - `concepts/relationships.md` (パートナーとのコミュニケーション設計の新節)
+  - `concepts/impulsivity-countermeasures.md` (人に奢る衝動への物理的対策)
+  - `concepts/sleep.md` (特性別・前夜準備で朝パニック防止の新節)
+- Updated navigation: `index.md` date already 2026-07-28 from earlier run; total pages unchanged at 51.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence. The 会費モデル (tweet 2082058495449579544) is the richest single concept this run — a genuinely novel metaphor that reframes tidying as subscription cost rather than moral failing.
+
+## [2026-07-28] ingest | X/Twitter ADHDパワー系ソリューション定期検索 13
+- Searches: 4 queries across `Latest` and `Top` products. Deduplicated by tweet ID across products. Skipped already-ingested tweets, generic diagnosis discourse, stigma/personal attacks, vague promotion, and medical claims without practical tactics.
+- Created raw sources:
+  - `raw/articles/tweet-2082131881970315336-infinite-socks.md` (同型靴下を大量に揃え、ペア合わせ・片方紛失問題を消す)
+  - `raw/articles/tweet-2082114468558090488-actual-task-duration-log.md` (反復タスクの実所要時間を測って、体感ではなく記録で見積もる)
+  - `raw/articles/tweet-2082033754877661336-smartphone-friction-notification-off.md` (スマホを触りにくくし、電話以外通知を切る)
+  - `raw/articles/tweet-1276000118047531008-housework-automation-appliances.md` (掃除ロボット・食洗機・ドラム式洗濯乾燥機へ家事工程を移す)
+- Updated concept pages:
+  - `concepts/forgetfulness-countermeasures.md` (無限靴下)
+  - `concepts/environment-design.md` (無限靴下＋家事自動化家電)
+  - `concepts/time-management.md` (反復タスクの所要時間ログ)
+  - `concepts/digital-interruptions.md` (スマホ摩擦＋通知遮断)
+- Updated navigation: `index.md` total pages unchanged at 51.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence.

@@ -2,9 +2,9 @@
 title: ケアレスミス対策
 type: concept
 created: 2026-07-23
-updated: 2026-07-23
-tags: [adhd, working-memory, executive-function, school, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md]
+updated: 2026-07-28
+tags: [adhd, working-memory, executive-function, school, work, lived-experience, japanese-context]
+sources: [raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md]
 confidence: low
 ---
 
@@ -18,6 +18,16 @@ confidence: low
 - **直前10分のチェックリストにする**: 試験や提出前に、長い復習ではなく「自分がやりがちなミス」だけを見る。確認対象を絞ることで、直前の[[attention-control]]を支える。
 - **教材を増やしすぎない**: 元投稿は、知識不足はテキスト一元化、ケアレスミスは状況メモという使い分けを示している。ノート作成自体が作業化しすぎる場合は、1冊・1ファイルへ集約する。
 - **再発したものだけ昇格する**: 1回目の間違いをすべて記録すると管理対象が増えやすい。複数回出た癖、重要度が高い癖だけをチェック項目にする。
+
+## 5つのミス防止仕組み
+
+ADHDの人は「ミスをなくそう」とするより、ミスが起きても防げる仕組みを作る方が効果的。能力不足ではなくうっかりミス（不注意ミス）が多いからであり、仕事ができるADHDの人ほど「忘れる前提」で仕組みを作っている。^[raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md]
+
+1. **頭で覚えない**: 思いついたら即メモ、スマホのリマインダーを使う。記憶に頼らず[[external-memory]]へ逃がす。
+2. **チェックリスト化する**: 毎回同じ手順を紙やメモに書く。「確認したつもり」を減らし、確認作業を外に置く。
+3. **重要な作業はダブルチェック**: 送信前に30秒見直す。お金や契約に関わることは特に確認する。
+4. **作業を細かく分ける**: 「資料作成」ではなく「資料を開く→見出し作成→本文作成」のように分解し、一歩ずつ進める。
+5. **急がない**: ADHDは焦るとミスが増えやすい。「5分早く終わらせる」より「1回で正確に終わらせる」を意識する。
 
 ## 注意点
 

@@ -1,10 +1,10 @@
 ---
 title: 外部記憶
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-07-28
 type: concept
 tags: [adhd, working-memory, executive-function, tool, accessibility, lived-experience, japanese-context]
-sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md, raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2080270807671201805-a3-journaling-brain-dump.md, raw/articles/tweet-2080201263778771041-hyperfocus-visual-progress-tracking.md, raw/articles/deep-research-report-stt-neurodiversity-2026.md, raw/articles/tweet-2081700413070512286-external-memory-justification.md, raw/articles/tweet-2081670676457591068-five-forgetfulness-systems.md]
+sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/i-have-adhd-github-2026.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md, raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2080270807671201805-a3-journaling-brain-dump.md, raw/articles/tweet-2080201263778771041-hyperfocus-visual-progress-tracking.md, raw/articles/deep-research-report-stt-neurodiversity-2026.md, raw/articles/tweet-2081700413070512286-external-memory-justification.md, raw/articles/tweet-2081670676457591068-five-forgetfulness-systems.md, raw/articles/tweet-2081967583767802139-ten-second-record.md, raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md]
 confidence: low
 ---
 
@@ -16,6 +16,7 @@ confidence: low
 
 - **見るだけで分かる場所**: 玄関のトレイ、ドア貼りチェックリスト、透明収納など、視界に入った瞬間に次の行動が決まる形にする。
 - **即時メモ**: 「あとで思い出す」を期待せず、5秒以内にToDoへ入れる。未整理でもよく、まず忘却を防ぐ。
+- **10秒以内の即時記録**: 思いついた瞬間に10秒でスマホに入れる。「後でまとめて書こう」とせず、気づいた瞬間に記録する方がADHDでは続きやすい。記録対象は「やること」「買うもの」「約束」「アイデア」「忘れたくないこと」「気分や体調」など何でもよい。^[raw/articles/tweet-2081967583767802139-ten-second-record.md]
 - **時間の外部化**: タイムタイマー、アナログ時計、アラーム、終了時刻メモを使い、体感時間ではなく外部表示に判断を任せる。
 - **人・場所への委譲**: ボディダブリングや場所トリガー式リマインダーのように、思い出す契機を自分の意志から切り離す。
 - **端末の常時表示へ預ける**: [[tiimo|Tiimo]]のウィジェットやライブ表示のように、予定・タイマー・次の行動をホーム画面や腕時計に出し、思い出す作業を画面側へ移す。
@@ -35,6 +36,7 @@ confidence: low
 - **数字の見える化で報酬系を刺激**: 体重・貯金額・作業時間など定量化できるものをグラフ化し、毎日「変化」と「達成」を視覚的に確認する。ADHDの脳は伸びが見えると報酬系が反応し、過集中へ自然に入りやすくなる。記憶ではなく視覚フィードバックに動機づけを委ねる。^[raw/articles/tweet-2080201263778771041-hyperfocus-visual-progress-tracking.md]
 - **「外付けメモリ」として堂々と使う**: ADHDの忘れっぽさは記憶力の低さではなく、注意が切り替わると脳内の情報が上書きされやすい特性。部屋に入って目的を忘れる、会話中に言いたいことが消えるといった現象は、ワーキングメモリの一時保存の仕組みの違い。メモを「外付けメモリ」と捉え、遠慮なく使う姿勢が重要。^[raw/articles/tweet-2081700413070512286-external-memory-justification.md]
 - **5点の外部化システム**: ①リマインダーを思いついた瞬間に即登録（後回し厳禁）、②タスク情報を1か所に集約（メモアプリ/カレンダー）、③財布・鍵・イヤホンの定位置を固定、④思いついた瞬間にメモ、⑤朝・昼・夜の定時確認ルーティン。^[raw/articles/tweet-2081670676457591068-five-forgetfulness-systems.md]
+- **会話の外部記憶化と「今も進行中」フレーミング**: 口頭での会話や約束はADHDの脳に残らない前提で、カレンダー登録、LINEや紙で「残る形」にし、定期的に「今も進行中の話」として再登場させる。過去の約束を思い出させるのではなく、現在進行形の話題として再提示することで時間的展望の弱さを補う。パートナー側の期待値調整（「覚えてたらラッキー」）も組み合わせる。^[raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md]
 
 ## 注意点
 

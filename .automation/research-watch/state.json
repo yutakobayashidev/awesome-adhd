@@ -1,6 +1,6 @@
 {
   "created_at": "2026-07-22T00:00:00Z",
-  "last_run_at": "2026-07-27T07:01:24Z",
+  "last_run_at": "2026-07-29T07:01:09Z",
   "seen_ids": [
     "arxiv:2005.09993v1",
     "arxiv:2302.06376v2",
@@ -71,11 +71,12 @@
     "pubmed:42433964",
     "pubmed:42499140",
     "pubmed:42500318",
-    "pubmed:42500785"
+    "pubmed:42500785",
+    "pubmed:42521366"
   ],
   "stats": {
-    "candidates_written": 70,
-    "runs": 8
+    "candidates_written": 71,
+    "runs": 10
   },
   "version": 1
 }

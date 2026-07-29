@@ -4,7 +4,7 @@ created: 2026-07-22
 updated: 2026-07-28
 type: concept
 tags: [adhd, emotion-regulation, anxiety, depression, executive-function]
-sources: [raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md, raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md, raw/articles/tweet-2081875013561708615-rsd-seven-symptoms-five-countermeasures.md]
+sources: [raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md, raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md, raw/articles/tweet-2081875013561708615-rsd-seven-symptoms-five-countermeasures.md, raw/articles/tweet-2081991150618177582-rsd-mistake-defense-three-tactics.md]
 confidence: medium
 ---
 
@@ -47,6 +47,16 @@ ADHDによく見られるRSD（Rejection Sensitive Dysphoria：拒絶敏感性�
 5. **安心できる環境・人間関係を選ぶ**: RSDが出にくい相手や環境を積極的に選ぶ。特性を理解してくれる人、穏やかなフィードバックをくれる人との関係を優先する。
 
 これらの対策は[[relationships|人間関係]]のページとあわせて読むとよい。RSDそのものは診断名ではなく概念だが、ADHDの感情調整と対人関係の難しさを説明するフレームとして使われる。
+
+## ミス指摘時の防衛反応への3つの対策
+
+ADHDでは、ミスを指摘された時にRSDと認知的不協和から防衛反応（言い訳・反発・責任転嫁）が出やすく、「ミスを指摘される→否定されたと感じる→防衛反応→問題が修正されない→同じミスを繰り返す→信用が減る」という悪循環に陥りやすい。プライドを捨てるのではなく、「ミスを隠すプライド」を「同じミスを繰り返さないプライド」へ変える視点が提案されている。^[raw/articles/tweet-2081991150618177582-rsd-mistake-defense-three-tactics.md]
+
+1. **その場で結論を出さない**: 指摘された瞬間は防衛反応が出やすいため、「教えていただきありがとうございます」「一度確認して改めて返します」とだけ伝える。すぐ反論もすぐ謝罪も決めなくてよく、感情が落ち着いてから確認する。
+2. **「事実・解釈・対策」を分ける**: 【事実】ミスがあった、【自分の解釈】能力がないと思われた、【次の対策】チェック欄を作る、のように3層に分ける。ミスをしたことと自分に価値がないことを混ぜない。ミスは人格ではなく改善できるデータと捉える。
+3. **謝罪で終わらず、仕組みに変える**: 「次から気をつけます」ではなく、チェックリスト・リマインダー・確認者・作業手順テンプレート化など「次に起きない仕組み」まで作る。ここにプライドを使う。
+
+この3つの対策は[[work-routines|仕事のルーティン]]や[[relationships|人間関係]]ともクロスする。
 
 ## 関連
 
