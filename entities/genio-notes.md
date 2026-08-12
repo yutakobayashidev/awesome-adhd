@@ -1,7 +1,7 @@
 ---
 title: Genio Notes
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-07-30
 type: entity
 tags: [tool, accessibility, school, work]
 sources: [raw/articles/deep-research-report-stt-neurodiversity-2026.md]
@@ -38,4 +38,4 @@ Genio Notes の「録る→見返す→切り出す→再整理する」とい�
 - [[speech-to-text-neurodiversity-support]] — STT 全般の神経多様性支援設計
 - [[assistive-technology]] — より広い支援技術の枠組み
 - [[digital-adhd-support]] — デジタル ADHD 支援の全体像
-- [[school]] — 学校・教育現場での ADHD 支援（未作成の場合は留意）
+- 学校・教育現場での ADHD 支援 — 学校・教育現場での支援文脈（専用ページ未作成）

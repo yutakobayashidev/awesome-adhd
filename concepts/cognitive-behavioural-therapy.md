@@ -1,10 +1,10 @@
 ---
 title: 認知行動療法
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-07-30
 type: concept
 tags: [adhd, therapy, research, executive-function, anxiety, depression]
-sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md]
+sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md, raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md, raw/papers/solanto-2026-executive-self-management-college-adhd.md]
 confidence: medium
 ---
 
@@ -23,6 +23,15 @@ CBTは待機リストや一部の比較条件よりADHD中核症状を改善す�
 このページではCBTを、[[diagnosis-and-management]]の中の心理社会的支援、また[[executive-function]]や[[task-initiation]]を支える方法として扱う。個人にCBTを勧めるページではない。
 
 成人ADHDの感情調整に特化した混合介入では、DBTスキルトレーニングやポジティブ心理学の要素を、対面グループとデジタル伴走アプリに組み合わせる試みがある。Nordbyら（2024）は実現可能性と予備的な自己報告改善を示したが、非ランダム化・小規模研究であり、CBT/DBT系支援の効果を一般化する根拠としてはまだ弱い。^[raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md]
+
+
+## 大学生向けCBT/実行自己管理プログラム
+
+Canuら（2026）は、大学生ADHD向けの組織化・時間管理・計画（OTMP）スキルに焦点を当てたCBT系グループ介入を遠隔化し、3大学の106人で前後比較を報告した。自己報告ではADHD症状、生活上の支障、実行機能、OTMPスキルに改善が見られたが、より大きく多様なサンプルとRCTが必要とされている。^[raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md]
+
+Solantoら（2026）の公開試験では、都市部の公立大学でADHD診断基準を満たす41人を対象に、12週間のグループCBT型「実行自己管理」介入を実施した。時間管理、組織化、計画、先延ばし、注意散漫、否定的自動思考、読解保持、レポート構成などを扱い、終了者の評価は高かった。ただし非対照試験なので、有効性の断定ではなく、大学キャンパスで実装しやすい支援候補として読む。^[raw/papers/solanto-2026-executive-self-management-college-adhd.md]
+
+この2件は、[[executive-function]]や[[time-management]]を「学生本人の努力不足」ではなく、支援プログラムとして教えられるスキル群に分解する材料になる。一方で、対象は主に北米の大学生・若年成人であり、日本の大学支援や成人一般へそのまま外挿しない。
 
 ## 注意点
 

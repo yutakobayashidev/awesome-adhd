@@ -2,9 +2,9 @@
 title: 支援技術
 type: concept
 created: 2026-07-22
-updated: 2026-07-24
+updated: 2026-08-10
 tags: [adhd, tool, accessibility, executive-function, research]
-sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/papers/lalwani-2025-productivity-social-robot-college-students.md, raw/articles/i-have-adhd-github-2026.md, raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md, raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/arakawa-2026-calmreminder-parental-engagement.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/deep-research-report-stt-neurodiversity-2026.md]
+sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/papers/lalwani-2025-productivity-social-robot-college-students.md, raw/articles/i-have-adhd-github-2026.md, raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md, raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/arakawa-2026-calmreminder-parental-engagement.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/deep-research-report-stt-neurodiversity-2026.md, raw/papers/husain-2020-supportive-technologies-adhd-slr.md, raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md, raw/papers/selin-2026-self-tracking-masking-neurodivergent.md]
 confidence: medium
 ---
 
@@ -52,6 +52,14 @@ LalwaniとSalamの生産性支援ロボット研究は、ADHDのある学生を�
 ## 受動記憶アシスタント
 
 [[passive-memory-assistants-adhd]] では、Screenpipe、Rewind/Limitless、Recall などの受動記憶ツールを ADHD 支援として評価する。キャプチャの自動化より、作業復帰・時間定位・次の一手抽出・プライバシー制御が優先される。
+
+## 研究ウォッチからの補助線（2026-08-10）
+
+Husain（2020）のADHD支援技術レビューは子ども中心だが、行動介入、モニタリング、変化支援を柔軟・受容可能・アクセス可能な形で届けるという整理は、成人向け支援にも設計上の参考になる。ただし対象年齢が異なるため、成人ADHDの効果証拠へ直接外挿しない。^[raw/papers/husain-2020-supportive-technologies-adhd-slr.md]
+
+建設現場のADHD生産性に関するAraら（2026）の探索的インタビューは、支援技術を「机上のタスク管理」だけでなく、動的で安全要求の高い職場での注意足場・社会的存在感・動機づけ支援として考える材料になる。AI/VRは有望な設計要求として示されている段階で、実装効果の証明ではない。^[raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md]
+
+Selinら（2026）の神経多様者のセルフトラッキング研究は、記録が常に自己理解を助けるとは限らず、解釈負荷・感情労働・文脈依存性を生むことを示す。ADHD向け支援技術では、データを集めるほどよいのではなく、本人の意味づけと共有の安全性を設計対象にする必要がある。^[raw/papers/selin-2026-self-tracking-masking-neurodivergent.md]
 
 ## 関連
 

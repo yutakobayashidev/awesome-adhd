@@ -568,3 +568,347 @@
   - `concepts/digital-interruptions.md` (スマホ摩擦＋通知遮断)
 - Updated navigation: `index.md` total pages unchanged at 51.
 - Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence.
+
+## [2026-07-30] ingest | Research-watch curated candidate curation (batch 4)
+
+- Reviewed 5 unprocessed candidates from `.automation/research-watch/candidates.jsonl`.
+- Accepted 5 for raw + existing page update (score 3); created no new wiki pages.
+- Created raw sources:
+  - `raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md`
+  - `raw/papers/solanto-2026-executive-self-management-college-adhd.md`
+  - `raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md`
+  - `raw/papers/yitzhak-2025-emotional-pendulum-adhd-ema.md`
+  - `raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md`
+- Updated concept pages:
+  - `concepts/cognitive-behavioural-therapy.md`
+  - `concepts/executive-function.md`
+  - `concepts/emotion-regulation.md`
+  - `concepts/digital-adhd-support.md`
+- Updated navigation/state: `index.md`, `.automation/research-watch/curation-state.json`.
+- Maintenance: fixed pre-existing broken wikilink in `entities/genio-notes.md` (`[[school]]` → plain text placeholder).
+- Note: telehealth/group CBT and EMA/EMI sources are summarized cautiously. Open-label and development studies are not treated as proof of clinical effectiveness; no personal medical advice was added.
+
+## [2026-07-31] ingest | X/Twitter ADHDパワー系ソリューション定期検索 14
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID across products. Skipped already-ingested tweets, generic empathy, diagnosis discourse, memes, vague motivation, and medical claims without concrete tactics.
+- Created raw sources:
+  - `raw/articles/tweet-2082983162096029890-time-attack-gamification.md` (ストップウォッチ＋タイマーで時間を見える化しタイムアタック化・ゲーム感覚で取り組む)
+  - `raw/articles/tweet-2082976727215857993-accept-forgetfulness-bring-spares.md` (忘れ物をしないのは無理→忘れてもいいものを複数持っていく受容戦略)
+  - `raw/articles/tweet-2082923063763751422-multi-stage-reminder-cascade.md` (Googleカレンダーで3日前〜15分前の多段リマインダーを仕込む)
+  - `raw/articles/tweet-2082444170292257176-five-decision-making-systems.md` (決断力5つの仕組み：選択肢3つ以下・制限時間・70点OK・小さい決断練習・決断日記)
+  - `raw/articles/tweet-2082977786084683856-morning-cafe-environment-switch.md` (自宅作業不可→朝マック等外出で環境強制切り替え)
+- Updated concept pages:
+  - `concepts/time-management.md` (タイムアタック化、多段リマインダーカスケード)
+  - `concepts/forgetfulness-countermeasures.md` (忘れる前提の複数持ち戦略)
+  - `concepts/executive-function.md` (決断力5つの仕組み)
+  - `concepts/task-initiation.md` (カフェ外出による環境強制切り替え)
+- Updated navigation: `index.md` date bump (total pages unchanged at 51)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; existing concept pages remain `confidence: low`. The decision-making 5 systems (tweet 2082444170292257176) is the richest find this run — a structured, copyable framework for a domain (decision paralysis) that was previously underrepresented in the wiki.
+
+## [2026-07-31] ingest | X/Twitter ADHDパワー系ソリューション定期検索 15
+
+- Searches: 4 queries across `Latest` and `Top` products (Japanese practical-tip keywords). Deduplicated by tweet ID across products. Evaluated ~80 tweets; skipped already-ingested, generic empathy, diagnosis discourse, memes, vague motivation, coaching promos, and medical claims without concrete tactics. Ingested 10 new tweets.
+- Created raw sources:
+  - `raw/articles/tweet-2082793578904846370-no-todo-list-immediate-action.md` (Todoリストを使わずその場で即やり切る脳筋スタイル — 優先付け・見積もり苦手を回避)
+  - `raw/articles/tweet-2083030892310942096-timelapse-self-recording.md` (タイムラプス自己撮影でボディダブリング・スマホ封印・報酬効果)
+  - `raw/articles/tweet-2083039955907985690-money-management-five-tactics.md` (固定費分離・決済方法絞り・週単位予算・翌日判断・支払い自動化の5点)
+  - `raw/articles/tweet-2083028275752783965-relationship-reconnect-one-message.md` (「最近どう？」1通LINEで疎遠関係へ戻る力)
+  - `raw/articles/tweet-2082658478016053276-phone-call-body-doubling.md` (通話開始だけで魔法のように動けるボディダブリング — 12Kいいね)
+  - `raw/articles/tweet-2083021519412961526-reset-impulse-countermeasures.md` (リセット衝動への3対策: 保留・実況・相談 + 小さなリセット)
+  - `raw/articles/tweet-2082377839211389129-asset-building-dopamine-hijack.md` (購買衝動を資産形成欲で打ち消すドーパミン・リダイレクト)
+  - `raw/articles/tweet-1983393290721603589-calendar-organizer-name.md` (カレンダーに予定名ではなく責任者名を書く)
+  - `raw/articles/tweet-2002943114731003956-hyperfocus-entry-eight-tactics.md` (過集中スイッチを入れる8つの準備動作)
+  - `raw/articles/tweet-1740680164168913193-smart-lock-forgetfulness.md` (スマートロックで鍵の携帯記憶ごと不要にする — 41Kいいねの古典)
+- Updated concept pages:
+  - `concepts/task-initiation.md` (Todoリスト廃止即実行、タイムラプス撮影、通話ボディダブリング、過集中8準備動作)
+  - `concepts/impulsivity-countermeasures.md` (お金管理5工夫、資産形成欲で衝動上書き)
+  - `concepts/relationships.md` (疎遠関係へ戻る力 — 1通LINE + 完璧主義回避)
+  - `concepts/emotion-regulation.md` (リセット衝動対策 — 保留・実況・相談・小さなリセット)
+  - `concepts/external-memory.md` (カレンダー責任者名)
+  - `concepts/hyperfocus-control.md` (過集中スイッチ8準備動作)
+  - `concepts/forgetfulness-countermeasures.md` (スマートロック)
+- Updated navigation: `index.md` (date already current; total pages unchanged at 51)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence. The Todoリスト廃止 (tweet 2082793578904846370) and 通話ボディダブリング (tweet 2082658478016053276, 12K likes) are the highest-signal finds this run — both are counterintuitive, immediately actionable, and backed by strong engagement. The リセット衝動対策 (tweet 2083021519412961526) fills a previously empty niche in the emotion-regulation page.
+
+## [2026-08-08] ingest | X/Twitter ADHDパワー系ソリューション定期検索 16
+- Searches: 4 queries across `Latest` and `Top` products. Deduplicated 75 unique tweet IDs; skipped 5 already-ingested tweets plus generic empathy, memes, diagnosis discourse, stigma/personal attacks, vague motivation, and medical/supplement claims without sources.
+- Created raw sources:
+  - `raw/articles/tweet-2085857313966166048-three-second-external-memory-six-tactics.md` (3秒メモ・店別リスト・LINE通知時刻・洗濯終了タイマー・視界保持・今日3件表示)
+  - `raw/articles/tweet-2085741805275099550-hotcook-cooking-forgetfulness.md` (鍋忘れ対策として刻みタイマー＋自動調理器へ火の管理を移す)
+  - `raw/articles/tweet-2085924875181363581-no-folder-first-drop-one-item.md` (整理準備で満足しないため、フォルダ作成より先に1個入れる)
+  - `raw/articles/tweet-2085933607072485405-single-task-notification-off.md` (1タスク固定＋スマホ通知一時全OFF)
+  - `raw/articles/tweet-2085680350315827567-himmel-role-model-imitation.md` (人物模倣で着手する「ヒンメル戦法」)
+  - `raw/articles/tweet-2085784093686669451-ai-command-thread-project-memory.md` (AI司令塔スレッドにプロジェクト記憶を集約し再開を助ける)
+- Updated concept pages:
+  - `concepts/external-memory.md`
+  - `concepts/task-initiation.md`
+  - `concepts/time-management.md`
+  - `concepts/environment-design.md`
+  - `concepts/attention-control.md`
+  - `concepts/digital-adhd-support.md`
+- Updated navigation: `index.md` date bump (total pages unchanged at 51)
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; related concept pages remain low/medium confidence according to source mix.
+
+## [2026-08-08] ingest | X/Twitter ADHDパワー系ソリューション定期検索 17
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID and skipped already-ingested tweets, diagnosis discourse without tactics, vague motivation, medical/supplement claims without sources, memes, stigma/personal attacks, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2086044768136831454-reward-bundling-task-initiation.md` (面倒タスクをごほうび行動と束ねて着手ボタン化)
+  - `raw/articles/tweet-2086014654325911629-timer-one-line-record.md` (タイマー＋1日1行記録で時間を外部化)
+  - `raw/articles/tweet-2085867026594336842-deadline-paper-first-step.md` (紙の見える化・最初の一歩・2日前締切)
+  - `raw/articles/tweet-1740646259206373382-hanger-storage-boxes.md` (ハンガー収納＋仕切り付きボックスで畳む工程を削減)
+- Updated concept pages:
+  - `concepts/task-initiation.md`
+  - `concepts/time-management.md`
+  - `concepts/environment-design.md`
+  - `concepts/external-memory.md`
+- Updated navigation: `index.md` unchanged (no new wiki pages; date already current at 2026-08-08).
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; related concept pages remain `confidence: low`.
+
+## [2026-08-08] ingest | X/Twitter ADHDパワー系ソリューション定期検索 18
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated by tweet ID; skipped already-ingested tweets, diagnosis discourse without tactics, vague motivation, medical/supplement claims without sources, memes, stigma/personal attacks, self-promotion without enough workflow detail, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2086135350314061910-five-person-relationship-reminders.md` (大事な人5人だけを年3回通知し、定型文で関係維持を外部化)
+  - `raw/articles/tweet-2086067401779548493-visual-audio-efficiency-styles.md` (視覚化型・音境界型の効率化を試し分ける)
+  - `raw/articles/tweet-2086059865575657531-minimum-verb-task-resolution.md` (大きなタスクを「最小の動詞」まで下げる)
+  - `raw/articles/tweet-2086105627697549630-grill-with-docs-milestone-review.md` (AI/ドキュメントツールをマイルストーン区切りのレビュー役に限定)
+- Updated concept pages:
+  - `concepts/relationships.md`
+  - `concepts/external-memory.md`
+  - `concepts/task-initiation.md`
+  - `concepts/attention-control.md`
+  - `concepts/work-routines.md`
+  - `concepts/digital-adhd-support.md`
+- Updated navigation: no new wiki pages; `index.md` unchanged (date already 2026-08-08, total pages unchanged at 51).
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; related tweet-derived content remains low-confidence.
+
+## [2026-08-09] ingest | X/Twitter ADHDパワー系ソリューション定期検索 19
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated 72 unique tweet IDs; skipped 11 already-ingested tweets plus generic empathy, memes, diagnosis discourse, stigma/personal attacks, vague motivation, self-promotion without enough workflow detail, and medical/supplement claims without sources.
+- Created raw sources:
+  - `raw/articles/tweet-2086225948614303824-fixed-cost-one-item-review.md`
+  - `raw/articles/tweet-2086193708740083838-morning-action-before-thinking.md`
+  - `raw/articles/tweet-2086158105579315645-exam-stationery-preplacement.md`
+  - `raw/articles/tweet-2014465170400280892-systematize-steady-effort.md`
+- Updated concept pages:
+  - `concepts/impulsivity-countermeasures.md`
+  - `concepts/task-initiation.md`
+  - `concepts/time-management.md`
+  - `concepts/environment-design.md`
+  - `concepts/work-routines.md`
+- Updated navigation: `index.md` date bump; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence.
+
+## [2026-08-09] ingest | X/Twitter ADHDパワー系ソリューション定期検索 20
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated 76 unique tweet IDs; skipped 8 already-ingested tweets plus generic empathy, memes, diagnosis discourse, stigma/personal attacks, vague motivation, self-promotion without enough workflow detail, medical/supplement claims without sources, and duplicate/near-duplicate tactics already represented in the wiki.
+- Created raw sources:
+  - `raw/articles/tweet-2086316627231170570-first-action-on-paper.md`
+  - `raw/articles/tweet-2086302039244718116-ai-prioritization-removes-choice.md`
+  - `raw/articles/tweet-2086307734161588450-two-queue-workstation.md`
+  - `raw/articles/tweet-2086256158608928882-housework-gamification.md`
+- Updated concept pages:
+  - `concepts/task-initiation.md`
+  - `concepts/work-routines.md`
+  - `concepts/digital-adhd-support.md`
+- Updated navigation: `index.md` summaries for expanded existing concept pages; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence.
+
+
+## [2026-08-09] ingest | X/Twitter ADHDパワー系ソリューション定期検索 21
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy, memes, diagnosis discourse, vague motivation, self-promotion without enough workflow detail, medical/supplement claims without sources, duplicate tactics already represented in the wiki, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2086407172221759835-no-script-implementation-intention.md`
+  - `raw/articles/tweet-2086407145357279659-reduce-writing-oral-answer-processing-speed.md`
+- Updated concept pages:
+  - `concepts/relationships.md`
+  - `concepts/public-support.md`
+- Updated navigation: `index.md` date bump; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical/educational tips only, not medical evidence; tweet-derived additions remain low-confidence and source-bound.
+
+
+## [2026-08-09] ingest | X/Twitter ADHDパワー系ソリューション定期検索 22
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated 75 unique tweet IDs; skipped already-ingested tweets, stigma/personal attacks, generic diagnosis discourse, medical/medication or anemia-related posts without appropriate source context, vague motivation/self-promotion without enough workflow detail, and duplicate tactics already represented in the wiki.
+- Created raw sources:
+  - `raw/articles/tweet-2086493971350766006-verbalization-list-fragments.md`
+  - `raw/articles/tweet-1980832956349300817-myndmap-goal-check-in.md`
+- Updated concept pages:
+  - `concepts/external-memory.md`
+  - `concepts/task-initiation.md`
+  - `concepts/digital-adhd-support.md`
+- Updated navigation: `index.md` external-memory summary; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/product-practical tips only, not medical evidence; tweet-derived additions remain low/medium-confidence and source-bound.
+
+
+## [2026-08-10] ingest | X/Twitter ADHDパワー系ソリューション定期検索 23
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy, memes, diagnosis discourse, stigma/personal attacks, vague motivation/self-promotion without enough workflow detail, medical/medication claims without sources, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2086606283055202702-end-alarm-before-start.md`
+  - `raw/articles/tweet-2086601199089049749-linear-checklist-pr-ai-final-ten-percent.md`
+  - `raw/articles/tweet-2086588348848837086-ear-blocking-noise-boundary.md`
+  - `raw/articles/tweet-2086550541883277342-hyperfocus-stop-technology.md`
+- Updated concept pages:
+  - `concepts/time-management.md`
+  - `concepts/hyperfocus-control.md`
+  - `concepts/attention-control.md`
+  - `concepts/work-routines.md`
+- Updated navigation: `index.md` date and summaries; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+
+
+## [2026-08-10] ingest | X/Twitter ADHDパワー系ソリューション定期検索 24
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy, memes, diagnosis discourse, stigma/personal attacks, vague motivation/self-promotion without enough workflow detail, medical/medication claims without sources, duplicate tactics already represented in the wiki, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2086701376911139129-ios-app-parallel-task-focus.md`
+  - `raw/articles/tweet-2086658804285149597-fixed-tray-pouring-zone.md`
+  - `raw/articles/tweet-2086659219496083720-fifteen-minute-single-goal-break.md`
+  - `raw/articles/tweet-2083770574933991552-sensory-load-posture-glasses.md`
+- Updated concept pages:
+  - `concepts/digital-adhd-support.md`
+  - `concepts/work-routines.md`
+  - `concepts/time-management.md`
+  - `concepts/task-initiation.md`
+  - `concepts/environment-design.md`
+  - `concepts/attention-control.md`
+- Updated navigation: `index.md` summaries; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical tips or self-experiments only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+
+## [2026-08-10] ingest | Research-watch curated context and self-tracking batch
+
+- Reviewed 5 unprocessed candidates from `.automation/research-watch/candidates.jsonl`.
+- Accepted 5 for raw + existing page updates (score 3); skipped 0 duplicates.
+- Created raw sources:
+  - `raw/papers/husain-2020-supportive-technologies-adhd-slr.md` — Investigating Current State-of-The-Art Applications of Supportive Technologies for Individuals with ADHD
+  - `raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md` — Understanding ADHD Productivity in Construction Work: Toward AI-enabled VR Interventions
+  - `raw/papers/selin-2026-self-tracking-masking-neurodivergent.md` — "Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals
+  - `raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md` — Microtemporal Dynamics of Dietary Intake, Physical Activity, and Impulsivity in Adult Attention-Deficit/Hyperactivity Disorder: Ecological Momentary Assessment Study Within Nutritional Psychiatry
+  - `raw/papers/carr-2026-fielded-attention-adhd-context.md` — Fielded Attention: Reframing ADHD Through a Relational Ontology of Context
+- Updated concept pages:
+  - `concepts/assistive-technology.md`
+  - `concepts/attention-control.md`
+  - `concepts/cognitive-personal-informatics.md`
+  - `concepts/digital-adhd-support.md`
+  - `concepts/environment-design.md`
+  - `concepts/impulsivity-countermeasures.md`
+  - `concepts/work-routines.md`
+- Updated navigation/state: `index.md`, `.automation/research-watch/curation-state.json`.
+- Note: EMA, self-tracking, AI/VR, and contextual-attention sources are design/evidence inputs, not diagnosis, treatment, nutrition, medication, or workplace-surveillance advice.
+
+
+## [2026-08-10] ingest | X/Twitter ADHDパワー系ソリューション定期検索 25
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy, memes, diagnosis discourse, stigma/personal attacks, vague motivation/self-promotion without enough workflow detail, medical/medication claims without sources, duplicate tactics already represented in the wiki, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2086748673787199621-forgetfulness-tool-bundle.md`
+  - `raw/articles/tweet-2086742519904420303-error-manualization-routine.md`
+- Updated concept pages:
+  - `concepts/forgetfulness-countermeasures.md`
+  - `concepts/external-memory.md`
+  - `concepts/environment-design.md`
+  - `concepts/careless-mistake-countermeasures.md`
+  - `concepts/work-routines.md`
+- Updated navigation: `index.md`; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+
+
+## [2026-08-10] ingest | X/Twitter ADHDパワー系ソリューション定期検索 26
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated 74 candidate tweets by tweet ID; skipped already-ingested tweets, generic empathy/diagnosis discourse, stigma or attacks, medical claims without source, vague promotions, and tactics already represented in the wiki.
+- Created raw sources:
+  - `raw/articles/tweet-1141299353497161728-one-sentence-task-splitting.md`
+- Updated concept pages:
+  - `concepts/task-initiation.md`
+- Navigation: `index.md` already listed `[[task-initiation]]`; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; this addition remains low-confidence/source-bound.
+
+
+## [2026-08-11] ingest | X/Twitter ADHDパワー系ソリューション定期検索 27
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy/diagnosis discourse, stigma or attacks, vague promotions, medical claims without source, and tactics already represented without new detail.
+- Created raw sources:
+  - `raw/articles/tweet-2086889863656448054-left-right-task-split.md`
+  - `raw/articles/tweet-2086935624599388361-early-delay-reporting.md`
+  - `raw/articles/tweet-2086950776140886029-delayed-response-after-freeze.md`
+  - `raw/articles/tweet-2086971764631040095-sleep-on-decisions-time-sense.md`
+- Updated concept pages:
+  - `concepts/work-routines.md`
+  - `concepts/external-memory.md`
+  - `concepts/emotion-regulation.md`
+  - `concepts/impulsivity-countermeasures.md`
+  - `concepts/time-management.md`
+- Updated navigation: `index.md`; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+
+## [2026-08-11] ingest | X/Twitter ADHDパワー系ソリューション定期検索 28
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy/diagnosis discourse, stigma or attacks, vague promotions, medical claims without source, and tactics already represented without new detail.
+- Created raw sources:
+  - `raw/articles/tweet-2086991993071374820-morning-three-hour-focus-routine.md`
+  - `raw/articles/tweet-2087011129990300065-overnight-budget-before-spending.md`
+  - `raw/articles/tweet-2086998621673968112-claude-code-remind-watch-organize.md`
+- Updated concept pages:
+  - `concepts/work-routines.md`
+  - `concepts/task-initiation.md`
+  - `concepts/time-management.md`
+  - `concepts/impulsivity-countermeasures.md`
+  - `concepts/digital-adhd-support.md`
+- Updated navigation: `index.md`; total pages unchanged.
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+
+## [2026-08-11] ingest | X/Twitter ADHDパワー系ソリューション定期検索 29
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy/diagnosis discourse, stigma or attacks, vague promotions, medical/supplement claims without source, duplicate tactics already represented without new detail, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2087147124240650316-door-knob-sports-gear-prep.md`
+  - `raw/articles/tweet-2087132477525745945-single-task-hotpot-cooking.md`
+  - `raw/articles/tweet-2087071615096074718-game-login-pre-timer-friction.md`
+  - `raw/articles/tweet-2087012072114569533-after-work-recovery-cost.md`
+  - `raw/articles/tweet-2087094923179004098-twenty-minute-forced-break-agreement.md`
+- Updated concept/navigation pages:
+  - `concepts/forgetfulness-countermeasures.md`
+  - `concepts/environment-design.md`
+  - `concepts/digital-interruptions.md`
+  - `concepts/energy-management.md`
+  - `concepts/work-routines.md`
+  - `index.md`
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+
+## [2026-08-11] ingest | X/Twitter ADHDパワー系ソリューション定期検索 30
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated 73 unique tweet IDs; skipped already-ingested tweets, Kindle/book-sale noise, generic empathy/diagnosis discourse, self-promotion without enough concrete workflow, medical/supplement claims without source, duplicate tactics already represented without new detail, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2087185060562907424-fixed-sequence-departure-check.md`
+- Updated concept/navigation pages:
+  - `concepts/forgetfulness-countermeasures.md`
+  - `index.md`
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+
+## [2026-08-12] ingest | X/Twitter ADHDパワー系ソリューション定期検索 31
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated 76 unique tweet IDs; skipped already-ingested tweets, generic empathy/diagnosis discourse, medical/supplement claims without source, self-promotion without enough workflow detail, duplicate tactics already represented without new detail, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2087328213190217749-thoughts-inbox-evening-triage.md`
+  - `raw/articles/tweet-2084915057650208912-adhd-pomodoro-no-extra-restarts-app.md`
+- Updated concept/navigation pages:
+  - `concepts/task-initiation.md`
+  - `concepts/external-memory.md`
+  - `concepts/time-management.md`
+  - `concepts/digital-adhd-support.md`
+  - `index.md`
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+## [2026-08-12] ingest | X/Twitter ADHDパワー系ソリューション定期検索 32
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy/diagnosis discourse, self-promotion without enough workflow detail, medical/supplement claims without source, duplicate tactics already represented without new detail, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2087416492082258023-ai-close-meeting-attention-residue.md`
+  - `raw/articles/tweet-2087387483411738659-manual-ui-trade-admin-workflow.md`
+- Updated concept/navigation pages:
+  - `concepts/digital-adhd-support.md`
+  - `concepts/work-routines.md`
+  - `concepts/external-memory.md`
+  - `concepts/task-initiation.md`
+  - `index.md`
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+
+## [2026-08-12] ingest | X/Twitter ADHDパワー系ソリューション定期検索 33
+- Searches: 4 searches across `Latest` and `Top` products via bird. Deduplicated candidates by tweet ID; skipped already-ingested tweets, generic empathy/diagnosis discourse, medical/supplement claims without source, duplicate tactics already represented without new detail, self-promotion without enough workflow detail, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2087524179860246583-start-of-day-walltalk-task-capture.md`
+  - `raw/articles/tweet-2087489223616336198-beeper-message-hub-ai-reminders.md`
+  - `raw/articles/tweet-2087487424754757725-ai-empty-function-first-step.md`
+- Updated concept/navigation pages:
+  - `concepts/external-memory.md`
+  - `concepts/task-initiation.md`
+  - `concepts/digital-adhd-support.md`
+  - `concepts/work-routines.md`
+  - `index.md`
+- Note: X/Twitter posts are treated as lived-experience/practical tips only, not medical evidence; tweet-derived additions remain low-confidence/source-bound.
+

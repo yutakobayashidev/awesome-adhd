@@ -2,9 +2,9 @@
 title: ケアレスミス対策
 type: concept
 created: 2026-07-23
-updated: 2026-07-28
+updated: 2026-08-10
 tags: [adhd, working-memory, executive-function, school, work, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md]
+sources: [raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md, raw/articles/tweet-2086742519904420303-error-manualization-routine.md]
 confidence: low
 ---
 
@@ -18,6 +18,7 @@ confidence: low
 - **直前10分のチェックリストにする**: 試験や提出前に、長い復習ではなく「自分がやりがちなミス」だけを見る。確認対象を絞ることで、直前の[[attention-control]]を支える。
 - **教材を増やしすぎない**: 元投稿は、知識不足はテキスト一元化、ケアレスミスは状況メモという使い分けを示している。ノート作成自体が作業化しすぎる場合は、1冊・1ファイルへ集約する。
 - **再発したものだけ昇格する**: 1回目の間違いをすべて記録すると管理対象が増えやすい。複数回出た癖、重要度が高い癖だけをチェック項目にする。
+- **ミス原因を処理単位へ分解し、行為をマニュアル化する**: ミスを見つけたら「自分はダメ」ではなく、どの処理・判断・確認でズレたかを対象化し、その場面で行う動作列を細かく書く。数学学習の投稿では、この反復で心理的負担を下げたとされ、日常生活のルーティン化にも応用できる。^[raw/articles/tweet-2086742519904420303-error-manualization-routine.md]
 
 ## 5つのミス防止仕組み
 

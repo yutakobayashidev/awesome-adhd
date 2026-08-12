@@ -2,69 +2,85 @@
   "created_at": "2026-07-22T08:27:24Z",
   "last_decisions": [
     {
+      "id": "arxiv:2005.09993v1",
+      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2005.09993v1",
       "files_changed": [
-        "raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md",
-        "concepts/executive-function.md",
-        "concepts/medication.md",
+        "raw/papers/husain-2020-supportive-technologies-adhd-slr.md",
+        "concepts/assistive-technology.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "arxiv:2607.18605v1",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2607.18605v1",
+      "files_changed": [
+        "raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md",
+        "concepts/assistive-technology.md",
         "concepts/digital-adhd-support.md",
-        "concepts/cognitive-behavioural-therapy.md",
+        "concepts/work-routines.md",
+        "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ],
-      "id": "pubmed:38178649",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38178649/"
+      ]
     },
     {
+      "id": "arxiv:2603.22609v2",
+      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2603.22609v2",
       "files_changed": [
-        "raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md",
-        "concepts/medication.md",
-        "concepts/diagnosis-and-management.md",
+        "raw/papers/selin-2026-self-tracking-masking-neurodivergent.md",
+        "concepts/assistive-technology.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/cognitive-personal-informatics.md",
+        "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ],
-      "id": "pubmed:42500318",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42500318/"
+      ]
     },
     {
+      "id": "pubmed:37590053",
+      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
-      "files_changed": [
-        "raw/papers/iwanami-2026-guanfacine-adult-adhd-japan-pms.md",
-        "concepts/medication.md",
-        "log.md",
-        ".automation/research-watch/curation-state.json"
-      ],
-      "id": "pubmed:42159952",
       "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42159952/"
-    },
-    {
-      "decision": "accepted_raw_only",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37590053/",
       "files_changed": [
-        "raw/papers/fuengfoo-2026-parent-training-preschool-adhd-thailand-rct.md",
+        "raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/impulsivity-countermeasures.md",
+        "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ],
-      "id": "pubmed:42433964",
-      "score": 2,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42433964/"
+      ]
     },
     {
-      "decision": "accepted_raw_only",
+      "id": "pubmed:41609226",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41609226/",
       "files_changed": [
-        "raw/papers/winter-2026-screen-time-adhd-children-adolescents-narrative-review.md",
+        "raw/papers/carr-2026-fielded-attention-adhd-context.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/attention-control.md",
+        "concepts/environment-design.md",
+        "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ],
-      "id": "pubmed:41237171",
-      "score": 2,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41237171/"
+      ]
     }
   ],
-  "last_run_at": "2026-07-27T07:01:24Z",
+  "last_run_at": "2026-08-10T08:06:33Z",
   "processed": [
     {
       "decision": "accepted",
@@ -291,22 +307,185 @@
       "processed_at": "2026-07-27T07:01:24Z",
       "score": 2,
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41237171/"
+    },
+    {
+      "id": "pubmed:42120372",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42120372/",
+      "files_changed": [
+        "raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "concepts/executive-function.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "pubmed:42312718",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42312718/",
+      "files_changed": [
+        "raw/papers/solanto-2026-executive-self-management-college-adhd.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "concepts/executive-function.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "pubmed:40880228",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40880228/",
+      "files_changed": [
+        "raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "pubmed:40849121",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40849121/",
+      "files_changed": [
+        "raw/papers/yitzhak-2025-emotional-pendulum-adhd-ema.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "pubmed:37971947",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37971947/",
+      "files_changed": [
+        "raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md",
+        "concepts/emotion-regulation.md",
+        "concepts/digital-adhd-support.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "arxiv:2005.09993v1",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2005.09993v1",
+      "files_changed": [
+        "raw/papers/husain-2020-supportive-technologies-adhd-slr.md",
+        "concepts/assistive-technology.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "arxiv:2607.18605v1",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2607.18605v1",
+      "files_changed": [
+        "raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md",
+        "concepts/assistive-technology.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/work-routines.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "arxiv:2603.22609v2",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2603.22609v2",
+      "files_changed": [
+        "raw/papers/selin-2026-self-tracking-masking-neurodivergent.md",
+        "concepts/assistive-technology.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/cognitive-personal-informatics.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "pubmed:37590053",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37590053/",
+      "files_changed": [
+        "raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/impulsivity-countermeasures.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
+    },
+    {
+      "id": "pubmed:41609226",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "decision": "accepted",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41609226/",
+      "files_changed": [
+        "raw/papers/carr-2026-fielded-attention-adhd-context.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/attention-control.md",
+        "concepts/environment-design.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ]
     }
   ],
   "processed_ids": [
+    "arxiv:2005.09993v1",
     "arxiv:2302.06376v2",
     "arxiv:2504.13058v1",
     "arxiv:2512.01111v1",
     "arxiv:2601.21791v1",
     "arxiv:2602.16893v2",
+    "arxiv:2603.22609v2",
     "arxiv:2605.31131v1",
+    "arxiv:2607.18605v1",
+    "pubmed:37590053",
+    "pubmed:37971947",
     "pubmed:38178649",
     "pubmed:38231536",
+    "pubmed:40849121",
+    "pubmed:40880228",
     "pubmed:41237171",
+    "pubmed:41609226",
     "pubmed:41638541",
+    "pubmed:42120372",
     "pubmed:42142506",
     "pubmed:42159952",
     "pubmed:42177761",
+    "pubmed:42312718",
     "pubmed:42433964",
     "pubmed:42500318"
   ],

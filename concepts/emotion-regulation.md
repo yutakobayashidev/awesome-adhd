@@ -1,10 +1,10 @@
 ---
 title: 感情調整
 created: 2026-07-22
-updated: 2026-07-28
+updated: 2026-08-11
 type: concept
 tags: [adhd, emotion-regulation, anxiety, depression, executive-function]
-sources: [raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md, raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md, raw/articles/tweet-2081875013561708615-rsd-seven-symptoms-five-countermeasures.md, raw/articles/tweet-2081991150618177582-rsd-mistake-defense-three-tactics.md]
+sources: [raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md, raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md, raw/articles/tweet-2081875013561708615-rsd-seven-symptoms-five-countermeasures.md, raw/articles/tweet-2081991150618177582-rsd-mistake-defense-three-tactics.md, raw/papers/yitzhak-2025-emotional-pendulum-adhd-ema.md, raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md, raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md, raw/articles/tweet-2083021519412961526-reset-impulse-countermeasures.md, raw/articles/tweet-2086950776140886029-delayed-response-after-freeze.md]
 confidence: medium
 ---
 
@@ -23,6 +23,15 @@ Gelnerら（2024）は、ADHD症状と精神病様体験の関連に、[[ruminat
 Akcaら（2026）は、成人ADHDの感情調整支援を設計するために、生成AIをUXリサーチの共同分析に使う方法論を提案している。DBT、自己決定理論、COM-Bなどを参照し、神経多様性に配慮したデジタル介入の仮説・設計カードへ落とす点が中心で、臨床効果の検証ではない。^[raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md]
 
 Nordbyら（2024）は、成人ADHDと感情調整困難のある16人を対象に、対面グループとデジタル伴走アプリを組み合わせた8週間介入の開発・実現可能性を報告した。感情調整症状などの自己報告改善は見られたが、非ランダム化の小規模事前事後研究なので、[[digital-adhd-support]]としては「有望な予備研究」に留めて読む。^[raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md]
+
+
+## EMAで見る日常の感情変動
+
+Yitzhakら（2025）は、ADHDのある若年成人57人と対照54人に5日間・1日5回のEMAを行い、ADHD群では個人内の感情のばらつきが高く、自己報告の感情調整困難とも関連していたと報告した。一方で、日内・日間の急な揺れ（lability）では群差が見られなかった。感情調整を「いつも荒れている」と単純化せず、日常場面での変動幅として見る材料になる。^[raw/papers/yitzhak-2025-emotional-pendulum-adhd-ema.md]
+
+Ben-Dor Cohenら（2024）は、ADHDのある若年成人60人の混合研究で、感情調整困難への自己認識と対処戦略に大きな個人差があり、自己認識と戦略選択が関連していたと示した。対処は努力量、好み、短期的な楽さと長期的な有効性のトレードオフに左右されるため、[[digital-adhd-support]]や支援者は「正しい対策を提示する」だけでなく、本人が手がかり・文脈・コストを把握できる足場を作る必要がある。^[raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md]
+
+高リスク飲酒を伴う若年成人ADHD向けのmHealth EMI開発論文（Kennedyら, 2026）は、EMAを評価だけでなく、自己認識、個別フィードバック、文脈に合わせた短い対処提案へ接続する設計を説明している。これは介入開発の報告であり効果検証ではないが、感情・衝動・物質使用リスクが絡む場面では、本人の入力負荷と監視感を増やしすぎない個別化が重要になる。^[raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md]
 
 ## 投稿から抽出した具体的工夫
 
@@ -57,6 +66,20 @@ ADHDでは、ミスを指摘された時にRSDと認知的不協和から防衛�
 3. **謝罪で終わらず、仕組みに変える**: 「次から気をつけます」ではなく、チェックリスト・リマインダー・確認者・作業手順テンプレート化など「次に起きない仕組み」まで作る。ここにプライドを使う。
 
 この3つの対策は[[work-routines|仕事のルーティン]]や[[relationships|人間関係]]ともクロスする。
+
+対人場面で言葉が出ずフリーズする場合は、その場で勝とうとする前提を外し、感情が引いた後に落ち着いて返す仕組みを先に持つ。たとえば「今は整理してから返します」という定型文、事後メモ、後追い返信の時間枠を用意し、即時反応を能力評価にしない。^[raw/articles/tweet-2086950776140886029-delayed-response-after-freeze.md]
+
+## リセット衝動（全部捨てたくなる）への対策
+
+ADHDでは「全部リセットしたい」という衝動が起こることがある。背景には3つの仕組みがある: ①[[all-or-nothing-thinking|白黒思考]]で部分的な問題が「全部ダメ」になる、②RSDで「切られる前に切りたくなる」防衛反応、③認知的なオーバーロードによる脳の「強制終了」。
+
+対策は人生を捨てることではなく、**脳を安全に小さく再起動すること**:
+
+1. **重大な決断はいったん保留する**: 退職・別れる・縁を切る・アカウントを消すなど元に戻しにくい決断は、感情が強い時には実行しない。「今は決めない」も立派な判断。
+2. **「今、脳がオーバーヒートしてる」と実況する**: 「人生が全部ダメ」と決めるのではなく、「あ、今リセット衝動が来てる」と一歩離れて観察する。今の感情は人生の結論ではない。
+3. **信頼できる人に判断を一時的に借りる**: 「全部続ける」か「全部捨てる」の二択しか見えなくなっている時に、第三者に相談することで「この部分だけ休めばいい」という第3の選択肢が見つかる。
+
+小さなリセットから始める: スマホの電源を切る、今日は早く眠る、予定を一つ減らす、半日だけ一人になる、返信を明日に回す。^[raw/articles/tweet-2083021519412961526-reset-impulse-countermeasures.md]
 
 ## 関連
 

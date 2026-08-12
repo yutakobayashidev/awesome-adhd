@@ -1,10 +1,10 @@
 ---
 title: ADHDと人間関係
 created: 2026-07-24
-updated: 2026-07-28
+updated: 2026-08-09
 type: concept
 tags: [adhd, relationships, executive-function, emotion-regulation, impulsivity, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md, raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md]
+sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md, raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md, raw/articles/tweet-2083028275752783965-relationship-reconnect-one-message.md, raw/articles/tweet-2086135350314061910-five-person-relationship-reminders.md, raw/articles/tweet-2086407172221759835-no-script-implementation-intention.md]
 confidence: low
 ---
 
@@ -45,6 +45,14 @@ ADHDのパートナーとの約束や予定の共有では、口頭での会話�
 
 RSD（拒絶敏感性）の具体的対策は[[emotion-regulation#RSD（拒絶敏感性）への実践的対策|感情調整ページのRSDセクション]]に詳しい。「即答しない」「断る＝嫌われるではない」「事実確認」「70点で十分」「安心できる環境を選ぶ」の5つの対策を参照。
 
+## 大事な人5人だけを年3回通知する
+
+関係維持を「自然に思い出せるはず」という気持ちの問題にせず、切りたくない相手を5人だけ選び、誕生日＋任意の2回をカレンダー通知にする。送る文面も「元気にしてる？」程度に固定し、返事が来なくても気にしないと先に決める。すべての関係を維持するのではなく、[[external-memory]]へ預けられる少数だけ守る設計。^[raw/articles/tweet-2086135350314061910-five-person-relationship-reminders.md]
+
+## 断る台本を事前に決める
+
+「断れない→溜め込む→爆発」のループを、性格や意志力ではなく、その場判断の負荷として扱う。誘われたら「先約がある」と言う、追加作業を頼まれたら「今の予定を確認して返します」と返す、のように短い台本を先に決めておく。断る瞬間に理由を組み立てる必要をなくし、[[working-memory]]と感情負荷を下げる境界設定の仕組み。^[raw/articles/tweet-2086407172221759835-no-script-implementation-intention.md]
+
 ## 注意点
 
 X投稿は当事者の試行錯誤であり、医学的エビデンスではない。持続的な対人困難が生活を大きく損なっている場合は、専門職（精神科医・心理士など）への相談も検討する。
@@ -57,3 +65,12 @@ X投稿は当事者の試行錯誤であり、医学的エビデンスではな�
 - [[environment-design]]
 - [[executive-function]]
 - [[working-memory]]
+
+## 疎遠になりかけた関係へ戻る力
+
+ADHD傾向がある人ほど、返信の先延ばしや拒絶への過敏さ（RSD）から自分から距離をとり、徐々に孤立しやすい。成人ADHDでは症状が強いほど孤独感が強く、中年期の持続的孤独は実行機能低下とも関連するという知見がある。
+
+対策は「連絡を一度も切らさない」ことではなく、「切れかけたときに戻る力」を育てること:
+
+- **「最近どう？」と1通LINEを送る**: 気づいた時に短いメッセージを1通だけ送る。相手にとって迷惑ではなく、むしろ嬉しい連絡であることが多い。
+- **完璧な関係維持を目指さない**: 途切れた関係すべてを修復しようとせず、今つながりたいと思える人にだけ手を伸ばす。完璧主義が返信のハードルを上げる悪循環を断つ。^[raw/articles/tweet-2083028275752783965-relationship-reconnect-one-message.md]

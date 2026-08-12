@@ -1,10 +1,10 @@
 ---
 title: 認知パーソナルインフォマティクス
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-10
 type: concept
 tags: [adhd, attention, executive-function, working-memory, accessibility, tool, research]
-sources: [raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md, raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md, raw/papers/pubmed-adhd-ema-daily-life-adolescents-2026.md]
+sources: [raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md, raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md, raw/papers/pubmed-adhd-ema-daily-life-adolescents-2026.md, raw/papers/selin-2026-self-tracking-masking-neurodivergent.md, raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md, raw/papers/carr-2026-fielded-attention-adhd-context.md]
 confidence: medium
 ---
 
@@ -25,6 +25,14 @@ confidence: medium
 - [[task-resumption]] と合わせて、中断前の場所、次の一手、戻るまでの時間を記録する。
 - [[working-memory]] と合わせて、頭の中に保持していた項目数を、メモ、予定、画面表示へ逃がす。
 - [[fear-of-missing-out]] と合わせて、見逃し不安が強い場面で「確認済み範囲」と「次回確認時刻」が効くかを見る。
+
+## 文脈・感情労働・日常測定
+
+Selinら（2026）は、自閉・ADHDを含む神経多様者がマスキング経験を視覚化し、少人数でセルフトラッキングを試した研究で、記録が自己洞察だけでなく解釈負荷や感情労働を生むことを示した。認知パーソナルインフォマティクスでは、測る対象を増やすより、本人が安全に読める形式、文脈を失わない記録、ピア共有の支えを設計する必要がある。^[raw/papers/selin-2026-self-tracking-masking-neurodivergent.md]
+
+Rufら（2023）の成人ADHDを含むEMA研究は、食事、身体活動、状態衝動性の短時間関係を日常生活で測ろうとした例である。結果は食事成分と衝動性の単純な短時間関連を支持せず、EMAは「原因をすぐ特定する装置」ではなく、仮説の粒度・入力負荷・測定期間を慎重に設計する方法として扱う。^[raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md]
+
+Carr（2026）のFielded Attentionは、注意を個人内の固定特性だけでなく、リズム、環境の手がかり、社会・物質的文脈との関係で生じるものとして捉える。これは[[attention-control]]や[[environment-design]]のページで扱う「注意を環境側にも分散する」発想を、概念面から補強する。^[raw/papers/carr-2026-fielded-attention-adhd-context.md]
 
 ## 注意点
 

@@ -1,10 +1,10 @@
 ---
 title: エネルギー管理（ADHDバーンアウト対策）
 created: 2026-07-23
-updated: 2026-07-28
+updated: 2026-08-11
 type: concept
 tags: [adhd, executive-function, time-management, work, home, lived-experience]
-sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md, raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md, raw/articles/tweet-2081726188532477959-low-gi-diet-brain-fog.md, raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md]
+sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md, raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md, raw/articles/tweet-2081726188532477959-low-gi-diet-brain-fog.md, raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md, raw/articles/tweet-2087012072114569533-after-work-recovery-cost.md]
 confidence: low
 ---
 
@@ -58,6 +58,8 @@ ADHDの脳疲労が深刻でHPゼロ状態に陥っている場合、以下の�
 ## 目先の節約と未来の損失を数字で比較する
 
 ADHDは目先のコストしか見えず、「今の損」に鈍感で「未来の損」に無防備な傾向がある。例えば「節約のために歩いて帰る（タクシー代1200円節約）」という根性論が、翌日の発熱で潰れた有給（8時間分の損失）を招く。体力・健康・時間といった資源を節約する時ほど、目先の金額と未来の損失を数字で比較する視点がエネルギー管理に役立つ。^[raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md]
+
+- **帰宅後の回復コストを先に見積もる**: やりたくない仕事を8時間こなした後に「帰ってから頑張る」と予定を積むと、帰宅時の強制シャットダウンで破綻しやすい。仕事後の自分を別人のように扱い、回復時間を予定に入れてから夜のタスク量を決める。^[raw/articles/tweet-2087012072114569533-after-work-recovery-cost.md]
 
 ## 関連ページ
 

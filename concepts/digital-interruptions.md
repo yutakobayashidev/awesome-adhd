@@ -1,10 +1,10 @@
 ---
 title: デジタル割り込み
 created: 2026-07-23
-updated: 2026-07-28
+updated: 2026-08-11
 type: concept
 tags: [adhd, attention, time-management, executive-function, tool, research, lived-experience, japanese-context]
-sources: [raw/papers/baughan-2022-design-influences-dissociation-social-media.md, raw/papers/fitz-2019-batching-smartphone-notifications-wellbeing.md, raw/papers/kushlev-2015-checking-email-less-stress.md, raw/papers/hiniker-2016-mytime-smartphone-non-use.md, raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md, raw/articles/tweet-2082033754877661336-smartphone-friction-notification-off.md]
+sources: [raw/papers/baughan-2022-design-influences-dissociation-social-media.md, raw/papers/fitz-2019-batching-smartphone-notifications-wellbeing.md, raw/papers/kushlev-2015-checking-email-less-stress.md, raw/papers/hiniker-2016-mytime-smartphone-non-use.md, raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md, raw/articles/tweet-2082033754877661336-smartphone-friction-notification-off.md, raw/articles/tweet-2087071615096074718-game-login-pre-timer-friction.md]
 confidence: medium
 ---
 
@@ -23,6 +23,8 @@ ForsterらのADHD妨害刺激研究と合わせると、通知やSNSは単なる
 - SNSや動画は開始前に終了条件、アプリ制限、物理的な離席を用意する。
 - スマホ自体を触りにくくする。グレースケール化、SNSアプリをホーム画面から消す、別室に置くなど、小さな摩擦を入れる。電話以外の通知を切り、対応時間を明記しておくと「見ないこと」への不安も下げられる。^[raw/articles/tweet-2082033754877661336-smartphone-friction-notification-off.md]
 - 中断後の[[task-resumption]]を助けるため、作業中の次の一手を残す。
+
+- **ゲームを開く前にタイマーを1つ増やす**: 「ログインだけ」が1時間に伸びる問題は、開いた後に我慢するより、開く前に15分タイマーをかけるなど入口に摩擦と終了手がかりを置く。SNS制限と同じく、本人の意志ではなくアプリ開始前の儀式で時間の境界を作る。^[raw/articles/tweet-2087071615096074718-game-login-pre-timer-friction.md]
 
 ## 関連
 
