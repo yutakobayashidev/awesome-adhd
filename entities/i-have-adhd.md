@@ -1,10 +1,10 @@
 ---
 title: i-have-adhd
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-08-21
 type: entity
 tags: [adhd, tool, accessibility, executive-function, working-memory, work]
-sources: [raw/articles/i-have-adhd-github-2026.md, raw/articles/i-have-adhd-agent-output-skill-2026.md]
+sources: [raw/articles/i-have-adhd-github-2026.md, raw/articles/i-have-adhd-agent-output-skill-2026.md, raw/articles/tweet-2090804780730036357-sessionstart-rule-injection.md]
 confidence: medium
 ---
 
@@ -28,6 +28,8 @@ confidence: medium
 
 READMEとインストール文書では、Claude Code、Codex、Zed、Hermes、Gemini、Cursor、Antigravityなどのエージェント環境で使う方法が示されている。Claude Codeでは `/i-have-adhd` で呼び出し、任意で `~/.claude/.i-have-adhd-always` を作ると SessionStart hook が常時読み込む。
 
+2026-08-21の紹介投稿は、この常時適用を「人が毎回『短く』『結論から』『次の一手を』と入力し直さなくてよい」外部化として具体化している。ルールは「番号つき手順」「最後に具体的な次行動」のように行動可能な形へ分け、詳細説明時や破壊的操作前の例外を明記すると、簡潔さと安全性を両立しやすい。これは当事者・開発者による運用例であり、臨床効果の主張ではない。^[raw/articles/tweet-2090804780730036357-sessionstart-rule-injection.md]
+
 ## 評価の姿勢
 
 誤投入側から移した `i-have-adhd-agent-output-skill-2026` は、この道具を agent の文章出力契約として見る補助資料である。単なる短文化ではなく、answer-first、番号つき手順、次の一手、余談抑制、見える完了を出力形式へ固定する点が重要である。^[raw/articles/i-have-adhd-agent-output-skill-2026.md]
@@ -41,6 +43,7 @@ READMEとインストール文書では、Claude Code、Codex、Zed、Hermes、G
 - 出力形式の工夫であり、効果検証済みの臨床介入ではない。
 - 常時有効化は便利だが、説明を深く求める場面では例外規則が必要になる。
 - 破壊的操作や曖昧な依頼では、短さより安全確認を優先する。
+- SessionStart等で第三者プラグインを自動実行する前に、リポジトリとローカル実行内容を確認する。
 
 ## 関連
 

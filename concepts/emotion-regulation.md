@@ -1,10 +1,13 @@
 ---
 title: 感情調整
 created: 2026-07-22
-updated: 2026-08-11
+updated: 2026-09-07
 type: concept
 tags: [adhd, emotion-regulation, anxiety, depression, executive-function]
-sources: [raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md, raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md, raw/articles/tweet-2081875013561708615-rsd-seven-symptoms-five-countermeasures.md, raw/articles/tweet-2081991150618177582-rsd-mistake-defense-three-tactics.md, raw/papers/yitzhak-2025-emotional-pendulum-adhd-ema.md, raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md, raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md, raw/articles/tweet-2083021519412961526-reset-impulse-countermeasures.md, raw/articles/tweet-2086950776140886029-delayed-response-after-freeze.md]
+sources: [raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/articles/tweet-2080187878118961279-emotional-boundary-three-methods.md, raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md, raw/articles/tweet-2081875013561708615-rsd-seven-symptoms-five-countermeasures.md, raw/articles/tweet-2081991150618177582-rsd-mistake-defense-three-tactics.md, raw/papers/yitzhak-2025-emotional-pendulum-adhd-ema.md, raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md, raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md, raw/articles/tweet-2083021519412961526-reset-impulse-countermeasures.md, raw/articles/tweet-2086950776140886029-delayed-response-after-freeze.md, raw/papers/gelner-2026-adhd-symptoms-ple-temporal-network-esm.md, raw/papers/ain-2026-mind-wandering-affective-valence-adhd-ema.md, raw/papers/turner-2025-daily-activities-self-esteem-university-adhd.md, raw/articles/tweet-2091775011078259125-emotion-switch-timer-movement.md, raw/papers/goh-2026-adhd-internalizing-college-time-series.md]
+source_additions_2026-08-31_research_watch: [raw/papers/mitchell-2017-mindfulness-adult-adhd-pilot-trial.md]
+source_additions_2026-09-03_research_watch: [raw/papers/murray-2021-ema-emotional-dysregulation-adult-adhd-internalising.md]
+source_additions_2026-09-07_research_watch: [raw/papers/goh-2026-day-to-day-adhd-stress-college-ema.md]
 confidence: medium
 ---
 
@@ -17,6 +20,8 @@ confidence: medium
 成人ADHDのCBTレビューでは、CBT系介入がADHD中核症状だけでなく、不安や抑うつなどの二次的困りごとを改善する可能性が示唆された。^[raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
 
 Gelnerら（2024）は、ADHD症状と精神病様体験の関連に、[[rumination]]と否定的感情が関わる可能性を示した。感情調整は、併存症や重い不安を単純化せずに扱うための入口になる。^[raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md]
+
+Gelnerら（2026）は、7日間のESMと時間ネットワーク分析で、高ADHD症状群ではコルチゾール、脅威予期、妄想様体験の関係が低ADHD症状群と異なる可能性を示した。どちらの群でも否定的感情は反すうを強く予測しており、PLEs関連の研究でも感情・ストレス調整を単なる二次問題として軽く扱わないことが重要になる。^[raw/papers/gelner-2026-adhd-symptoms-ple-temporal-network-esm.md, raw/papers/ain-2026-mind-wandering-affective-valence-adhd-ema.md]
 
 ## デジタル支援と混合介入
 
@@ -32,6 +37,20 @@ Yitzhakら（2025）は、ADHDのある若年成人57人と対照54人に5日間
 Ben-Dor Cohenら（2024）は、ADHDのある若年成人60人の混合研究で、感情調整困難への自己認識と対処戦略に大きな個人差があり、自己認識と戦略選択が関連していたと示した。対処は努力量、好み、短期的な楽さと長期的な有効性のトレードオフに左右されるため、[[digital-adhd-support]]や支援者は「正しい対策を提示する」だけでなく、本人が手がかり・文脈・コストを把握できる足場を作る必要がある。^[raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md]
 
 高リスク飲酒を伴う若年成人ADHD向けのmHealth EMI開発論文（Kennedyら, 2026）は、EMAを評価だけでなく、自己認識、個別フィードバック、文脈に合わせた短い対処提案へ接続する設計を説明している。これは介入開発の報告であり効果検証ではないが、感情・衝動・物質使用リスクが絡む場面では、本人の入力負荷と監視感を増やしすぎない個別化が重要になる。^[raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md]
+
+
+Ainら（2026）は、ADHD症状次元によって、意図的なマインドワンダリングと感情価の関係が反対方向になりうることをEMAで示した。これは、感情調整を「気が散るから悪い」と単純化せず、本人が意図して考えを泳がせているのか、勝手に逸れて困っているのかを分けて聞く必要を示す。^[raw/papers/ain-2026-mind-wandering-affective-valence-adhd-ema.md]
+
+TurnerとHarty（2025）は、ニュージーランドの大学生125人（ADHD診断基準を満たす50人を含む）を対象に、7日間EMAで瞬間的自尊感情・気分・活動を測定した。ADHD群では全般的自尊感情や学業自己効力感が低く、精神的苦痛が高い傾向があり、両群で「一人でいる」「先延ばし中」は瞬間的自尊感情の低下と関連した。これは大学生支援で、自尊感情を固定的な性格評価ではなく、活動・孤立・先延ばしと連動する状態として扱う材料になる。^[raw/papers/turner-2025-daily-activities-self-esteem-university-adhd.md]
+
+Gohら（2026）は、ADHD関連の困りごとがある大学生151人を28日間・1日1回で追跡し、ADHD症状と不安・抑うつ症状の日々の関係を調べた。リラックスしにくさや先延ばしは翌日の不安症状と双方向に関連し、集中困難と抑うつ症状にも時間差の関連が見られた。これは因果を断定するものではないが、大学生支援では「注意」「先延ばし」「不安・落ち込み」を別々の問題として切り離しすぎず、短い周期で状態を確認する意義を示す。^[raw/papers/goh-2026-adhd-internalizing-college-time-series.md]
+
+Murrayら（2021）は、成人移行期の260人を対象に14日間のEMAデータを用い、ADHD症状と不安・抑うつなどの内在化症状の関連を、日常場面の感情の揺れ（emotional lability）が媒介する可能性を報告した。横断的な媒介分析なので因果や介入効果は断定できないが、成人ADHD支援では、注意・先延ばしだけでなく、日々の感情変動を本人に負担の少ない形で把握する意義を補強する。^[raw/papers/murray-2021-ema-emotional-dysregulation-adult-adhd-internalising.md]
+
+
+## マインドフルネス研究との接点
+
+Mitchellら（2017）の成人ADHDパイロット試験では、8週間のマインドフルネス瞑想トレーニング後、自己報告の感情調整困難が待機群より改善した。これは感情を消す技術ではなく、注意・反応・自己観察を扱う支援候補として読める。ただし小規模で予備的な試験であり、苦痛が強い場合の治療判断や個別助言には使わない。^[raw/papers/mitchell-2017-mindfulness-adult-adhd-pilot-trial.md]
 
 ## 投稿から抽出した具体的工夫
 
@@ -80,6 +99,13 @@ ADHDでは「全部リセットしたい」という衝動が起こることが�
 3. **信頼できる人に判断を一時的に借りる**: 「全部続ける」か「全部捨てる」の二択しか見えなくなっている時に、第三者に相談することで「この部分だけ休めばいい」という第3の選択肢が見つかる。
 
 小さなリセットから始める: スマホの電源を切る、今日は早く眠る、予定を一つ減らす、半日だけ一人になる、返信を明日に回す。^[raw/articles/tweet-2083021519412961526-reset-impulse-countermeasures.md]
+
+## 時間枠と軽い動作で切り替える
+
+感情が強い時に、解決しようとして長く反すうする代わりに、**「10分だけ扱う」タイマー**を先に設定する実践例がある。終了後は散歩・ストレッチなどの軽い身体活動、または別の低負荷な刺激へ移ることで、感情を否定せずに切り替えの足場を作る。これは個人の工夫であり、感情調整の治療効果を示すものではない。苦痛が強い、危険を感じる、または切り替えられない状態が続く場合は、生活ハックだけで抱えず専門的な支援につなぐ。^[raw/articles/tweet-2091775011078259125-emotion-switch-timer-movement.md]
+
+Gohら（2026）の別の大学生EMA研究では、28日間のデータから、集中困難・先延ばしと知覚ストレスが翌日方向にも同時点にも結びつく可能性が示された。特に「自分で制御できていない感じ」は翌日のADHD症状の上昇と関連しており、感情調整支援では気分記録だけでなく、先延ばし、集中困難、制御感を小さく観察する設計が候補になる。ただし対象は大学生で、観察研究である。^[raw/papers/goh-2026-day-to-day-adhd-stress-college-ema.md]
+
 
 ## 関連
 

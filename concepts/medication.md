@@ -1,10 +1,10 @@
 ---
 title: 薬物療法
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-08-13
 type: concept
 tags: [adhd, medication, guideline, diagnosis]
-sources: [raw/articles/nice-ng87-recommendations-2026.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md, raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md, raw/papers/iwanami-2026-guanfacine-adult-adhd-japan-pms.md]
+sources: [raw/articles/nice-ng87-recommendations-2026.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md, raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md, raw/papers/iwanami-2026-guanfacine-adult-adhd-japan-pms.md, raw/papers/garcia-argibay-2026-adhd-autism-medication-patterns-sweden.md]
 confidence: medium
 ---
 # 薬物療法

@@ -2,9 +2,9 @@
 title: ケアレスミス対策
 type: concept
 created: 2026-07-23
-updated: 2026-08-10
+updated: 2026-09-16
 tags: [adhd, working-memory, executive-function, school, work, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md, raw/articles/tweet-2086742519904420303-error-manualization-routine.md]
+sources: [raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md, raw/articles/tweet-2086742519904420303-error-manualization-routine.md, raw/articles/tweet-2089665226186908143-confirmation-done-mark-checklist.md, raw/articles/tweet-2099762658509742550-file-spine-alignment-check.md]
 confidence: low
 ---
 
@@ -18,6 +18,7 @@ confidence: low
 - **直前10分のチェックリストにする**: 試験や提出前に、長い復習ではなく「自分がやりがちなミス」だけを見る。確認対象を絞ることで、直前の[[attention-control]]を支える。
 - **教材を増やしすぎない**: 元投稿は、知識不足はテキスト一元化、ケアレスミスは状況メモという使い分けを示している。ノート作成自体が作業化しすぎる場合は、1冊・1ファイルへ集約する。
 - **再発したものだけ昇格する**: 1回目の間違いをすべて記録すると管理対象が増えやすい。複数回出た癖、重要度が高い癖だけをチェック項目にする。
+- **棚の状態に「正しく戻った」印を残す**: 紙ファイルを並べる棚では、背表紙をまたぐ一本線を引き、線の連続性を戻し間違い・欠落の視覚チェックにする。ファイル名や並び順を記憶して確認する代わりに、物理状態の崩れを見つける低コストの品質ゲートとして使える。機密情報や公文書の取扱い・ラベル規則を優先し、共用ファイルは管理者の許可を得る。^[raw/articles/tweet-2099762658509742550-file-spine-alignment-check.md]
 - **ミス原因を処理単位へ分解し、行為をマニュアル化する**: ミスを見つけたら「自分はダメ」ではなく、どの処理・判断・確認でズレたかを対象化し、その場面で行う動作列を細かく書く。数学学習の投稿では、この反復で心理的負担を下げたとされ、日常生活のルーティン化にも応用できる。^[raw/articles/tweet-2086742519904420303-error-manualization-routine.md]
 
 ## 5つのミス防止仕組み
@@ -29,6 +30,10 @@ ADHDの人は「ミスをなくそう」とするより、ミスが起きても�
 3. **重要な作業はダブルチェック**: 送信前に30秒見直す。お金や契約に関わることは特に確認する。
 4. **作業を細かく分ける**: 「資料作成」ではなく「資料を開く→見出し作成→本文作成」のように分解し、一歩ずつ進める。
 5. **急がない**: ADHDは焦るとミスが増えやすい。「5分早く終わらせる」より「1回で正確に終わらせる」を意識する。
+
+## 確認不安を閉じるチェック欄
+
+確認回数を増やしても不安が残る場合、「宛先・本文・添付・最終確認完了」のような短いチェック欄を通し、最後に「確認済み」を残して次へ進む。ポイントは安心感が出るまで見るのではなく、必要な確認が終わった事実を外へ残すこと。メール送信・提出物・申請フォームなど、確認がループしやすい仕事では、[[external-memory]]と[[work-routines]]を兼ねる品質ゲートになる。^[raw/articles/tweet-2089665226186908143-confirmation-done-mark-checklist.md]
 
 ## 注意点
 

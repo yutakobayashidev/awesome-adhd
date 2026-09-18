@@ -1,11 +1,12 @@
 ---
 title: 待機モード
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-24
 type: concept
 tags: [adhd, time-management, executive-function, working-memory, attention, anxiety]
-sources: [raw/articles/waiting-mode-the-conversation-2026.md]
+sources: [raw/articles/waiting-mode-the-conversation-2026.md, raw/articles/tweet-2088204763397779721-waiting-mode-backward-alarm.md]
 confidence: medium
+source_additions_2026-08-24: [raw/articles/tweet-2091963783891857438-schedule-at-day-edges-waiting-mode.md]
 ---
 
 # 待機モード
@@ -24,10 +25,13 @@ confidence: medium
 ## 支援の型
 
 - **予定を早い時間に置く**: 可能なら重要な予定を午前や早い時間帯に寄せ、待つ時間を短くする。
+- **予定を一日の端へまとめる**: 予定を午前の最初か一日の最後へ寄せ、中間の予定を減らすと、待機モードで使えなくなる時間を狭められるという個人の実践提案がある。予定を頭内で保持し続ける代わりに、カレンダーの配置そのものを変える低信頼度の工夫として試す。^[raw/articles/tweet-2091963783891857438-schedule-at-day-edges-waiting-mode.md]
 - **前の時間を小分けにする**: 予定までを大きな空白にせず、低負荷の短い作業枠に分ける。
 - **外部リマインダーに預ける**: タイマー、アラーム、複数リマインダーを使い、予定を頭で保持し続けない。
 - **前日に準備する**: 持ち物、服、移動手順などを前もって外へ出し、当日の判断を減らす。
 - **所要時間を記録する**: 実際に支度や移動に何分かかったかを残し、次回の見積もりを補正する。
+
+- **予定・出発・準備開始を先に置く**: 例として15:00予定なら14:00出発、13:30準備開始まで決め、13:30までは自由時間として扱う。予定を一日中頭で保持せず、準備開始アラームへ預けることで、予定前の時間を回収しやすくする。^[raw/articles/tweet-2088204763397779721-waiting-mode-backward-alarm.md]
 
 ## 注意点
 

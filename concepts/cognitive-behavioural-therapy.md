@@ -1,10 +1,11 @@
 ---
 title: 認知行動療法
 created: 2026-07-22
-updated: 2026-07-30
+updated: 2026-08-31
 type: concept
 tags: [adhd, therapy, research, executive-function, anxiety, depression]
 sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md, raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md, raw/papers/solanto-2026-executive-self-management-college-adhd.md]
+source_additions_2026-08-31_research_watch: [raw/papers/damelio-2026-attexis-digital-cbt-adult-adhd-rct.md, raw/papers/mitchell-2017-mindfulness-adult-adhd-pilot-trial.md, raw/papers/velder-shukrun-2026-cog-fun-a-adult-adhd-case-series.md]
 confidence: medium
 ---
 
@@ -32,6 +33,15 @@ Canuら（2026）は、大学生ADHD向けの組織化・時間管理・計画�
 Solantoら（2026）の公開試験では、都市部の公立大学でADHD診断基準を満たす41人を対象に、12週間のグループCBT型「実行自己管理」介入を実施した。時間管理、組織化、計画、先延ばし、注意散漫、否定的自動思考、読解保持、レポート構成などを扱い、終了者の評価は高かった。ただし非対照試験なので、有効性の断定ではなく、大学キャンパスで実装しやすい支援候補として読む。^[raw/papers/solanto-2026-executive-self-management-college-adhd.md]
 
 この2件は、[[executive-function]]や[[time-management]]を「学生本人の努力不足」ではなく、支援プログラムとして教えられるスキル群に分解する材料になる。一方で、対象は主に北米の大学生・若年成人であり、日本の大学支援や成人一般へそのまま外挿しない。
+
+
+## デジタルCBT・マインドフルネス・作業療法的支援
+
+D’Amelioら（2026）のattexis試験は、成人ADHDに対する完全自習型デジタル介入を通常治療へ追加し、3か月と6か月で自己報告症状と心理社会的アウトカムの改善を報告した。CBTとマインドフルネスを低しきい値で届ける候補として重要だが、これは個別治療の推奨ではなく、通常治療への追加介入としてのRCT結果である。^[raw/papers/damelio-2026-attexis-digital-cbt-adult-adhd-rct.md]
+
+Mitchellら（2017）の成人ADHDマインドフルネス・パイロット試験では、8週間のグループ介入で自己報告・臨床評価のADHD症状、実行機能、感情調整が待機群より改善した一方、客観的な実行機能課題では改善が見られなかった。n=20の小規模研究なので、[[emotion-regulation]]と[[executive-function]]の補助候補として慎重に扱う。^[raw/papers/mitchell-2017-mindfulness-adult-adhd-pilot-trial.md]
+
+Velder Shukrunら（2026）のCog-Fun-A極端ケース分析は、成人ADHDの作業遂行、日課、自己調整を、メタ認知と環境支援を使って扱う作業療法的アプローチを示す。3例中2例で意味のある改善、1例で小さい変化というばらつきがあり、動機づけ、自己理解、日課の安定、環境支援が関与しうることを示す材料であって、効果量の証明ではない。^[raw/papers/velder-shukrun-2026-cog-fun-a-adult-adhd-case-series.md]
 
 ## 注意点
 

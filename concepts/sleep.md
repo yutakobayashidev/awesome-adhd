@@ -1,11 +1,11 @@
 ---
 title: 睡眠
 created: 2026-07-22
-updated: 2026-07-28
+updated: 2026-08-27
 type: concept
-tags: [adhd, sleep, home, emotion-regulation, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2070840382343291218-heavy-blanket-sleep-hack.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tweet-2082035838532157764-night-prep-by-neurotype-morning-panic.md]
-confidence: low
+tags: [adhd, sleep, home, emotion-regulation, lived-experience, japanese-context, research]
+sources: [raw/articles/tweet-2070840382343291218-heavy-blanket-sleep-hack.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tweet-2082035838532157764-night-prep-by-neurotype-morning-panic.md, raw/papers/micic-2026-delayed-sleep-wake-phase-disorder-review.md]
+confidence: medium
 ---
 
 # 睡眠
@@ -26,6 +26,10 @@ ADHD関連のX/Twitter投稿では、睡眠は過集中、スマホ利用、感�
 - **AuDHD（併発）**: 感覚対策と過集中対策を両方行う。タイマーなしだと時間感覚が消滅するため必ずセット。リストを視覚化しないと「やらなきゃ」か「全部忘れる」の両極端になる。
 
 環境さえ整えれば朝はただの通過点になるという考え方。[[environment-design]]および[[time-management]]と接続する。
+
+## 研究からの補足：睡眠相の遅れ
+
+Micicら（2026）のレビューでは、遅発睡眠・覚醒相障害（DSWPD）は、社会的な時刻に対して睡眠タイミングが持続的に遅れ、苦痛や機能低下を伴う概日リズム睡眠障害として整理されている。一部は概日位相そのものが遅れているが、別の一部では概日タイミングは正常でも睡眠行動が遅れる可能性があり、単一の仕組みとして扱いにくい。ADHDや自閉スペクトラム症、不安、抑うつとの併存も多いとされるため、ADHD文脈の夜型・朝の困難は、[[time-management]]だけでなく[[comorbidity]]や専門的な睡眠評価とも接続して読む。^[raw/papers/micic-2026-delayed-sleep-wake-phase-disorder-review.md]
 
 ## 注意点
 

@@ -1,10 +1,10 @@
 ---
 title: エネルギー管理（ADHDバーンアウト対策）
 created: 2026-07-23
-updated: 2026-08-11
+updated: 2026-08-19
 type: concept
 tags: [adhd, executive-function, time-management, work, home, lived-experience]
-sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md, raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md, raw/articles/tweet-2081726188532477959-low-gi-diet-brain-fog.md, raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md, raw/articles/tweet-2087012072114569533-after-work-recovery-cost.md]
+sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md, raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md, raw/articles/tweet-2081726188532477959-low-gi-diet-brain-fog.md, raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md, raw/articles/tweet-2087012072114569533-after-work-recovery-cost.md, raw/articles/tweet-2088294258113479117-no-thinking-walk-brain-fatigue.md, raw/articles/tweet-2026984818442178853-five-minutes-sixty-percent-rest.md, raw/articles/tweet-2088834068779835687-rest-training-breath-stretch-pole.md, raw/articles/tweet-2090002469308998006-boredom-structured-load-exercise-deadline.md]
 confidence: low
 ---
 
@@ -60,6 +60,15 @@ ADHDの脳疲労が深刻でHPゼロ状態に陥っている場合、以下の�
 ADHDは目先のコストしか見えず、「今の損」に鈍感で「未来の損」に無防備な傾向がある。例えば「節約のために歩いて帰る（タクシー代1200円節約）」という根性論が、翌日の発熱で潰れた有給（8時間分の損失）を招く。体力・健康・時間といった資源を節約する時ほど、目先の金額と未来の損失を数字で比較する視点がエネルギー管理に役立つ。^[raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md]
 
 - **帰宅後の回復コストを先に見積もる**: やりたくない仕事を8時間こなした後に「帰ってから頑張る」と予定を積むと、帰宅時の強制シャットダウンで破綻しやすい。仕事後の自分を別人のように扱い、回復時間を予定に入れてから夜のタスク量を決める。^[raw/articles/tweet-2087012072114569533-after-work-recovery-cost.md]
+
+- **15分の無思考散歩で脳疲労を切り替える**: 帰宅後に身体疲労より認知リソース切れが強い時、筋トレや追加タスクではなく「何も考えずにただ歩く」15分を回復枠にする体験談がある。効果は個人差があり、医療的助言ではなく低刺激の切り替え策として扱う。^[raw/articles/tweet-2088294258113479117-no-thinking-walk-brain-fatigue.md]
+
+
+- **脳内会議を疲労サインとして扱う**: 先延ばし・完璧主義・脳内の一人会議が重なって固まる時、勢いで突破しようとするとエネルギー切れになりやすい。5分だけ着手、6割で止める、生成AIで白紙を崩す、思い切って休む、という選択肢を並べ、未着手を崩すことと回復を同時に設計する。^[raw/articles/tweet-2026984818442178853-five-minutes-sixty-percent-rest.md]
+
+- **休養をトレーニングとして扱う**: 疲れてから横になるだけでなく、副交感神経モードへ早く入る練習として、呼吸エクササイズやストレッチポールのような低刺激の身体介入を使う体験談がある。医療効果ではなく、[[sleep]]や[[environment-design]]と接続する回復ルーティン候補として扱う。^[raw/articles/tweet-2088834068779835687-rest-training-breath-stretch-pole.md]
+
+- **暇を休息扱いせず、低〜中強度の負荷枠を設計する**: 仕事などの外部構造が急に消えると、自由時間が回復ではなく退屈・焦り・反すうの温床になる場合がある。会社所属を推奨する話ではなく、毎日の運動や締切のある作業など、会社が担っていた強制力の代替を自分で置くエネルギー管理として読む。カフェイン過剰摂取などで無理に覚醒を作る方向へ流れないよう、負荷は安全で調整可能な形にする。^[raw/articles/tweet-2090002469308998006-boredom-structured-load-exercise-deadline.md]
 
 ## 関連ページ
 

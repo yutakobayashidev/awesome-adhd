@@ -1,10 +1,10 @@
 ---
 title: ADHD子育ての工夫
 created: 2026-07-23
-updated: 2026-07-27
+updated: 2026-08-21
 type: concept
 tags: [adhd, parenting, home, environment-design, external-memory, time-management, executive-function, lived-experience]
-sources: [raw/articles/tweet-2001281922069340279-41-adhd-parenting-tactics.md, raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md, raw/articles/tweet-2080841443212665173-receipt-print-child-task-management.md]
+sources: [raw/articles/tweet-2001281922069340279-41-adhd-parenting-tactics.md, raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md, raw/articles/tweet-2080841443212665173-receipt-print-child-task-management.md, raw/articles/tweet-1726008484150591650-child-bike-access-constraint.md, raw/articles/tweet-2090578808286200182-active-learning-short-blocks.md]
 confidence: low
 ---
 
@@ -35,6 +35,7 @@ ADHDのある子どもを育てる親たちから集められた「やってよ�
 - やるべきことをホワイトボードで可視化する → [[external-memory]]
 - リュックの中身をざっくり投げ込み収納にする（整理のハードルを下げる）
 - スマートスピーカーで時間を知らせる（声かけの自動化） → [[time-management]]
+- **移動手段を「境界のある場所だけ」に制限する**: 多動・衝動性が強く、三輪車や自転車で予測不能に遠くへ行くリスクが高い時期は、あえて自転車を所有せず、大きな公園の貸し自転車コースなど境界のある場面だけで乗せる家庭実践がある。子どもの能力否定ではなく、安全側へ倒す[[environment-design]]。^[raw/articles/tweet-1726008484150591650-child-bike-access-constraint.md]
 
 ## 勉強面の工夫
 
@@ -44,6 +45,7 @@ ADHDのある子どもを育てる親たちから集められた「やってよ�
 - 集中できる環境を作る（パーテーションなど） → [[attention-control]]
 - 提出物専用のクリアファイルを作る → [[forgetfulness-countermeasures]]
 - スタンディングデスク（立って勉強）を認める
+- **座位に固定せず、短い「動く学習枠」を作る**: まず1回5〜10分を目安に、立って問題を解く、声に出して読む、手でメモや絵を描く、のいずれかを選べるようにする。座って静かに聞くことを唯一の学習形態にせず、動きを課題処理へ組み込む。投稿者は肯定的な短いフィードバックも併用している。投稿由来の家庭実践であり、教育的・医療的効果を一般化するものではない。^[raw/articles/tweet-2090578808286200182-active-learning-short-blocks.md]
 - 教科書やプリントを拡大コピーする（視覚的処理の補助）
 
 ## 声かけ・コミュニケーションの工夫

@@ -2,85 +2,74 @@
   "created_at": "2026-07-22T08:27:24Z",
   "last_decisions": [
     {
-      "id": "arxiv:2005.09993v1",
-      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://arxiv.org/abs/2005.09993v1",
       "files_changed": [
-        "raw/papers/husain-2020-supportive-technologies-adhd-slr.md",
-        "concepts/assistive-technology.md",
-        "index.md",
-        "log.md",
-        ".automation/research-watch/curation-state.json"
-      ]
+        "raw/papers/nissley-tsiopinis-2026-school-ost-t2-organizational-skills.md",
+        "concepts/time-management.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "pubmed:42521366",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "学校ベースの組織化・時間管理・計画スキル訓練RCT。小学生対象だがOTMP困難と時間管理支援の介入設計として有用。",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42521366/"
     },
     {
-      "id": "arxiv:2607.18605v1",
-      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://arxiv.org/abs/2607.18605v1",
       "files_changed": [
-        "raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md",
-        "concepts/assistive-technology.md",
-        "concepts/digital-adhd-support.md",
-        "concepts/work-routines.md",
-        "index.md",
-        "log.md",
-        ".automation/research-watch/curation-state.json"
-      ]
-    },
-    {
-      "id": "arxiv:2603.22609v2",
-      "processed_at": "2026-08-10T08:06:33Z",
-      "decision": "accepted",
-      "score": 3,
-      "source_url": "https://arxiv.org/abs/2603.22609v2",
-      "files_changed": [
-        "raw/papers/selin-2026-self-tracking-masking-neurodivergent.md",
-        "concepts/assistive-technology.md",
-        "concepts/digital-adhd-support.md",
+        "raw/papers/mitchell-2014-ema-smoking-adults-adhd.md",
         "concepts/cognitive-personal-informatics.md",
-        "index.md",
-        "log.md",
-        ".automation/research-watch/curation-state.json"
-      ]
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "pubmed:24827866",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "成人ADHD喫煙者のEMA研究。古い小規模研究だが、退屈・ストレス・衝動性の文脈測定と介入標的の例として有用。",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24827866/"
     },
     {
-      "id": "pubmed:37590053",
-      "processed_at": "2026-08-10T08:06:33Z",
-      "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37590053/",
+      "decision": "accepted_raw_only",
       "files_changed": [
-        "raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md",
-        "concepts/digital-adhd-support.md",
-        "concepts/cognitive-personal-informatics.md",
-        "concepts/impulsivity-countermeasures.md",
-        "index.md",
-        "log.md",
-        ".automation/research-watch/curation-state.json"
-      ]
+        "raw/papers/langberg-2026-hops-organization-planning-youth-protocol.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "pubmed:42275393",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "HOPSプログラムの概念的追試プロトコル。結果未報告のため原資料保存のみ。",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42275393/"
     },
     {
-      "id": "pubmed:41609226",
-      "processed_at": "2026-08-10T08:06:33Z",
-      "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41609226/",
+      "decision": "accepted_raw_only",
       "files_changed": [
-        "raw/papers/carr-2026-fielded-attention-adhd-context.md",
-        "concepts/cognitive-personal-informatics.md",
-        "concepts/attention-control.md",
-        "concepts/environment-design.md",
-        "index.md",
-        "log.md",
-        ".automation/research-watch/curation-state.json"
-      ]
+        "raw/papers/harvey-2022-technology-mental-health-review.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "pubmed:36200275",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "技術とメンタルヘルス全般のレビュー。ADHD特化ではないため、デジタル支援の背景資料として保存のみ。",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36200275/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/patlolla-2025-inclusive-employment-pathways-autistic-software-engineering.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "arxiv:2508.09680v1",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "自閉スペクトラムのソフトウェア工学就労に関する系統的レビュー。神経多様性と職場包摂には隣接するがADHD特化ではないため保存のみ。",
+      "score": 2,
+      "source_url": "https://arxiv.org/abs/2508.09680v1"
     }
   ],
-  "last_run_at": "2026-08-10T08:06:33Z",
+  "last_run_at": "2026-09-17T08:03:52Z",
   "processed": [
     {
       "decision": "accepted",
@@ -309,11 +298,7 @@
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41237171/"
     },
     {
-      "id": "pubmed:42120372",
-      "processed_at": "2026-07-30T08:02:58Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42120372/",
       "files_changed": [
         "raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md",
         "concepts/cognitive-behavioural-therapy.md",
@@ -321,14 +306,14 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "pubmed:42120372",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42120372/"
     },
     {
-      "id": "pubmed:42312718",
-      "processed_at": "2026-07-30T08:02:58Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42312718/",
       "files_changed": [
         "raw/papers/solanto-2026-executive-self-management-college-adhd.md",
         "concepts/cognitive-behavioural-therapy.md",
@@ -336,14 +321,14 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "pubmed:42312718",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42312718/"
     },
     {
-      "id": "pubmed:40880228",
-      "processed_at": "2026-07-30T08:02:58Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40880228/",
       "files_changed": [
         "raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md",
         "concepts/emotion-regulation.md",
@@ -351,14 +336,14 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "pubmed:40880228",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40880228/"
     },
     {
-      "id": "pubmed:40849121",
-      "processed_at": "2026-07-30T08:02:58Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40849121/",
       "files_changed": [
         "raw/papers/yitzhak-2025-emotional-pendulum-adhd-ema.md",
         "concepts/emotion-regulation.md",
@@ -366,14 +351,14 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "pubmed:40849121",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40849121/"
     },
     {
-      "id": "pubmed:37971947",
-      "processed_at": "2026-07-30T08:02:58Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37971947/",
       "files_changed": [
         "raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md",
         "concepts/emotion-regulation.md",
@@ -381,28 +366,28 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "pubmed:37971947",
+      "processed_at": "2026-07-30T08:02:58Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37971947/"
     },
     {
-      "id": "arxiv:2005.09993v1",
-      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://arxiv.org/abs/2005.09993v1",
       "files_changed": [
         "raw/papers/husain-2020-supportive-technologies-adhd-slr.md",
         "concepts/assistive-technology.md",
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "arxiv:2005.09993v1",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2005.09993v1"
     },
     {
-      "id": "arxiv:2607.18605v1",
-      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://arxiv.org/abs/2607.18605v1",
       "files_changed": [
         "raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md",
         "concepts/assistive-technology.md",
@@ -411,14 +396,14 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "arxiv:2607.18605v1",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2607.18605v1"
     },
     {
-      "id": "arxiv:2603.22609v2",
-      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://arxiv.org/abs/2603.22609v2",
       "files_changed": [
         "raw/papers/selin-2026-self-tracking-masking-neurodivergent.md",
         "concepts/assistive-technology.md",
@@ -427,14 +412,14 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "arxiv:2603.22609v2",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2603.22609v2"
     },
     {
-      "id": "pubmed:37590053",
-      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37590053/",
       "files_changed": [
         "raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md",
         "concepts/digital-adhd-support.md",
@@ -443,14 +428,14 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "pubmed:37590053",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37590053/"
     },
     {
-      "id": "pubmed:41609226",
-      "processed_at": "2026-08-10T08:06:33Z",
       "decision": "accepted",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41609226/",
       "files_changed": [
         "raw/papers/carr-2026-fielded-attention-adhd-context.md",
         "concepts/cognitive-personal-informatics.md",
@@ -459,35 +444,776 @@
         "index.md",
         "log.md",
         ".automation/research-watch/curation-state.json"
-      ]
+      ],
+      "id": "pubmed:41609226",
+      "processed_at": "2026-08-10T08:06:33Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41609226/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/garcia-argibay-2026-adhd-autism-medication-patterns-sweden.md",
+        "concepts/medication.md",
+        "concepts/comorbidity.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42580811",
+      "processed_at": "2026-08-13T08:03:43Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42580811/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/montoya-2026-ai-quest-based-therapy-adhd-case-report.md",
+        "concepts/digital-adhd-support.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42500785",
+      "processed_at": "2026-08-13T08:03:43Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42500785/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/gelner-2026-adhd-symptoms-ple-temporal-network-esm.md",
+        "concepts/psychotic-like-experiences.md",
+        "concepts/emotion-regulation.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41677824",
+      "processed_at": "2026-08-13T08:03:43Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41677824/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/lin-2025-perceptual-reality-transformer-neurological-perception.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2508.09852v1",
+      "processed_at": "2026-08-13T08:03:43Z",
+      "score": 2,
+      "source_url": "https://arxiv.org/abs/2508.09852v1"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/lin-2025-intelligent-monitoring-physical-exercise-children-adhd.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2503.09079v1",
+      "processed_at": "2026-08-13T08:03:43Z",
+      "score": 2,
+      "source_url": "https://arxiv.org/abs/2503.09079v1"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/lee-2026-vr-mindfulness-college-adhd-rct.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/environment-design.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42591595",
+      "processed_at": "2026-08-17T08:03:34Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42591595/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42602011",
+      "processed_at": "2026-08-17T08:03:34Z",
+      "reason": "child-focused low fit for this run",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42602011/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/yi-2026-context-dependent-adhd-risk-coupling-commentary.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42152730",
+      "processed_at": "2026-08-20T08:05:21Z",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42152730/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/karimi-2026-adolescent-parent-treatment-experiences-adhd.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42288756",
+      "processed_at": "2026-08-20T08:05:21Z",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42288756/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/ibilola-2026-guanfacine-prescribing-child-development-service.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41923132",
+      "processed_at": "2026-08-20T08:05:21Z",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41923132/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/ain-2026-mind-wandering-affective-valence-adhd-ema.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/attention-control.md",
+        "concepts/emotion-regulation.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41400041",
+      "processed_at": "2026-08-20T08:05:21Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41400041/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/folkins-2026-long-acting-stimulants-academic-outcomes.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41055221",
+      "processed_at": "2026-08-20T08:05:21Z",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41055221/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/raffaelli-2025-thought-content-variability-adhd-context.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/attention-control.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:40118952",
+      "processed_at": "2026-08-24T08:04:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40118952/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/turner-2025-daily-activities-self-esteem-university-adhd.md",
+        "concepts/emotion-regulation.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:40933806",
+      "processed_at": "2026-08-24T08:04:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40933806/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/singh-2025-ema-emotional-dysregulation-outbursts-youth-adhd.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:40191073",
+      "processed_at": "2026-08-24T08:04:00Z",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40191073/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/kennedy-2024-ema-perceived-adhd-symptoms-adolescents.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/digital-adhd-support.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:35882042",
+      "processed_at": "2026-08-24T08:04:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35882042/"
+    },
+    {
+      "decision": "skipped_duplicate_existing_raw",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:30981195",
+      "processed_at": "2026-08-24T08:04:00Z",
+      "reason": "raw source already exists at raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30981195/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/ma-2026-clinical-phenotypes-chinese-children-adhd.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42299226",
+      "processed_at": "2026-08-27T08:02:53Z",
+      "reason": "child-focused phenotype/nursing study; saved for provenance, no page update",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42299226/"
+    },
+    {
+      "decision": "skipped_duplicate_existing_raw",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:37775284",
+      "processed_at": "2026-08-27T08:02:53Z",
+      "reason": "raw source already exists at raw/papers/pubmed-adhd-ema-daily-life-adolescents-2026.md",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37775284/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/lidstrom-holmqvist-2026-lgo-time-management-rct.md",
+        "concepts/time-management.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41527987",
+      "processed_at": "2026-08-27T08:02:53Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41527987/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/goh-2026-adhd-internalizing-college-time-series.md",
+        "concepts/emotion-regulation.md",
+        "concepts/comorbidity.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42133388",
+      "processed_at": "2026-08-27T08:02:53Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42133388/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/micic-2026-delayed-sleep-wake-phase-disorder-review.md",
+        "concepts/sleep.md",
+        "concepts/comorbidity.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41679168",
+      "processed_at": "2026-08-27T08:02:53Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41679168/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/damelio-2026-attexis-digital-cbt-adult-adhd-rct.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41810578",
+      "processed_at": "2026-08-31T08:10:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41810578/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/koch-2021-e-diaries-adhd-jitai-review.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/digital-adhd-support.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:34090919",
+      "processed_at": "2026-08-31T08:10:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34090919/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/mitchell-2017-mindfulness-adult-adhd-pilot-trial.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "concepts/emotion-regulation.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:24305060",
+      "processed_at": "2026-08-31T08:10:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24305060/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/velder-shukrun-2026-cog-fun-a-adult-adhd-case-series.md",
+        "concepts/executive-function.md",
+        "concepts/cognitive-behavioural-therapy.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42421291",
+      "processed_at": "2026-08-31T08:10:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42421291/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/single-2025-immersive-vr-cognitive-rehabilitation-adhd-review.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41385780",
+      "processed_at": "2026-08-31T08:10:00Z",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41385780/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/erarslan-2026-music-occupational-therapy-child-adhd-rct.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42149817",
+      "processed_at": "2026-09-03T08:05:00Z",
+      "reason": "小児RCTで成人・デジタル支援への直接性は弱いため、実行機能介入の原資料として保存のみ",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42149817/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/lee-2026-online-self-reflective-meditation-youth-adhd-rct.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42319290",
+      "processed_at": "2026-09-03T08:05:00Z",
+      "reason": "小児・青年のオンライン瞑想RCTで成人一般化は限定的なため保存のみ",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42319290/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/murray-2021-ema-emotional-dysregulation-adult-adhd-internalising.md",
+        "concepts/emotion-regulation.md",
+        "concepts/cognitive-personal-informatics.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:33234281",
+      "processed_at": "2026-09-03T08:05:00Z",
+      "reason": "成人EMA研究で感情調整・内在化症状・日常測定設計に直接関係",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33234281/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/buitelaar-2017-adhd-transition-adolescence-adulthood-commentary.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:28413998",
+      "processed_at": "2026-09-03T08:05:00Z",
+      "reason": "移行期支援のコメント論文で有用だが一次効果試験ではないため保存のみ",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28413998/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/zhang-2026-real-virtual-nature-adult-adhd-protocol.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42172624",
+      "processed_at": "2026-09-03T08:05:00Z",
+      "reason": "成人ADHDを含むVR/自然曝露プロトコルだが結果未報告のため保存のみ",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42172624/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/goh-2026-day-to-day-adhd-stress-college-ema.md",
+        "concepts/cognitive-personal-informatics.md",
+        "concepts/emotion-regulation.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42695429",
+      "processed_at": "2026-09-07T08:07:33Z",
+      "reason": "大学生の28日EMAでADHD症状と知覚ストレスの日々の相互関連を扱い、日常測定・早期警戒シグナル設計に有用",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42695429/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/australia-2026-adhd-assessment-treatment-access-quality.md",
+        "concepts/diagnosis-and-management.md",
+        "concepts/public-support.md",
+        "concepts/digital-adhd-support.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42499140",
+      "processed_at": "2026-09-07T08:07:33Z",
+      "reason": "成人ADHD診断の質・アクセス・共有ケア・デジタル心理教育を論じる政策/サービス設計資料",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42499140/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/beaux-2024-guiding-empowerment-model-neurodiversity-online-higher-ed.md",
+        "concepts/public-support.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/assistive-technology.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2410.18876v1",
+      "processed_at": "2026-09-07T08:07:33Z",
+      "reason": "神経多様なオンライン高等教育で、タスク管理・多様な教材アクセス・協働支援など支援技術設計に接続できる",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2410.18876v1"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/baillargeon-2024-neurodiversity-social-computing-review.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2410.15527v1",
+      "processed_at": "2026-09-07T08:07:33Z",
+      "reason": "CSCW/HCIの神経多様性レビューとして有用だがADHD特化ではないため今回は保存のみ",
+      "score": 2,
+      "source_url": "https://arxiv.org/abs/2410.15527v1"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/web-barkley-parent-training-caregiver-burden-child-adhd-rct.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42218422",
+      "processed_at": "2026-09-07T08:07:33Z",
+      "reason": "Web型親訓練RCTだが子ども・母親支援中心のため今回は原資料保存のみ",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42218422/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/misirlic-2026-engagement-trap-short-form-video-adhd.md",
+        "concepts/digital-interruptions.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2609.07795v1",
+      "processed_at": "2026-09-10T08:04:26Z",
+      "reason": "短尺動画推薦システムがADHD利用者の時間感覚・離脱困難・後悔に与える差を扱う成人HCI/アクセシビリティ研究。digital-interruptionsの既存ページに接続可能。",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2609.07795v1"
+    },
+    {
+      "decision": "skipped_duplicate",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2605.12609v1",
+      "processed_at": "2026-09-10T08:04:26Z",
+      "reason": "既に raw/papers/arxiv-neurodiversity-demographics-education-research-2026.md として取り込み済み。",
+      "score": 1,
+      "source_url": "https://arxiv.org/abs/2605.12609v1"
+    },
+    {
+      "decision": "skipped_duplicate",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2603.24536v2",
+      "processed_at": "2026-09-10T08:04:26Z",
+      "reason": "既に raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md として取り込み済み。",
+      "score": 1,
+      "source_url": "https://arxiv.org/abs/2603.24536v2"
+    },
+    {
+      "decision": "skipped_duplicate",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2601.14891v1",
+      "processed_at": "2026-09-10T08:04:26Z",
+      "reason": "既に raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md として取り込み済み。",
+      "score": 1,
+      "source_url": "https://arxiv.org/abs/2601.14891v1"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42167272",
+      "processed_at": "2026-09-10T08:04:26Z",
+      "reason": "GBDの精神疾患全般の疾病負荷分析で、ADHD支援・成人実行機能・デジタル支援の再利用可能な知識には薄い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42167272/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42135792",
+      "processed_at": "2026-09-14T08:01:45Z",
+      "reason": "日本の小児・青年ADHD薬剤処方パターン研究。日本文脈ではあるが小児薬物療法中心で、成人ADHD・実行機能・デジタル支援への再利用性が低いため今回は状態記録のみ。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42135792/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41912580",
+      "processed_at": "2026-09-14T08:01:45Z",
+      "reason": "TBI後の認知予後と社会因子の機械学習研究。ADHD支援・神経多様性支援の一次資料ではなく、現在のWikiスコープ外。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41912580/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41963171",
+      "processed_at": "2026-09-14T08:01:45Z",
+      "reason": "精神科における過眠訴えのナラティブレビュー。睡眠ページに隣接するがADHD特化ではなく、今回の候補中では新規ページ更新に足る具体性が薄い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41963171/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41324421",
+      "processed_at": "2026-09-14T08:01:45Z",
+      "reason": "神経多様な状態におけるばらつき対応を吃音支援へ応用するスコーピングレビュー。ADHDは含まれるが主対象は吃音で、既存ページ更新は見送り。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41324421/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42612664",
+      "processed_at": "2026-09-14T08:01:45Z",
+      "reason": "HIV/AIDSのGBD研究で、ADHD・実行機能・アクセシビリティ・デジタル支援との直接関係がない。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42612664/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/nissley-tsiopinis-2026-school-ost-t2-organizational-skills.md",
+        "concepts/time-management.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "pubmed:42521366",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "学校ベースの組織化・時間管理・計画スキル訓練RCT。小学生対象だがOTMP困難と時間管理支援の介入設計として有用。",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42521366/"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/mitchell-2014-ema-smoking-adults-adhd.md",
+        "concepts/cognitive-personal-informatics.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "pubmed:24827866",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "成人ADHD喫煙者のEMA研究。古い小規模研究だが、退屈・ストレス・衝動性の文脈測定と介入標的の例として有用。",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24827866/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/langberg-2026-hops-organization-planning-youth-protocol.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "pubmed:42275393",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "HOPSプログラムの概念的追試プロトコル。結果未報告のため原資料保存のみ。",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42275393/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/harvey-2022-technology-mental-health-review.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "pubmed:36200275",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "技術とメンタルヘルス全般のレビュー。ADHD特化ではないため、デジタル支援の背景資料として保存のみ。",
+      "score": 2,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36200275/"
+    },
+    {
+      "decision": "accepted_raw_only",
+      "files_changed": [
+        "raw/papers/patlolla-2025-inclusive-employment-pathways-autistic-software-engineering.md",
+        ".automation/research-watch/curation-state.json",
+        "log.md"
+      ],
+      "id": "arxiv:2508.09680v1",
+      "processed_at": "2026-09-17T08:03:52Z",
+      "reason": "自閉スペクトラムのソフトウェア工学就労に関する系統的レビュー。神経多様性と職場包摂には隣接するがADHD特化ではないため保存のみ。",
+      "score": 2,
+      "source_url": "https://arxiv.org/abs/2508.09680v1"
     }
   ],
   "processed_ids": [
     "arxiv:2005.09993v1",
     "arxiv:2302.06376v2",
+    "arxiv:2410.15527v1",
+    "arxiv:2410.18876v1",
+    "arxiv:2503.09079v1",
     "arxiv:2504.13058v1",
+    "arxiv:2508.09680v1",
+    "arxiv:2508.09852v1",
     "arxiv:2512.01111v1",
+    "arxiv:2601.14891v1",
     "arxiv:2601.21791v1",
     "arxiv:2602.16893v2",
     "arxiv:2603.22609v2",
+    "arxiv:2603.24536v2",
+    "arxiv:2605.12609v1",
     "arxiv:2605.31131v1",
     "arxiv:2607.18605v1",
+    "arxiv:2609.07795v1",
+    "pubmed:24305060",
+    "pubmed:24827866",
+    "pubmed:28413998",
+    "pubmed:30981195",
+    "pubmed:33234281",
+    "pubmed:34090919",
+    "pubmed:35882042",
+    "pubmed:36200275",
     "pubmed:37590053",
+    "pubmed:37775284",
     "pubmed:37971947",
     "pubmed:38178649",
     "pubmed:38231536",
+    "pubmed:40118952",
+    "pubmed:40191073",
     "pubmed:40849121",
     "pubmed:40880228",
+    "pubmed:40933806",
+    "pubmed:41055221",
     "pubmed:41237171",
+    "pubmed:41324421",
+    "pubmed:41385780",
+    "pubmed:41400041",
+    "pubmed:41527987",
     "pubmed:41609226",
     "pubmed:41638541",
+    "pubmed:41677824",
+    "pubmed:41679168",
+    "pubmed:41810578",
+    "pubmed:41912580",
+    "pubmed:41923132",
+    "pubmed:41963171",
     "pubmed:42120372",
+    "pubmed:42133388",
+    "pubmed:42135792",
     "pubmed:42142506",
+    "pubmed:42149817",
+    "pubmed:42152730",
     "pubmed:42159952",
+    "pubmed:42167272",
+    "pubmed:42172624",
     "pubmed:42177761",
+    "pubmed:42218422",
+    "pubmed:42275393",
+    "pubmed:42288756",
+    "pubmed:42299226",
     "pubmed:42312718",
+    "pubmed:42319290",
+    "pubmed:42421291",
     "pubmed:42433964",
-    "pubmed:42500318"
+    "pubmed:42499140",
+    "pubmed:42500318",
+    "pubmed:42500785",
+    "pubmed:42521366",
+    "pubmed:42580811",
+    "pubmed:42591595",
+    "pubmed:42602011",
+    "pubmed:42612664",
+    "pubmed:42695429"
   ],
   "version": 1
 }

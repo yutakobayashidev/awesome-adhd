@@ -1,10 +1,10 @@
 ---
 title: 作業再開
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-09-05
 type: concept
 tags: [adhd, executive-function, working-memory, attention, work, research]
-sources: [raw/papers/ratwani-2008-spatial-memory-task-resumption.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md]
+sources: [raw/papers/ratwani-2008-spatial-memory-task-resumption.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2088418166884139504-next-line-before-close.md, raw/articles/tweet-2096176512861089838-interruption-resumption-anchor.md]
 confidence: medium
 ---
 
@@ -19,6 +19,8 @@ Masicampo & Baumeisterの計画作成研究は、未完了目標をただ頭に�
 ## 実装上の含意
 
 - 中断前に「次はここから」を1行残す。
+- 終了時に「次はここに数字を入れる」のような、次回そのまま実行できる一行を残してから閉じる。再開時に思い出すのではなく、終了時の文脈を[[external-memory]]へ渡す。^[raw/articles/tweet-2088418166884139504-next-line-before-close.md]
+- 電話など避けられない中断の直前には、作業中の行または次操作を付箋に一行で残す。電話当番の時間分割や静かな場所の集中枠と組み合わせると、再開の記憶を探す工程を減らせる可能性がある。個人投稿に基づく低信頼度の実践であり、付箋に機密情報を残さない。^[raw/articles/tweet-2096176512861089838-interruption-resumption-anchor.md]
 - 画面・紙・物理位置を、戻る場所が分かる形に保つ。
 - [[screenpipe]]のような作業履歴検索や、[[i-have-adhd]]の現在地表示は、作業再開支援として読める。
 - [[digital-interruptions]]をまとめると、再開回数そのものを減らせる。

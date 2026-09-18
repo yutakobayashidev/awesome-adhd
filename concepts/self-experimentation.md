@@ -1,10 +1,10 @@
 ---
 title: 自己実験（人体実験アプローチ）
 created: 2026-07-23
-updated: 2026-07-27
+updated: 2026-08-18
 type: concept
 tags: [adhd, executive-function, lived-experience, tool, work, home]
-sources: [raw/articles/tweet-2080292256523936015-adhd-self-experimentation-method.md, raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md]
+sources: [raw/articles/tweet-2080292256523936015-adhd-self-experimentation-method.md, raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md, raw/articles/tweet-2089044426756854257-conditions-self-manual.md]
 confidence: low
 ---
 
@@ -29,6 +29,8 @@ ADHDの人は適性の差が激しいため、「向いている分野」だけ�
 そこで有効なのが **「引き算」による自己発見法**：一度タスクを徹底的に減らして「暇」を作り、スマホを一切触らない状態で手持無沙汰にする。すると、それでも自然に考えてしまうこと、やってしまう行動が浮かび上がる。これが本当の興味・適性のサインであり、「向いている分野」の発見につながる。^[raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md]
 
 この手法は「足し算」（もっと頑張る、もっと工夫する）ではなく「引き算」（やめる、減らす）で自分を知る点が特徴的。[[attention-control]]と[[task-initiation]]の両方に接続する。
+
+- **凸が出る条件／止まる条件を棚卸しする**: 「できる／できない」で自分を裁く前に、何をしている時、誰といる時、興味・新規性・自由度がある時に動けるのかを観察する。反対に、複数タスク、割り込み、興味のない作業、細かいルール、義務感で止まるなら、その条件を減らし、凹はメモ・リマインダー・AI・人・環境変更・合理的配慮で補う。[[environment-design]]と[[external-memory]]を自己実験の変数として扱う。^[raw/articles/tweet-2089044426756854257-conditions-self-manual.md]
 
 ## 人体実験の実例
 

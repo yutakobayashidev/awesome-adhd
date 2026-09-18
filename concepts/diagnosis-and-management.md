@@ -1,10 +1,11 @@
 ---
 title: 診断と管理
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-09-07
 type: concept
 tags: [adhd, diagnosis, guideline, medication, therapy, public-support]
 sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nice-ng87-appendices-2008.md, raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md]
+source_additions_2026-09-07_research_watch: [raw/papers/australia-2026-adhd-assessment-treatment-access-quality.md]
 confidence: high
 ---
 
@@ -33,6 +34,11 @@ NICEは、診断後に本人や家族・支援者と構造化された話し合�
 
 
 これは指針の整理であり、診断・処方・治療方針の代替ではない。国や制度により診断手順、薬、支援制度は異なる。
+
+## アクセス拡大と診断品質の両立
+
+オーストラリアのADHD評価・治療体制に関する論考（2026）は、待機時間、自己負担、専門医不足がある中で、一般医の役割拡大だけでは診断品質が落ちる危険もあると指摘する。成人診断では発達歴、補足情報、鑑別診断、生活イベントが実行機能に与える影響を丁寧に見る必要があるため、アクセス改善は、長時間評価への診療報酬、構造化研修、共有ケア、集団プログラム、デジタル心理教育・自己管理支援と一体で設計すべきだという主張である。国制度に依存する政策論であり、個別診断の代替にはしない。^[raw/papers/australia-2026-adhd-assessment-treatment-access-quality.md]
+
 
 ## 関連
 

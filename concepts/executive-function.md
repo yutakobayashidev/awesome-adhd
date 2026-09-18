@@ -1,10 +1,11 @@
 ---
 title: 実行機能
 created: 2026-07-22
-updated: 2026-07-31
+updated: 2026-08-31
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, lived-experience, japanese-context]
 sources: [raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md, raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md, raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/screenpipe-homepage-2026.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/deep-research-report-stt-neurodiversity-2026.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md, raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md, raw/papers/solanto-2026-executive-self-management-college-adhd.md, raw/articles/tweet-2082444170292257176-five-decision-making-systems.md]
+source_additions_2026-08-31_research_watch: [raw/papers/velder-shukrun-2026-cog-fun-a-adult-adhd-case-series.md, raw/papers/single-2025-immersive-vr-cognitive-rehabilitation-adhd-review.md]
 confidence: medium
 ---
 
@@ -39,6 +40,13 @@ confidence: medium
 大学生ADHD向けのCBT系支援では、実行機能を「気合い」ではなく、組織化、時間管理、計画、先延ばし対策、注意散漫への対処、読解・作文の足場として教える試みがある。Canuら（2026）の遠隔グループ介入とSolantoら（2026）の公開試験はいずれも有望な前後変化や高い受容性を報告しているが、RCTや多様なサンプルでの確認が必要である。^[raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md] ^[raw/papers/solanto-2026-executive-self-management-college-adhd.md]
 
 実装上は、[[cognitive-behavioural-therapy]]を治療ラベルだけで見るより、学業・仕事の[[time-management]]、[[task-initiation]]、[[working-memory]]支援へ分解して、短いセッション、課題の外部化、反復練習、振り返りを組み合わせる方が読みやすい。
+
+
+## 成人の日常機能と認知リハビリ
+
+Cog-Fun-Aの成人ADHDケース分析では、実行機能の困難を検査得点だけでなく、日課、作業遂行、満足度、QOL、自己調整スキルとして扱っている。改善の有無には個人差があり、メタ認知戦略だけでなく、安定した日課や環境支援が使えるかが重要になりうる。^[raw/papers/velder-shukrun-2026-cog-fun-a-adult-adhd-case-series.md]
+
+VR認知リハビリの系統的レビューは、注意、記憶、実行機能の改善を示す研究があるとまとめるが、研究数、対象年齢、介入内容、長期追跡には限界がある。[[assistive-technology]]としては有望候補だが、実行機能支援の中心は、現実の日課・環境・作業復帰にどう接続するかで読む。^[raw/papers/single-2025-immersive-vr-cognitive-rehabilitation-adhd-review.md]
 
 ## 注意点
 

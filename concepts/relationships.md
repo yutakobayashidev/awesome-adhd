@@ -1,10 +1,10 @@
 ---
 title: ADHDと人間関係
 created: 2026-07-24
-updated: 2026-08-09
+updated: 2026-08-17
 type: concept
 tags: [adhd, relationships, executive-function, emotion-regulation, impulsivity, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md, raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md, raw/articles/tweet-2083028275752783965-relationship-reconnect-one-message.md, raw/articles/tweet-2086135350314061910-five-person-relationship-reminders.md, raw/articles/tweet-2086407172221759835-no-script-implementation-intention.md]
+sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md, raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md, raw/articles/tweet-2083028275752783965-relationship-reconnect-one-message.md, raw/articles/tweet-2086135350314061910-five-person-relationship-reminders.md, raw/articles/tweet-2086407172221759835-no-script-implementation-intention.md, raw/articles/tweet-2089457453100380595-name-repeat-feature-memo.md]
 confidence: low
 ---
 
@@ -52,6 +52,10 @@ RSD（拒絶敏感性）の具体的対策は[[emotion-regulation#RSD（拒絶�
 ## 断る台本を事前に決める
 
 「断れない→溜め込む→爆発」のループを、性格や意志力ではなく、その場判断の負荷として扱う。誘われたら「先約がある」と言う、追加作業を頼まれたら「今の予定を確認して返します」と返す、のように短い台本を先に決めておく。断る瞬間に理由を組み立てる必要をなくし、[[working-memory]]と感情負荷を下げる境界設定の仕組み。^[raw/articles/tweet-2086407172221759835-no-script-implementation-intention.md]
+
+## 名前を覚える負荷を仕組みにする
+
+人名を覚えることを「相手への関心」や記憶力だけに任せず、聞いた直後に復唱し、会話中にも名前を呼び、別れた直後にスマホへ「名前＋非センシティブな特徴」を残す。次回会う前に見返せば、対人場面の[[working-memory]]を[[external-memory]]へ逃がせる。特徴メモは外見や家庭事情などのセンシティブ情報を増やしすぎず、本人特定や失礼な分類にならない最小限にする。^[raw/articles/tweet-2089457453100380595-name-repeat-feature-memo.md]
 
 ## 注意点
 

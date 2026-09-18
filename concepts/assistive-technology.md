@@ -2,9 +2,11 @@
 title: 支援技術
 type: concept
 created: 2026-07-22
-updated: 2026-08-10
+updated: 2026-09-07
 tags: [adhd, tool, accessibility, executive-function, research]
 sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/focusmate-homepage-2026.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/papers/lalwani-2025-productivity-social-robot-college-students.md, raw/articles/i-have-adhd-github-2026.md, raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/pubmed-adhd-digital-text-comprehension-self-monitoring-2019.md, raw/papers/arxiv-multilingual-text-to-pictogram-reading-rehabilitation-2026.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/arakawa-2026-calmreminder-parental-engagement.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/deep-research-report-stt-neurodiversity-2026.md, raw/papers/husain-2020-supportive-technologies-adhd-slr.md, raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md, raw/papers/selin-2026-self-tracking-masking-neurodivergent.md]
+source_additions_2026-08-31_research_watch: [raw/papers/single-2025-immersive-vr-cognitive-rehabilitation-adhd-review.md]
+source_additions_2026-09-07_research_watch: [raw/papers/beaux-2024-guiding-empowerment-model-neurodiversity-online-higher-ed.md]
 confidence: medium
 ---
 
@@ -45,6 +47,11 @@ LalwaniとSalamの生産性支援ロボット研究は、ADHDのある学生を�
 
 [[genio-notes|Genio Notes]] は、高等教育の障害学生支援向けに設計された録音・文字起こし・ノート化ツールで、「講義中は内容理解に集中し、後から transcript と同期再生で補強する」という、同時処理負荷の低減パターンを実装している。
 
+
+## VR認知リハビリ
+
+Singleら（2025）の系統的レビューは、没入型VRを使ったADHDの認知リハビリ研究15件をまとめ、注意、記憶、実行機能などで改善が報告され、シミュレーター酔いや脱落は概ね低かったとする。ただし、研究対象は子どもから成人まで混在し、介入終了後の長期効果は不足している。支援技術としては、ゲーム性・環境制御・即時フィードバックを使った[[digital-adhd-support]]候補だが、臨床効果の断定や標準治療扱いは避ける。^[raw/papers/single-2025-immersive-vr-cognitive-rehabilitation-adhd-review.md]
+
 ## 注意点
 
 このページは技術設計と研究動向の整理であり、医療上の助言ではない。製品ページや設計研究は、有効性の証拠と分けて読む。
@@ -60,6 +67,11 @@ Husain（2020）のADHD支援技術レビューは子ども中心だが、行動
 建設現場のADHD生産性に関するAraら（2026）の探索的インタビューは、支援技術を「机上のタスク管理」だけでなく、動的で安全要求の高い職場での注意足場・社会的存在感・動機づけ支援として考える材料になる。AI/VRは有望な設計要求として示されている段階で、実装効果の証明ではない。^[raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md]
 
 Selinら（2026）の神経多様者のセルフトラッキング研究は、記録が常に自己理解を助けるとは限らず、解釈負荷・感情労働・文脈依存性を生むことを示す。ADHD向け支援技術では、データを集めるほどよいのではなく、本人の意味づけと共有の安全性を設計対象にする必要がある。^[raw/papers/selin-2026-self-tracking-masking-neurodivergent.md]
+
+## オンライン高等教育の標準環境を支援技術化する
+
+Beauxら（2024）のGuiding Empowerment Modelは、神経多様な学習者への支援を、個別の努力や後追いの配慮だけでなく、オンライン学習環境そのものの機能設計として捉える。カスタマイズ可能なタスク管理、ガイド付きの多形式教材アクセス、複数モードの協働支援は、ADHDの[[working-memory]]、[[time-management]]、[[task-initiation]]への負荷を下げる可能性がある。ただしこれはHCI/教育設計の提案であり、ADHD症状改善の臨床効果を示すものではない。^[raw/papers/beaux-2024-guiding-empowerment-model-neurodiversity-online-higher-ed.md]
+
 
 ## 関連
 
