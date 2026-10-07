@@ -1,10 +1,10 @@
 ---
 title: i-have-adhd
 created: 2026-07-22
-updated: 2026-08-21
+updated: 2026-10-07
 type: entity
 tags: [adhd, tool, accessibility, executive-function, working-memory, work]
-sources: [raw/articles/i-have-adhd-github-2026.md, raw/articles/i-have-adhd-agent-output-skill-2026.md, raw/articles/tweet-2090804780730036357-sessionstart-rule-injection.md]
+sources: [raw/articles/i-have-adhd-github-2026.md, raw/articles/i-have-adhd-agent-output-skill-2026.md, raw/articles/tweet-2090804780730036357-sessionstart-rule-injection.md, raw/articles/reddit-1wzq3pf-dyslexia-agent-output-review-2026.md]
 confidence: medium
 ---
 
@@ -29,6 +29,10 @@ confidence: medium
 READMEとインストール文書では、Claude Code、Codex、Zed、Hermes、Gemini、Cursor、Antigravityなどのエージェント環境で使う方法が示されている。Claude Codeでは `/i-have-adhd` で呼び出し、任意で `~/.claude/.i-have-adhd-always` を作ると SessionStart hook が常時読み込む。
 
 2026-08-21の紹介投稿は、この常時適用を「人が毎回『短く』『結論から』『次の一手を』と入力し直さなくてよい」外部化として具体化している。ルールは「番号つき手順」「最後に具体的な次行動」のように行動可能な形へ分け、詳細説明時や破壊的操作前の例外を明記すると、簡潔さと安全性を両立しやすい。これは当事者・開発者による運用例であり、臨床効果の主張ではない。^[raw/articles/tweet-2090804780730036357-sessionstart-rule-injection.md]
+
+### 長いエージェント文書を読む時の追加契約（Reddit由来・信頼度: low）
+
+長い仕様・PR説明をレビューする場面では、エージェントの先頭へ「変更点」「判断」「不確かな点」「人が確認する箇所」だけを短く固定し、本文は必要時に走査できる構成にする、という当事者・同僚の提案があった。読み上げ＋視線追従、短い箇条書き、比較表、平易な短縮版、図、行間・書体調整は選択肢であり、チームとしては文書の長さ上限や「判断を先に置く」型を共有するとよい。これは単一スレッドに限られた、**ソースに束縛された生活上の提案**であり、ディスレクシアやADHDの臨床的効果を示すものではない。^[raw/articles/reddit-1wzq3pf-dyslexia-agent-output-review-2026.md]
 
 ## 評価の姿勢
 

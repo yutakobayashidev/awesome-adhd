@@ -1,0 +1,13 @@
+{
+  "seen_post_ids": [
+    "1wzscjg", "1wzs9hk", "1wzryh0", "1wzrs1y", "1wzrnxq", "1wzqtgw", "1wzqk5y", "1wzqgm1", "1wzqeub", "1wzqax5", "1wzq65g", "1wzppdn",
+    "1wzq6ud", "1wzq3pf", "1wzjgui", "1wzevk2", "1wzbcsk", "1wz5xc2", "1wz4bnq", "1wz457z", "1wz2sp1", "1wywmrw", "1wywaj8", "1wyhbsx",
+    "1wzs405", "1wzq7ps", "1wzkpzk", "1wzk4j7", "1wzfn70", "1wzexym", "1wzephs", "1wzcnp1", "1wz6wiy", "1wz32zr", "1wyypvi", "1wyykvu"
+  ],
+  "last_successful_run": "2026-10-07T10:18:53Z",
+  "per_subreddit": {
+    "ADHD": {"reviewed": 12, "accepted": 0, "skipped": 12},
+    "ADHD_Programmers": {"reviewed": 12, "accepted": 1, "skipped": 11},
+    "ADHDers": {"reviewed": 12, "accepted": 0, "skipped": 12}
+  }
+}

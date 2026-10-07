@@ -2764,3 +2764,12 @@
   - ADHD傾向のあるパートナーには家事というマルチタスクを引き受け、本人には自室の片付けというシングルタスクだけに集中させる。
   - やる気が出ない時期に備え、動ける時に作り置きの食事と報告できる仕事の成果を先に貯めておく。
 - Note: X投稿は低信頼度の当事者実践であり、医学的・臨床的根拠ではない。メモ具体化は発達障害カウンセラーアカウント、役割設計は配偶者、バッファ設計は自己啓発系当事者アカウントの単一投稿で、いずれも個別検証はしていない。
+
+## [2026-10-07] ingest | Reddit ADHD / ADHD_Programmers / ADHDers 定期レビュー
+
+- Reviewed: 36 candidates（r/ADHD 12、r/ADHD_Programmers 12、r/ADHDers 12）。医療用量・診断主張・危機/私的体験・ミーム・宣伝・既存手法の重複を除外し、個人名・ユーザー名・コメントの個別叙述は保存しなかった。
+- Accepted: 1（score 3）。長いAI生成仕様を読み直す負荷を減らす、冒頭の決定要約・確認箇所の固定、短縮/図/読み上げ等の選択肢。単一Redditスレッド由来の低信頼度な生活実践であり、臨床的主張ではない。
+- Created raw: `raw/articles/reddit-1wzq3pf-dyslexia-agent-output-review-2026.md`
+- Updated: `entities/i-have-adhd.md`（Reddit由来・信頼度 low と明示）、`index.md`（更新日）
+- State: `.automation/reddit-watch/state.json` に36件すべてのレビュー済みID、成功時刻、サブレディット別 reviewed/accepted/skipped 集計を記録。
+- Source: https://www.reddit.com/r/ADHD_Programmers/comments/1wzq3pf/dyslexia_agentic_engineering_tips_for_reading/
