@@ -2240,3 +2240,527 @@
   - `index.md`
 - Tip: 必需品を一体化・一ポーチ化して持ち替えを一回にし、タスクは発生時に即入力、朝に順番化、予定は一回だけの直前アラーム、見つけやすさ・こぼれにくさを道具の仕様へ移す。
 - Note: 公開Xスレッド由来の低信頼度な当事者実践メモであり、医療的エビデンスや個別助言ではない。
+
+## [2026-09-18] ingest | X ADHD practical-tip search 137
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; results were deduplicated by tweet ID and checked against existing raw tweet sources and recent log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2100945829511242141-work-failsafe-layers.md`
+  - `raw/articles/tweet-2100876468205350915-early-arrival-forced-workspace.md`
+- Updated concept/navigation pages:
+  - `concepts/work-routines.md`
+  - `concepts/waiting-mode.md`
+  - `index.md` reviewed; its existing catalog entries cover the updated concepts and already carry the current date, so no catalog text change was needed.
+- Tips:
+  - 仕事のミスは注意の反復ではなく、時刻固定・アラーム・チェックリスト・完了記録・必要時の相互確認という工程別の防御層へ変える。
+  - 予定前の待機で止まりやすい時は、十分早く現地近くへ移動し、待機場所の制約を短い作業枠として使う。
+- Note: X投稿は低信頼度の個人／実務実践であり、医学的・臨床的効果の根拠ではない。職場の安全・品質・機密・役割分担、移動時の安全と体力を優先する。
+
+## [2026-09-19] ingest | X/Twitter ADHD practical-tip search 138
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top`; deduplicated tweet IDs and checked against existing raw sources and log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2101098958066235676-holding-box-scheduled-review.md`
+  - `raw/articles/tweet-2100887835536728329-ai-forgetfulness-planning-prompt.md`
+- Updated concept/navigation pages:
+  - `concepts/environment-design.md`
+  - `concepts/forgetfulness-countermeasures.md`
+  - `index.md`
+- Tips:
+  - 片付けの判断で止まる物は保留箱へ移し、投入日とカレンダー上の見直し日をセットにする。
+  - 予定別の忘れ物対策をAIへ整理させる時は、重要物に絞った短いリストにし、入力情報と生成内容を利用者が確認する。
+- Note: X投稿は低信頼度の個人／実務実践であり、医学的・臨床的効果の根拠ではない。AI利用時は第三者・予定情報の最小化と結果確認を優先する。
+
+## [2026-09-19] ingest | X/Twitter ADHD practical-tip search 139
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; deduplicated tweet IDs and checked against existing raw sources and recent log entries.
+- Created raw source:
+  - `raw/articles/tweet-2101257651875385502-five-minute-research-cutoff.md`
+- Updated concept page:
+  - `concepts/task-initiation.md`
+- Navigation: `index.md` was reviewed; it already listed the updated concept and had the current date, but its binary detection prevented a safe targeted catalog-summary edit.
+- Tip: 下調べや比較で止まりやすい時は、最初の5分だけを可視タイマーで区切り、終了を実作業へ移る合図にする。安全・品質・法令順守に必要な確認は短縮しない。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。
+
+## [2026-09-19] ingest | X/Twitter ADHD practical-tip search 140
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; deduplicated tweet IDs and checked against existing raw sources and recent log entries.
+- Created raw source:
+  - `raw/articles/tweet-2101389739467358289-parroting-processing-buffer.md`
+- Updated concept page:
+  - `concepts/relationships.md`
+- Navigation: `index.md` was reviewed; it already lists `[[relationships]]`, carries the current date, and its one-line description already covers the page's practical communication content, so no catalog text change was needed.
+- Tip: 突然の呼びかけで理解が追いつかない時は、反射的な聞き返しを短いオウム返しに置き換え、確認と数秒の処理待ちを同時につくる。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。重要な依頼や聞き取れない内容は改めて確認する。
+
+## [2026-09-20] ingest | X/Twitter ADHD practical-tip search 141
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; deduplicated tweet IDs and checked candidates against existing raw sources and log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2101476437824094313-fridge-photo-shopping-list.md`
+  - `raw/articles/tweet-2101415020555071755-waiting-mode-scheduled-chain.md`
+- Updated concept/navigation pages:
+  - `concepts/external-memory.md`
+  - `index.md`
+- Tips:
+  - 文字の買い物リストを見ない場合、出発前の冷蔵庫写真を店で見て不足品を照合する。
+  - 予定前の待機で止まりやすい場合、重い予定の前後を考えなくてよい固定タスクで連結して一日の流れを作る。
+- Note: X投稿は低信頼度の個人／実務実践であり、医学的・臨床的効果の根拠ではない。予定連鎖は費用、体力、移動安全、予定変更への余白を確認して使う。
+
+## [2026-09-20] ingest | X/Twitter ADHD practical-tip search 142
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; deduplicated tweet IDs and checked candidates against existing raw sources and log entries.
+- Created raw source:
+  - `raw/articles/tweet-2101446239904739716-written-instructions-immediate-note.md`
+- Updated concept page:
+  - `concepts/working-memory.md`
+- Navigation: `index.md` was reviewed; it already lists `[[working-memory]]` and carries the current date. A targeted catalog edit was not applied because the file is detected as binary, avoiding an unsafe whole-file rewrite.
+- Tip: 複数の口頭指示は、チャット等の文面でもらうか、その場で短くメモして、後から確認できる記録にする。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。投稿内の認知機能に関する一般化や数値は採用していない。
+
+## [2026-09-20] ingest | X/Twitter ADHD practical-tip search 143
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; deduplicated tweet IDs and checked candidates against existing raw sources and recent log entries.
+- Created raw source:
+  - `raw/articles/tweet-2101634940576350210-keyword-notes-immediate-reconstruction.md`
+- Updated concept page:
+  - `concepts/working-memory.md`
+- Navigation: `index.md` was reviewed; it already lists `[[working-memory]]` and has the current date. It remains binary-detected, so no unsafe whole-file or targeted edit was made.
+- Tip: 会話中は文章で整えずに単語だけを記録し、終了直後の約30秒で行動項目・確認事項へ補う。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。投稿の認知機能に関する数値・一般化と登録導線は採用していない。重要な内容は文面確認または正式記録を優先する。
+
+## [2026-09-20] ingest | X/Twitter ADHD practical-tip search 144
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and log entries.
+- Created raw source:
+  - `raw/articles/tweet-1798367137691767210-background-video-morning-prep.md`
+- Updated concept/navigation pages:
+  - `concepts/task-initiation.md`
+  - `index.md`
+- Tip: 朝の支度で始められない時、内容に没入しない程度の一定の背景動画・音声を開始儀式にし、支度へ入る抵抗を下げる。音が注意を奪う場合や安全確認が要る場面には使わない。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。
+
+## [2026-09-21] ingest | X/Twitter ADHD practical-tip search 145
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and log entries.
+- Created raw source:
+  - `raw/articles/tweet-2101574868051562964-start-switch-resumption-plus-one.md`
+- Updated concept page:
+  - `concepts/task-initiation.md`
+- Navigation: `index.md` was reviewed but remains binary-detected, so no unsafe whole-file or targeted catalog edit was made; it already lists `[[task-initiation]]`.
+- Tip: 固定の開始儀式で重い仕事への入口を作り、中断時は再開地点を一行残し、積み上がる雑務は「発生分＋一つ」だけ処理して少しずつ減らす。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。優先順位・安全・締切が必要な作業には、適切な手順を優先する。
+
+## [2026-09-21] ingest | Research-watch AI copresence for developers with ADHD
+
+- Reviewed 5 unprocessed candidates from `.automation/research-watch/candidates.jsonl`.
+- Accepted 1 for raw + existing page updates (score 3); skipped/state-only 4 low-fit candidates.
+- Created raw source:
+  - `raw/papers/pimenova-2026-ai-copresence-developers-adhd.md` — Pimenova et al. (2026), "Two's a Crowd: Human and AI-Based Copresence for Developers with ADHD".
+- Updated concept/navigation/state files:
+  - `concepts/body-doubling.md`
+  - `concepts/digital-adhd-support.md`
+  - `concepts/work-routines.md`
+  - `concepts/task-initiation.md`
+  - `index.md`
+  - `.automation/research-watch/curation-state.json`
+- Skipped/state-only: `pubmed:41955613`, `pubmed:41621352`, `pubmed:42147856`, `arxiv:2506.00142v1`.
+- Note: AI copresence findings are qualitative HCI/software-work evidence, not clinical treatment evidence. Privacy, workplace confidentiality, and human verification boundaries were kept explicit.
+
+## [2026-09-21] ingest | X/Twitter ADHD practical-tip search 146
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw source:
+  - `raw/articles/tweet-2101869056492024174-multimodal-document-review.md`
+- Updated concept/navigation pages:
+  - `concepts/careless-mistake-countermeasures.md`
+  - `index.md`
+- Tip: 文書・メールの検品は、時間を空ける／表示を変える／読み上げる／数字・日付・宛名・添付だけの短いリストを使う、と別経路に分ける。重要文書は守秘・権限を守った相互レビューを追加する。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。機密情報を読み上げサービスや第三者へ渡さず、組織のレビュー手順・期限を優先する。
+
+## [2026-09-21] ingest | X/Twitter ADHD practical-tip search 147
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2101993844363428297-completion-time-declaration.md`
+  - `raw/articles/tweet-1785314213579358457-sticker-checklist.md`
+  - `raw/articles/tweet-1785316048423780680-completed-tasks-bold-mark.md`
+- Updated concept/navigation pages:
+  - `concepts/work-routines.md`
+  - `concepts/task-initiation.md`
+  - `concepts/external-memory.md`
+  - `index.md`
+- Tips: 完璧主義で止まりやすい仕事には完了時刻を先に宣言して終了条件にする。付箋型チェックリストでは、完了項目を太いマーカーで消して進捗の累積を見える化する。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。公式締切・品質・安全確認を省略せず、投稿の短縮URLは未展開のまま保存した。
+
+## [2026-09-21] ingest | X/Twitter ADHD practical-tip search 148
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw source:
+  - `raw/articles/tweet-2101946280499195997-three-turn-day.md`
+- Updated concept pages:
+  - `concepts/time-management.md`
+  - `concepts/work-routines.md`
+- Navigation: `index.md` was reviewed; it already lists both concepts and is dated 2026-09-21. Its binary detection prevented a safe targeted catalog-summary edit, so no unsafe whole-file rewrite was made.
+- Tip: 一日を朝・昼・夜など3区画に先に分け、実働目標を2区画だけに限定する。終わりが見える有限の作業枠にし、残りは休息・生活・予備として残す。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。勤務・休憩・安全上の制約を優先し、休息を削る用途にはしない。
+
+## [2026-09-22] ingest | X/Twitter ADHD practical-tip search 149
+- Searches: 4 Japanese practical-tip searches across Latest and Top via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw source:
+  - raw/articles/tweet-2102224363311247676-output-quality-gate-monitoring.md
+- Updated concept/navigation pages:
+  - concepts/work-routines.md
+  - index.md
+- Tip: 予定枠で出力がない時は、成果物がないのか、成果物はあるが検品・承認済みの印がないのかを分けて記録し、最初に欠けた工程を点検する。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。品質・安全・承認の正式手順を優先する。
+
+## [2026-09-22] ingest | X/Twitter ADHD practical-tip search 150
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw source:
+  - `raw/articles/tweet-2102231421649821933-study-physical-lock-sprints-location.md`
+- Updated concept/navigation pages:
+  - `concepts/task-initiation.md`
+  - `index.md`
+- Tip: 学習を図解へ置き換え、端末の物理的制約、30分の短い学習枠、期間ごとの場所替えを組み合わせて、着手・注意維持の条件を環境側へ移す。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。端末制約は本人の同意、必要な連絡手段、安全、プライバシーを優先する。
+
+## [2026-09-22] ingest | X/Twitter ADHD practical-tip search 151
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2102381451782263236-specification-external-memory.md`
+  - `raw/articles/tweet-2102371115855155680-transit-alarm-focus-fire-timer.md`
+- Updated concept pages:
+  - `concepts/external-memory.md`
+  - `concepts/time-management.md`
+- Navigation: `index.md` was reviewed; it already lists both concept pages. It remains binary-detected by the file editor, so no unsafe whole-file rewrite was made.
+- Tips:
+  - 仕事では背景・目的・次の作業・完了条件を仕様書へ残し、脱線後も文脈を頭から復元せず再開する。
+  - 乗り過ごし対策は降車2駅前のアラーム、移動中の調べ物の遮断、火気開始時のタイマーを組み合わせる。火気は通常の安全手順と安全機能を優先する。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。
+
+## [2026-09-22] ingest | X/Twitter ADHD practical-tip search 152
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 79 unique tweet IDs were deduplicated and checked against existing raw tweet files.
+- Created raw sources:
+  - `raw/articles/tweet-2102323500656857376-ten-task-initiation-tips.md`
+  - `raw/articles/tweet-2102354471778931115-five-parenting-environment-settings.md`
+- Updated concept pages:
+  - `concepts/task-initiation.md`
+  - `concepts/environment-design.md`
+- Navigation: `index.md` was reviewed. No new page was created, and it already catalogs both updated concepts; the file remains binary-detected by editor tools, so no unsafe whole-file rewrite was made.
+- Tips:
+  - 着手は最初の一手を極小化し、前日の途中停止・既存習慣への接続・終了時刻／退出条件／低い初稿品質を先に決めて、開始を長時間や完璧さから切り離す。
+  - 子どもの家庭内の摩擦は、一動作の大きな受け皿、声かけの代わりの音の合図、帰宅後のクールダウン、ゲーム終了の移行儀式、10分だけの宿題枠へ環境側から移す。
+- Note: X投稿は低信頼度の個人・事業者由来の実践であり、医学的・臨床的効果の根拠ではない。家庭向けの工夫は本人の感覚特性、年齢、学校要件、同意、安全を優先する。
+
+## [2026-09-23] ingest | X/Twitter ADHD practical-tip search 153
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw source:
+  - `raw/articles/tweet-2102585706229240143-iphone-notion-shortcuts-capture.md`
+- Updated concept page:
+  - `concepts/external-memory.md`
+- Navigation: `index.md` was reviewed. No new page was created, and the updated concept is already cataloged; the file remains binary-detected by editor tools, so no unsafe whole-file rewrite was made.
+- Tip: iPhoneのAppleショートカットに出るNotion提案を入口にし、思いついたタスクを数秒で直接ToDoへ投入して、捕捉の手数を下げる。設定手順・動作は未検証で、入力する情報と同期・共有範囲を確認する。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。
+
+## [2026-09-23] ingest | X/Twitter ADHD practical-tip search 154
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw source:
+  - `raw/articles/tweet-2102646718852378628-commute-idling-task-start.md`
+- Updated concept/navigation pages:
+  - `concepts/task-initiation.md`
+  - `index.md`
+- Tip: 作業場所に着いてから始める内容を選ばず、出勤・移動・散歩などの短い移行時間に最初の一手を決める「アイドリング」を固定し、着席時の選択・起動コストを下げる。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的効果の根拠ではない。通勤・移動を増やす推奨ではなく、着手前の選択を既存の移行時間へ移す設計として扱う。
+
+## [2026-09-24] ingest | X/Twitter ADHD practical-tip search 155
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw tweet files and recent log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2102943914110120051-naggie-annoying-reminder-app.md`
+  - `raw/articles/tweet-2102894528755896541-automation-retry-reversible.md`
+  - `raw/articles/tweet-2102679171751362671-job-structure-fit-checklist.md`
+  - `raw/articles/tweet-2102717111227576616-sleep-environment-parenting-thread.md`
+- Updated concept/navigation pages:
+  - `concepts/external-memory.md`
+  - `concepts/work-routines.md`
+  - `concepts/sleep.md`
+  - `concepts/parenting.md`
+  - `index.md`
+- Tips:
+  - 絶対に忘れたくない予定は、時間になると通知カードを出し、見逃す・放置すると3〜10分間隔で再通知が来る Windows 用リマインダーアプリ（Naggie）の製品紹介。予定を覚える負荷を再通知へ移す。
+  - 自動化が止まったらログから真因を時刻つきで特定し、再試行（3回・10分間隔）を足して、元へ戻せる設定にする。
+  - 仕事の構造との相性をチェックリスト（頼まれ事・裁量・複数案件・ミスが信用問題等11項目）で自己点検し、7個以上で相性見直しの目安にする。
+  - 発達特性のある子の睡眠環境は、就寝約90分前の38〜40度ぬるめ入浴、体重10%前後で顔を覆わない重みブランケット、寝る前の確認・反省会をチェックリスト・指さし・固定ルーティンへ引き算する。
+- Note: X投稿は低信頼度の個人実践・製品紹介であり、医学的・臨床的効果の根拠ではない。自動化は停止方法・通知・責任・データ取扱いを運用前に決め、睡眠の持続的な困難や服薬との関係は専門職へ相談する。
+
+## [2026-09-24] ingest | X/Twitter ADHDパワー系ソリューション定期検索 156
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw sources and recent log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2102733271448854685-konjac-brain-load-calibration.md`（開始ラインを「気軽にやれる範疇」へ下げ、余裕なら増やし、きつくなったら全力で減らす。積んで崩して崩れなかった部分だけを拾う）
+  - `raw/articles/tweet-2102965445599142338-pen-in-hand-start.md`（スマホの代わりに常にペンを握り、仕事の最初の身体動作を開始前に済ませる）
+- Updated concept pages:
+  - `concepts/self-experimentation.md`（負荷を逐次調整する新節）
+  - `concepts/task-initiation.md`（道具を先に握る着手ハック）
+- Updated navigation: `index.md`（self-experimentation 要約を更新）
+- Tips:
+  - 開始ラインを「気軽にやれる範疇」まで下げ、余裕が出たら増やし、きつくなったら全力で減らす。堅固な構造を組まず、崩れずに残った部分だけを拾う。
+  - 脱線先のスマホを持つ手を作業道具（ペン）を持つ手へ置き換え、仕事の最初の身体動作を開始前に済ませる。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的根拠ではない。
+
+## [2026-09-24] ingest | X/Twitter ADHDパワー系ソリューション定期検索 157
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw tweet files and recent log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2103146318223007779-reset-compulsion.md`（リセット癖：24時間ルール・部分リセット・再開最小化）
+  - `raw/articles/tweet-2103116700963225858-dopamine-menu.md`（ドーパミン・メニュー）
+  - `raw/articles/tweet-2103109949022773264-waiting-mode-timer.md`（待機モード：アラームまで他事OK）
+  - `raw/articles/tweet-2103109457664471301-sixty-percent-first.md`（まず6割で通す）
+  - `raw/articles/tweet-2103109173965942993-thirty-min-before-sleep.md`（寝る前30分確保）
+  - `raw/articles/tweet-2102744799677964439-unstable-rotation.md`（不安定なまま回す）
+- Created concept page:
+  - `concepts/reset-compulsion.md`
+- Updated concept/navigation pages:
+  - `concepts/task-initiation.md`（ドーパミン・メニュー）
+  - `concepts/waiting-mode.md`（アラームまで他事OK＋身体を動かす）
+  - `concepts/all-or-nothing-thinking.md`（完璧にする順番を後ろへずらす）
+  - `concepts/sleep.md`（寝る前30分の確保）
+  - `concepts/self-experimentation.md`（不安定なまま回す）
+  - `index.md`（reset-compulsion 追加、総ページ数 52）
+- Tips:
+  - リセットしたい衝動を維持コストと刺激低下の緊急回避と捉え、24時間ルール・部分リセット・仕組みの入れ替え・再開ハードル最小化でリセット前のコストを下げる。
+  - 一日をコース料理に見立て、前菜（1分スクワット）→メイン（没入）→サイド（雑務×Podcast）→デザート（SNS15分）→スペシャル（長期の楽しみ）で着手・退屈・報酬を段階に分ける。
+  - 待機モードは「アラームまで他事OK」と許可し、無理やりでも体を動かす。
+  - 完璧主義は「まず6割で最後まで通す」で、完璧にする順番を後ろへずらす。
+  - 寝る前30分を「何もしなくていい時間」として先に確保し、就寝へ移る。
+  - 「毎日整える」を逆転させ、思い出した日に爆速・午後始動・1個徹底・変化を許す習慣で不安定なまま回す。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的根拠ではない。
+
+## [2026-09-24] ingest | X/Twitter ADHDパワー系ソリューション定期検索 158
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; candidates were deduplicated by tweet ID and checked against existing raw tweet files and recent log entries.
+- Created raw sources:
+  - `raw/articles/tweet-1876056692011757803-wrong-power-solutions.md`（「借りるくらいなら買う」などの間違ったパワー系ソリューションの失敗形）
+  - `raw/articles/tweet-2103046963679678855-fixed-scaffold-free-content.md`（土台だけ固定して中身は自由）
+  - `raw/articles/tweet-2101493494153875812-waiting-mode-bundle-day.md`（予定を同じ日にまとめて空白の日を作る）
+- Updated concept pages:
+  - `concepts/all-or-nothing-thinking.md`（パワー系ソリューションの失敗形の節を追加）
+  - `concepts/impulsivity-countermeasures.md`（極端なパワー系解決が逆効果になる型を自覚する節を追加）
+  - `concepts/environment-design.md`（土台固定・中身自由の生活設計を追加）
+  - `concepts/waiting-mode.md`（予定を同じ日にまとめる型を追加）
+- Navigation: index.md は新規ページ追加なし（総ページ数 52 のまま）。
+- Tips:
+  - 「借りるくらいなら買う」「貸すくらいならあげる」「迷うくらいなら全部やらない」など、白黒思考が強い解決策として誤学習された極端策は、選択肢・人間関係・時間・持ち物を失わせる失敗形。
+  - 起床時刻・仕事の順番・定位置の席など「土台」だけ固定し、中身は毎日自由にすると、ルーティン崩れの不安と刺激不足を両立できる。
+  - 予定の前後が使えなくなる待機モード対策として、予定を同じ日にまとめて空白の日を丸ごと作る。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的根拠ではない。
+
+## [2026-09-25] ingest | X/Twitter ADHDパワー系ソリューション定期検索 159
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 70 unique tweet IDs were deduplicated by tweet ID and checked against existing raw sources and log entries.
+- Created raw sources:
+  - `raw/articles/tweet-1975766626399367189-uninteresting-video-work-bgm.md`
+  - `raw/articles/tweet-1992934100684996865-event-trigger-prospective-memory.md`
+  - `raw/articles/tweet-2103319553325285384-smallest-item-priority-paralysis.md`
+  - `raw/articles/tweet-2103329897854689607-verify-actual-execution.md`
+- Updated concept pages:
+  - `concepts/task-initiation.md`（興味のない内容を流して適度に脳を奪う）
+  - `concepts/prospective-memory.md`（出来事トリガーへの組み替え）
+  - `concepts/executive-function.md`（優先度づけフリーズ時は最小の一手）
+  - `concepts/work-routines.md`（予定ではなく実測で確認）
+- Navigation: `index.md` date bump（新規ページなし、総ページ数 52 のまま）。
+- Tips:
+  - 興味のない人文系の対談動画を作業用BGMに流し、適度に脳のリソースを奪うことで着手の心理的抵抗を下げる。
+  - 時間ベースの「19時に◯◯する」を、出来事トリガー（皿と薬を並べる、PC起動でメール自動表示、玄関の「明日の自分ボックス」）へ組み替える。
+  - 全部が最優先に感じて固まる時は、一番小さい作業を最初の一手にする。
+  - 予定表ではなく実測（実際に実行・配信されたか）で確認する仕組みを持つ。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的根拠ではない。
+
+## [2026-09-25] ingest | X/Twitter ADHDパワー系ソリューション定期検索 160
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 77 unique tweet IDs deduplicated by ID and checked against existing raw sources (382 files) and log entries.
+- Created raw sources:
+  - `raw/articles/tweet-2103421807252693465-routine-margin-mental-rehearsal.md`（日課の組み直し＝余白＋頭の中での手順リハーサル）
+  - `raw/articles/tweet-2103416802370081210-people-drop-paper-visible.md`（「人は抜ける」前提で紙と視界へ残す）
+  - `raw/articles/tweet-2103378974101704728-ten-minute-night-note.md`（寝る前10分の整理ノート）
+  - `raw/articles/tweet-1927179918279868672-stop-and-go-game.md`（幼児の抑制を育てるストップ＆ゴーゲーム）
+  - `raw/articles/tweet-1740340412177596822-plush-on-remote.md`（リモコンにぬいぐるみ）
+  - `raw/articles/tweet-2025394259176931463-medical-first-then-hacks.md`（まず医療、その上でライフハック）
+- Updated concept pages:
+  - `concepts/time-management.md`（新しい日課の余白＋メンタルリハーサル）
+  - `concepts/external-memory.md`（人は抜ける前提の紙と視界／寝る前10分整理ノート）
+  - `concepts/parenting.md`（ストップ＆ゴーゲーム）
+  - `concepts/forgetfulness-countermeasures.md`（リモコンにぬいぐるみ）
+  - `concepts/medication.md`（まず医療、その上でライフハック）
+- Navigation: `index.md` は変更なし（新規ページなし、総ページ数 52 のまま、日付も同日のため据え置き）。
+- Tips:
+  - 生活の大きな変化で日課を組み直す時は、予定の間に空白（切り替え時間）を設け、余白を取れない場合は始める前に新しい日課を頭の中で数回たどって手順を飛ばさない。
+  - 「人は抜ける」を前面に置き、一度の口頭説明で終わらせず紙にもする・目にも入るようにする。
+  - 寝る前10分の「整理ノート」で今日やったこと・明日やること各3つを書き、未完了の山による夜の焦りを外へ出す。
+  - 「ストップ＆ゴーゲーム」（赤/青カードで歩く・止まる）で幼児の抑制を遊びで練習する。
+  - リモコンにぬいぐるみを付けて大きく・目立たせ、失くしにくくする。
+  - ライフハックを集める前にまず適切な医療を受け、その上でライフハックが効く。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的根拠ではない。
+
+## [2026-09-25] ingest | X/Twitter ADHDパワー系ソリューション定期検索 161
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 74 unique tweet IDs deduplicated by ID and checked against existing raw sources (443 tweet IDs).
+- Created raw sources:
+  - `raw/articles/tweet-2102689427919389064-template-chores-routines.md`（家事・ルーティンをテンプレ化して「気疲れ」を減らす）
+  - `raw/articles/tweet-1740365098630406505-greet-everyone-face-memory.md`（顔を覚えられない→全員ににこやかに挨拶）
+  - `raw/articles/tweet-1276770061278040065-vocalize-ahhh-start.md`（「あーー」と発声して先延ばしタスクへ着手）
+  - `raw/articles/tweet-2103462218515763458-three-time-tactics-teacher.md`（時間可視化＋準備の予定＋予想vs実測）
+  - `raw/articles/tweet-2103467303815835681-return-signal-before-going-out.md`（外出前に「帰る合図」を先に決める）
+  - `raw/articles/tweet-2103352546983334272-automation-stop-detection.md`（自動化は「止まったとき」まで設計）
+  - `raw/articles/tweet-2103363871356735724-stopping-mechanism-visibility.md`（止める仕組みには「止まった理由が見える仕組み」も）
+  - `raw/articles/tweet-2102911012953542709-money-tech-buy-duplicates.md`（お金とテクノロジーで苦手を解決）
+  - `raw/articles/tweet-2004140473657839653-reverse-countdown-alarm-gemini.md`（逆算アラーム＋1.5倍バッファ、Gemini生成）
+- Updated concept pages:
+  - `concepts/environment-design.md`（反復作業のテンプレ化／外出の退出条件を先置き）
+  - `concepts/time-management.md`（準備の予定／逆算アラーム）
+  - `concepts/task-initiation.md`（あーー発声の高エンゲージメント実例）
+  - `concepts/work-routines.md`（自動化の停止検知／止める仕組みの可視化）
+  - `concepts/relationships.md`（顔認識を挨拶で迂回）
+  - `concepts/forgetfulness-countermeasures.md`（お金とテクノロジー）
+- Navigation: `index.md` は変更なし（新規ページなし、総ページ数 52 のまま）。
+- Tips:
+  - 家事・ルーティーンワークをテンプレ化し、考えずに回せる型へ固定して「気疲れ」を減らす。
+  - 人の顔が覚えられないなら、すれ違う人全員ににこやかに挨拶して認識を不要にする。
+  - 先延ばしの嫌な行動は声に出して「あーー」と言いながらやると着手できる。
+  - 予定の前に「準備の予定」（例: 18時半から準備）を入れ、時間は残量タイマー／アナログ時計で可視化する。
+  - 衝動で出かけるのは許しつつ、「イヤホン外したら帰る」など退出条件を先に決める。
+  - 自動化は「完全に止まったら通知する」まで設計し、静かな停止に誰も気づけない状態を避ける。
+  - メガネが毎朝見つからないなら同じものを3つ持ち、なくしたら躊躇せず買い直す。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的根拠ではない。
+
+## [2026-09-28] ingest | X/Twitter ADHDパワー系ソリューション定期検索 162
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 75 unique tweet IDs deduplicated by ID and checked against existing raw sources (397 tweet IDs).
+- Created raw sources:
+  - `raw/articles/tweet-2104321010485047685-morning-sns-first-stimulus-design.md`（朝イチの最初の刺激をSNSより先に設計）
+  - `raw/articles/tweet-2104337792256131089-verbal-request-slack.md`（口頭依頼は「Slackで送ってもらっていい？」）
+  - `raw/articles/tweet-2104352639437939000-folding-umbrella-always-packed.md`（折り畳み傘を常時リュックへ）
+  - `raw/articles/tweet-2104195787618128263-five-more-minutes-timer-first.md`（夜の「あと5分」前にタイマー先押し）
+  - `raw/articles/tweet-2104103795693330463-short-deadline-before-free-time.md`（自由時間より短い締切を先に）
+  - `raw/articles/tweet-2104103772020785195-external-pressure-ignition-fuel.md`（起動の燃料は外から来る締切と強制力）
+  - `raw/articles/tweet-2104231375872385332-rumination-move-body-distance.md`（反芻は体を動かす・環境から離れる）
+  - `raw/articles/tweet-2104376626582876236-start-from-what-bugs-you.md`（気になったものから着手・シングルタスク）
+  - `raw/articles/tweet-2104162574262730874-auto-timer-cooker-replacement.md`（自動タイマー付き調理器具へ買い替え）
+  - `raw/articles/tweet-2104342517147914618-job-strength-weakness-ratio.md`（得意:不得意 2:8→6:4 の職選び）
+- Updated concept pages:
+  - `concepts/forgetfulness-countermeasures.md`（折り畳み傘常時リュック）
+  - `concepts/external-memory.md`（口頭依頼を文字で受け取る）
+  - `concepts/environment-design.md`（朝イチ刺激設計・自動タイマー調理器具）
+  - `concepts/time-management.md`（夜あと5分タイマー・短い締切）
+  - `concepts/task-initiation.md`（短い締切・外圧が起動燃料・気になったものから着手）
+  - `concepts/rumination.md`（反芻の実践節を新設）
+  - `concepts/work-routines.md`（得意不得意6:4の職選び）
+- Navigation: `index.md` は変更なし（新規ページなし、総ページ数 52 のまま）。
+- Tips:
+  - 朝イチでSNSを開くと「刺激を追うモード」に入るため、SNSより先にカーテンを開ける・水を飲む・机の上を1か所だけ片付ける、といった低刺激の動作から始める。
+  - 廊下ですれ違いざまの口頭依頼は消えるため、「Slackで送ってもらっていい？」を口癖にし、口頭の依頼は受け取っていない扱いにする。
+  - 傘を忘れる前提で、晴れの日でも折り畳み傘を常時リュックへ入れておき、乾かしたら即リュックへ戻す。
+  - 夜の「あと5分」が伸びるなら、言う前にタイマーを先に押し、鳴ったら途中でも一度立つ。
+  - 時間があるほど動けなくなる前提で、長い自由時間より30分後に人と会う約束のような短い締切を先に置く。起動の燃料はやる気ではなく外から来る締切と強制力。
+  - 反芻は体を動かして一時的に途切れさせ、反芻を引き起こす環境・人から離れて頻度を減らす。
+  - 優先順位づけが回らないなら、気になったものから順にシングルタスクで仕留める。
+  - 自動タイマー付きの調理器具へ買い替え、火の見守りという注意負荷を器具へ逃がす。
+  - 職選びは得意:不得意の業務比重を2:8から6:4へ変え、不得意は対策で補う。
+- Note: X投稿は低信頼度の個人実践であり、医学的・臨床的根拠ではない。
+
+## [2026-09-28] ingest | X/Twitter ADHDパワー系ソリューション定期検索 163
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 78 unique tweet IDs deduplicated by ID and checked against existing raw sources and log entries. Skipped already-ingested tweets, English-only content, generic empathy/diagnosis discourse, memes, medical/diet/supplement claims without reliable source, self-promotion without workflow detail, duplicate tactics, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2104168172861477285-ten-home-environment-settings-child.md`（発達特性のある子の家庭環境づくり10選：カオティック・ゾーン／分解専用箱／ホワイトノイズ／フィジット／色分け／パーソナルテント／失敗展示ボード／体を動かす道具／何もない壁／朝の高照度光）
+  - `raw/articles/tweet-2104416154156757381-reduce-start-count-minimize-breaks.md`（開始コストが高い→開始回数を減らし休憩を最小化）
+  - `raw/articles/tweet-2104403630514401455-defer-decide-when-first.md`（後回しにするなら「いつやるか」だけ先に決める）
+  - `raw/articles/tweet-2104454734690275467-ai-close-tasks-small-units.md`（AIにはタスクを小さい単位でCloseを優先）
+  - `raw/articles/tweet-2104453799155020171-ai-delegation-open-loops.md`（AI委任は未完了タスクを増やす諸刃の剣）
+  - `raw/articles/tweet-2104405737455628559-choose-materials-by-trait.md`（通信教育は特性で教材を選ぶ）
+  - `raw/articles/tweet-2102210266557735127-hide-comparison-targets-hyperfocus.md`（上の比較対象を視界から消す）
+  - `raw/articles/tweet-2103241252368269445-time-measurement-hyperfocus-trigger.md`（時間を測る競技性で着手、時間感覚は掴めない）
+  - `raw/articles/tweet-2104463501582291175-adhd-weaknesses-ai-strengths.md`（ADHDの苦手＝AIの得意）
+- Updated concept pages:
+  - `concepts/environment-design.md`
+  - `concepts/parenting.md`
+  - `concepts/sleep.md`
+  - `concepts/attention-control.md`
+  - `concepts/task-initiation.md`
+  - `concepts/hyperfocus-control.md`
+  - `concepts/digital-adhd-support.md`
+  - `concepts/work-routines.md`
+  - `concepts/external-memory.md`
+  - `concepts/time-management.md`
+- Updated navigation: `index.md` date bump（新規ページなし、総ページ数 52 のまま）。
+- Note: X投稿は低信頼度の当事者実践であり、医学的・臨床的根拠ではない。発達特性のある子の環境づくり10選は事業者アカウント（オンライン運動教室の宣伝を含む）由来の情報で個別検証はしていない。「上の比較対象を視界から消す」は競争的・攻撃的な表現を含むため慎重に扱った。クラウドAI利用は入力の最小化と本人確認を前提とした。
+
+## [2026-09-28] ingest | ADHD Research Watch curation（NZ成人ADHDケア経路）
+
+- Accepted (score 3): `pubmed:42784829` — ニュージーランド（アオテアロア）で2026年2月から家庭医・ナースプラクティショナーによる成人ADHDへの刺激薬処方開始が認められた制度変更を、公平性・診断品質・費用・持続可能性から検討する政策論。
+  - Created: `raw/papers/lillis-2026-adhd-care-pathways-aotearoa-nz.md`
+  - Updated: `concepts/public-support.md`（アクセスと質を同時に設計する）、`concepts/diagnosis-and-management.md`（アクセス拡大と診断品質の両立）
+- Skipped:
+  - `pubmed:41887460`（ADHD子育ての編集記事、2ページ論説で新規性が薄い）score 1
+  - `pubmed:42789617`（一般向けCBTレビュー、ADHDは補助的治療の一項目）score 0
+  - `pubmed:42788194`（韓国の医療用麻薬利用の薬剤疫学研究、ADHD支援と無関係）score 0
+- Navigation: `index.md` 変更なし（新規ページなし、総ページ数 52 のまま）。
+- Note: 政策論・制度論であり、個別診断・処方の代替ではない。国・制度差に注意。
+
+## [2026-09-28] ingest | X/Twitter ADHDパワー系ソリューション定期検索 164
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 62 unique tweet IDs deduplicated by ID and checked against existing raw sources (416 tweet IDs). Skipped already-ingested tweets, English-only content, generic empathy/diagnosis discourse, memes, medication/diagnosis discourse, self-promotion without workflow detail, duplicate tactics（AI外部脳・選択排除・最小タスク着手など既存カバー済み）, and posts exposing unnecessary personal detail.
+- Created raw sources:
+  - `raw/articles/tweet-2104529361433223224-audiobook-plus-paper-dual-input-reading.md`（音声＋紙の二重入力読書）
+  - `raw/articles/tweet-2104568076301689180-subject-batching-weekly-not-parallel.md`（科目を週単位でまとめる）
+  - `raw/articles/tweet-2104569477711241337-family-shared-calendar-indirect-prompt.md`（家族共有カレンダー＋間接的声かけ）
+- Updated concept pages:
+  - `concepts/attention-control.md`（音声＋紙の二重入力読書／科目の週単位ブロック化）
+  - `concepts/parenting.md`（共有カレンダー＋「チェックした？」の間接的声かけ）
+  - `concepts/external-memory.md`（家族共有カレンダーで確認を習慣化）
+- Navigation: `index.md` 要約を2件微更新（新規ページなし、総ページ数 52 のまま）。
+- Tips:
+  - 読書中に視線が泳ぐなら、Audible（音声）を流しながら同じ紙の本を開いて読むと、一方の入力が途切れても文章摂取が続く。
+  - 短いスパンでの切り替えが苦手なら、複数科目を並行ローテーションせず1科目を週単位でまとめて回す。
+  - 家族共有カレンダー＋個人別カラーで、直接指示する代わりに「チェックした？〜があった気がする」と問いかけて本人が確認するルーティンを育てる。
+- Note: X投稿は低信頼度の当事者実践であり、医学的・臨床的根拠ではない。
+
+## [2026-09-28] ingest | X/Twitter ADHDパワー系ソリューション定期検索 165
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 74 unique tweet IDs deduplicated by ID, 59 not yet ingested. Evaluated against selection criteria. Skipped English-only content, memes, diagnosis/medication discourse, self-promotion without workflow detail, duplicate tactics（AI外部脳・選択排除・最小タスク着手・移動1.5倍見積もり・手に持たない等は既存カバー済み）, posts without actionable detail, and one anti-diagnosis misinformation post (1877854412934406310).
+- Created raw source:
+  - `raw/articles/tweet-1743926787309289837-dialogue-vs-lecture-background-sound.md`（背景音・動画を「対談／講義」で目的別に使い分ける、CB連投スレッド）
+- Updated concept pages:
+  - `concepts/task-initiation.md`（対談は第三者同士で意識が持っていかれず、講義は話者に引き付けられてストレス、という背景音の形式による使い分け＋選定基準「広告なし・長時間・意味不明」）
+  - `concepts/attention-control.md`（静かすぎる環境で妄想が始まる人へ、あえて音を足す）
+  - `concepts/sleep.md`（眠れぬ夜に講義形式の専門的な話で意識を「強制終了」させて入眠へつなげる）
+- Navigation: `index.md` 変更なし（新規ページなし、総ページ数 52 のまま）。
+- Tips:
+  - 静かな環境では妄想が始まって集中が続かないタイプは、喫茶店か、家では「広告なし・長時間・程よく意味不明」な公的機関の人文系の対談を流して環境を作る。
+  - 対談は会話が第三者同士で完結するため意識が持っていかれないが、講義形式（放送大学など）は話者が自分に語りかけていると脳が認識して引き付けられ、逆にストレスになる、という使い分け。
+  - 眠れぬ夜には、ワーキングメモリへの負荷が大きい講義形式を流して意識を「強制終了」させ、睡眠へつなげる。
+- Note: X投稿は低信頼度の当事者実践であり、医学的・臨床的根拠ではない。音・動画が注意を奪う人や安全確認が必要な場面では使わない。
+
+## [2026-09-29] ingest | X/Twitter ADHDパワー系ソリューション定期検索 166
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 75 unique tweet IDs deduplicated by ID, 57 not yet ingested; checked against 420 existing raw sources/log IDs. Skipped English-only content, memes, astrology, diagnosis/medication discourse, self-promotion without workflow detail, duplicate tactics（毎日同じ服の選択排除・AI外部脳・最小タスク着手・GPSタグ・「気合いでなく仕組み化」等は既存カバー済み）, posts without actionable detail, and unsourced medical claims.
+- Created raw sources:
+  - `raw/articles/tweet-2104700180411064405-virtual-desktop-per-task.md`（案件ごとに仮想デスクトップを分け、切り替えてもウィンドウを閉じずに文脈を残す）
+  - `raw/articles/tweet-2104699597956534762-careless-mistake-three-step-review.md`（印→原因を1つ言葉にする→次の見直しは1か所の3手順）
+  - `raw/articles/tweet-2104746374151676297-engine-stages-light-task-ladder.md`（軽いタスクから徐々に負荷を上げる「エンジンの段階」）
+  - `raw/articles/tweet-1971025987644371400-parenting-acceptance-structure-agreement.md`（依存予防の「受容×構造×合意」と年齢別ルーティン）
+  - `raw/articles/tweet-1992196380790812991-time-blindness-research-meta-analysis.md`（時間盲のメタ分析知見と3対策）
+- Updated concept pages:
+  - `concepts/task-resumption.md`（仮想デスクトップで案件ごとに文脈を残す）
+  - `concepts/careless-mistake-countermeasures.md`（最小3手順の見直しループ）
+  - `concepts/task-initiation.md`（エンジンの段階＝負荷を段階的に上げる暖機運転）
+  - `concepts/parenting.md`（依存予防の「受容×構造×合意」と年齢別ノースマホ・ルーティン）
+  - `concepts/time-management.md`（時間盲のメタ分析知見で見える化・5分刻み・二重化締切を位置づけ）
+- Navigation: `index.md` date bump（新規ページなし、総ページ数 52 のまま）。
+- Note: X投稿は低信頼度の当事者実践であり、医学的・臨床的根拠ではない。足立匡基（@adachi_psy）の2投稿は専門家アカウントで研究知見に言及するが、依存予防スレッドは個別書誌が未提示で、時間盲スレッドは本文に書誌を記載。いずれも主張の引用は一次文献で確認する。
+
+## [2026-09-29] ingest | X/Twitter ADHDパワー系ソリューション定期検索 167
+
+- Searches: 4 Japanese practical-tip searches across `Latest` and `Top` via bird; 79 unique tweet IDs deduplicated by ID and checked against 425 existing raw sources/log IDs. Skipped already-ingested tweets, English-only content, memes, PR/書籍販促, diagnosis/medication discourse, astrology, self-promotion without workflow detail, duplicate tactics（スマホ物理除去・選択排除・AI外部脳・最小タスク着手・仕組み化等は既存カバー済み）, and posts without actionable detail.
+- Created raw sources:
+  - `raw/articles/tweet-2104813423322145235-note-write-for-future-recall.md`（メモは「あとから思い出せるように」誰と・いつ・何をするかまで具体的に書く）
+  - `raw/articles/tweet-2104778742958793026-single-task-delegation-partner.md`（パートナーの家事マルチタスクを引き受け、本人はシングルタスクに集中）
+  - `raw/articles/tweet-2104848655161475283-buffer-resources-good-periods.md`（動ける時期に作り置きの食事と報告できる仕事の成果を先に貯めるバッファ設計）
+- Updated concept pages:
+  - `concepts/external-memory.md`（メモをあとから思い出せるように書く）
+  - `concepts/relationships.md`（マルチタスクを外してシングルタスクへ絞る役割設計）
+  - `concepts/energy-management.md`（動ける時期に資源を前倒しで貯めるバッファ設計）
+- Navigation: `index.md` 変更なし（新規ページなし、総ページ数 52 のまま）。
+- Tips:
+  - メモは「忘れないため」でなく「あとから思い出せるように」書く。「誰と・いつ・何をするのか」まで具体的に書く。
+  - ADHD傾向のあるパートナーには家事というマルチタスクを引き受け、本人には自室の片付けというシングルタスクだけに集中させる。
+  - やる気が出ない時期に備え、動ける時に作り置きの食事と報告できる仕事の成果を先に貯めておく。
+- Note: X投稿は低信頼度の当事者実践であり、医学的・臨床的根拠ではない。メモ具体化は発達障害カウンセラーアカウント、役割設計は配偶者、バッファ設計は自己啓発系当事者アカウントの単一投稿で、いずれも個別検証はしていない。

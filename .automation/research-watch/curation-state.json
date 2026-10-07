@@ -4,72 +4,53 @@
     {
       "decision": "accepted",
       "files_changed": [
-        "raw/papers/nissley-tsiopinis-2026-school-ost-t2-organizational-skills.md",
-        "concepts/time-management.md",
-        ".automation/research-watch/curation-state.json",
-        "log.md"
+        "raw/papers/lillis-2026-adhd-care-pathways-aotearoa-nz.md",
+        "concepts/public-support.md",
+        "concepts/diagnosis-and-management.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
       ],
-      "id": "pubmed:42521366",
-      "processed_at": "2026-09-17T08:03:52Z",
-      "reason": "学校ベースの組織化・時間管理・計画スキル訓練RCT。小学生対象だがOTMP困難と時間管理支援の介入設計として有用。",
+      "id": "pubmed:42784829",
+      "processed_at": "2026-09-28T08:06:17Z",
+      "reason": "ニュージーランドの成人ADHDケア経路の公平性・診断品質・処方安全を論じる政策論。公的支援・診断管理ページに接続。",
       "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42521366/"
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42784829/"
     },
     {
-      "decision": "accepted",
+      "decision": "skipped_state_only",
       "files_changed": [
-        "raw/papers/mitchell-2014-ema-smoking-adults-adhd.md",
-        "concepts/cognitive-personal-informatics.md",
-        ".automation/research-watch/curation-state.json",
-        "log.md"
+        ".automation/research-watch/curation-state.json"
       ],
-      "id": "pubmed:24827866",
-      "processed_at": "2026-09-17T08:03:52Z",
-      "reason": "成人ADHD喫煙者のEMA研究。古い小規模研究だが、退屈・ストレス・衝動性の文脈測定と介入標的の例として有用。",
-      "score": 3,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24827866/"
+      "id": "pubmed:41887460",
+      "processed_at": "2026-09-28T08:06:17Z",
+      "reason": "ADHD子育ての短い編集記事。行動的親訓練の推奨に触れるが2ページ論説で、既存ページ更新に足る新規性が薄い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41887460/"
     },
     {
-      "decision": "accepted_raw_only",
+      "decision": "skipped",
       "files_changed": [
-        "raw/papers/langberg-2026-hops-organization-planning-youth-protocol.md",
-        ".automation/research-watch/curation-state.json",
-        "log.md"
+        ".automation/research-watch/curation-state.json"
       ],
-      "id": "pubmed:42275393",
-      "processed_at": "2026-09-17T08:03:52Z",
-      "reason": "HOPSプログラムの概念的追試プロトコル。結果未報告のため原資料保存のみ。",
-      "score": 2,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42275393/"
+      "id": "pubmed:42789617",
+      "processed_at": "2026-09-28T08:06:17Z",
+      "reason": "一般向けCBTレビュー。ADHDは補助的治療の一項目に過ぎず、ADHD支援の再利用可能知識に薄い。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42789617/"
     },
     {
-      "decision": "accepted_raw_only",
+      "decision": "skipped",
       "files_changed": [
-        "raw/papers/harvey-2022-technology-mental-health-review.md",
-        ".automation/research-watch/curation-state.json",
-        "log.md"
+        ".automation/research-watch/curation-state.json"
       ],
-      "id": "pubmed:36200275",
-      "processed_at": "2026-09-17T08:03:52Z",
-      "reason": "技術とメンタルヘルス全般のレビュー。ADHD特化ではないため、デジタル支援の背景資料として保存のみ。",
-      "score": 2,
-      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36200275/"
-    },
-    {
-      "decision": "accepted_raw_only",
-      "files_changed": [
-        "raw/papers/patlolla-2025-inclusive-employment-pathways-autistic-software-engineering.md",
-        ".automation/research-watch/curation-state.json",
-        "log.md"
-      ],
-      "id": "arxiv:2508.09680v1",
-      "processed_at": "2026-09-17T08:03:52Z",
-      "reason": "自閉スペクトラムのソフトウェア工学就労に関する系統的レビュー。神経多様性と職場包摂には隣接するがADHD特化ではないため保存のみ。",
-      "score": 2,
-      "source_url": "https://arxiv.org/abs/2508.09680v1"
+      "id": "pubmed:42788194",
+      "processed_at": "2026-09-28T08:06:17Z",
+      "reason": "韓国の医療用麻薬利用の薬剤疫学研究。ADHD薬の性差は副次的記載で、ADHD支援・実行機能・デジタル支援とは無関係。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42788194/"
     }
   ],
-  "last_run_at": "2026-09-17T08:03:52Z",
+  "last_run_at": "2026-09-28T08:06:17Z",
   "processed": [
     {
       "decision": "accepted",
@@ -1134,6 +1115,325 @@
       "reason": "自閉スペクトラムのソフトウェア工学就労に関する系統的レビュー。神経多様性と職場包摂には隣接するがADHD特化ではないため保存のみ。",
       "score": 2,
       "source_url": "https://arxiv.org/abs/2508.09680v1"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/pimenova-2026-ai-copresence-developers-adhd.md",
+        "concepts/body-doubling.md",
+        "concepts/digital-adhd-support.md",
+        "concepts/work-routines.md",
+        "concepts/task-initiation.md",
+        "index.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2609.21254v1",
+      "processed_at": "2026-09-21T08:03:25Z",
+      "reason": "成人ADHDのソフトウェア開発者を対象に、人間/AIコプレゼンス、ボディダブリング、AI開発支援、プライバシー、評価不安を扱う高適合HCI/SE研究。",
+      "score": 3,
+      "source_url": "https://arxiv.org/abs/2609.21254v1"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41955613",
+      "processed_at": "2026-09-21T08:03:25Z",
+      "reason": "X上のADHD/ASD世論感情分析で情報環境には隣接するが、成人ADHD支援・実行機能・デジタル足場への再利用性が低い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41955613/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41621352",
+      "processed_at": "2026-09-21T08:03:25Z",
+      "reason": "小児/青年てんかんの睡眠障害レビューで、ADHD支援Wikiの現在優先領域とは直接関係が薄い。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41621352/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42147856",
+      "processed_at": "2026-09-21T08:03:25Z",
+      "reason": "NF1の認知評価実践レビュー。実行機能評価には隣接するがADHD固有の支援・アクセシビリティ設計としては弱い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42147856/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2506.00142v1",
+      "processed_at": "2026-09-21T08:03:25Z",
+      "reason": "OSSにおける過小代表グループ研究で包摂には隣接するが、神経多様性/ADHD特化ではなく今回はページ更新しない。",
+      "score": 1,
+      "source_url": "https://arxiv.org/abs/2506.00142v1"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:39706067",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "精神薬理学研究におけるESMの系統的レビュー。EMA/ESM手法には隣接するがADHD支援・実行機能・デジタル足場への再利用性が低い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39706067/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:39527860",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "デジタル時代の時計描画テスト成績。ADHD支援とは無関係。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39527860/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:38320660",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "一般集団の情動ダイナミクス横断的予測。ADHD特化ではない。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38320660/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:34776498",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "EU出生コホートの記述。ADHD支援の再利用可能知識に薄い。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34776498/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:37898447",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "不安症のマインドワンダリング。ADHD特化ではない。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37898447/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:37531181",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "一般集団のEMA参加意思の機械学習予測。ADHD支援との接続が薄い。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37531181/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:35250441",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "成人ADHDのfMRI解析手法。神経画像方法論で支援・アクセシビリティ設計への再利用性が低い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35250441/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:32699511",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "ネットゲーム障害の神経生物学的機構。ADHD支援とは無関係。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32699511/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2607.29113v1",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "神経多様な子どもの単語学習介入の参加型デザイン。DLD中心でADHD支援への再利用性が低い。",
+      "score": 1,
+      "source_url": "https://arxiv.org/abs/2607.29113v1"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42549845",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "青年の腰痛レビュー。ADHDとは無関係。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42549845/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42617146",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "父のバルプロ酸曝露と神経発達。ADHD支援の一次資料ではない。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42617146/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42481172",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "青年の内在化症状の性差。ADHD支援への再利用性が低い。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42481172/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42137238",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "学習障害児のEEGワーキングメモリ。ADHD固有の支援設計としては弱い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42137238/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:34859912",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "ストレスと飲酒欲求の瞬間的関連。ADHD特化ではない。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34859912/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:34990972",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "飲酒前後の衝動性軌跡。ADHD特化ではない。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34990972/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:29845690",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "小児の情緒不安定性の測定方法。測定方法論で再利用性が低い。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29845690/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42659562",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "チック・トゥレットのスペイン語レビュー。ADHD支援と直接関係しない。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42659562/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42694849",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "精神疾患の世界的疾病負荷分析。ADHD支援の再利用可能知識に薄い。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42694849/"
+    },
+    {
+      "decision": "skipped_duplicate",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "arxiv:2609.21254v2",
+      "processed_at": "2026-09-24T08:02:05Z",
+      "reason": "v1 を 2026-09-21 に raw/papers/pimenova-2026-ai-copresence-developers-adhd.md として取り込み済み。同一論文のバージョン更新。",
+      "score": 1,
+      "source_url": "https://arxiv.org/abs/2609.21254v2"
+    },
+    {
+      "decision": "accepted",
+      "files_changed": [
+        "raw/papers/lillis-2026-adhd-care-pathways-aotearoa-nz.md",
+        "concepts/public-support.md",
+        "concepts/diagnosis-and-management.md",
+        "log.md",
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42784829",
+      "processed_at": "2026-09-28T08:06:17Z",
+      "reason": "ニュージーランドの成人ADHDケア経路の公平性・診断品質・処方安全を論じる政策論。公的支援・診断管理ページに接続。",
+      "score": 3,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42784829/"
+    },
+    {
+      "decision": "skipped_state_only",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:41887460",
+      "processed_at": "2026-09-28T08:06:17Z",
+      "reason": "ADHD子育ての短い編集記事。行動的親訓練の推奨に触れるが2ページ論説で、既存ページ更新に足る新規性が薄い。",
+      "score": 1,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41887460/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42789617",
+      "processed_at": "2026-09-28T08:06:17Z",
+      "reason": "一般向けCBTレビュー。ADHDは補助的治療の一項目に過ぎず、ADHD支援の再利用可能知識に薄い。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42789617/"
+    },
+    {
+      "decision": "skipped",
+      "files_changed": [
+        ".automation/research-watch/curation-state.json"
+      ],
+      "id": "pubmed:42788194",
+      "processed_at": "2026-09-28T08:06:17Z",
+      "reason": "韓国の医療用麻薬利用の薬剤疫学研究。ADHD薬の性差は副次的記載で、ADHD支援・実行機能・デジタル支援とは無関係。",
+      "score": 0,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42788194/"
     }
   ],
   "processed_ids": [
@@ -1143,6 +1443,7 @@
     "arxiv:2410.18876v1",
     "arxiv:2503.09079v1",
     "arxiv:2504.13058v1",
+    "arxiv:2506.00142v1",
     "arxiv:2508.09680v1",
     "arxiv:2508.09852v1",
     "arxiv:2512.01111v1",
@@ -1154,20 +1455,34 @@
     "arxiv:2605.12609v1",
     "arxiv:2605.31131v1",
     "arxiv:2607.18605v1",
+    "arxiv:2607.29113v1",
     "arxiv:2609.07795v1",
+    "arxiv:2609.21254v1",
+    "arxiv:2609.21254v2",
     "pubmed:24305060",
     "pubmed:24827866",
     "pubmed:28413998",
+    "pubmed:29845690",
     "pubmed:30981195",
+    "pubmed:32699511",
     "pubmed:33234281",
     "pubmed:34090919",
+    "pubmed:34776498",
+    "pubmed:34859912",
+    "pubmed:34990972",
+    "pubmed:35250441",
     "pubmed:35882042",
     "pubmed:36200275",
+    "pubmed:37531181",
     "pubmed:37590053",
     "pubmed:37775284",
+    "pubmed:37898447",
     "pubmed:37971947",
     "pubmed:38178649",
     "pubmed:38231536",
+    "pubmed:38320660",
+    "pubmed:39527860",
+    "pubmed:39706067",
     "pubmed:40118952",
     "pubmed:40191073",
     "pubmed:40849121",
@@ -1180,17 +1495,21 @@
     "pubmed:41400041",
     "pubmed:41527987",
     "pubmed:41609226",
+    "pubmed:41621352",
     "pubmed:41638541",
     "pubmed:41677824",
     "pubmed:41679168",
     "pubmed:41810578",
     "pubmed:41912580",
     "pubmed:41923132",
+    "pubmed:41955613",
     "pubmed:41963171",
     "pubmed:42120372",
     "pubmed:42133388",
     "pubmed:42135792",
+    "pubmed:42137238",
     "pubmed:42142506",
+    "pubmed:42147856",
     "pubmed:42149817",
     "pubmed:42152730",
     "pubmed:42159952",
@@ -1205,15 +1524,24 @@
     "pubmed:42319290",
     "pubmed:42421291",
     "pubmed:42433964",
+    "pubmed:42481172",
     "pubmed:42499140",
     "pubmed:42500318",
     "pubmed:42500785",
     "pubmed:42521366",
+    "pubmed:42549845",
     "pubmed:42580811",
     "pubmed:42591595",
     "pubmed:42602011",
     "pubmed:42612664",
-    "pubmed:42695429"
+    "pubmed:42617146",
+    "pubmed:42659562",
+    "pubmed:42694849",
+    "pubmed:42695429",
+    "pubmed:42784829",
+    "pubmed:41887460",
+    "pubmed:42789617",
+    "pubmed:42788194"
   ],
   "version": 1
 }

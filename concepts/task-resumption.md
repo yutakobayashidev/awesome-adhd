@@ -1,10 +1,10 @@
 ---
 title: 作業再開
 created: 2026-07-23
-updated: 2026-09-05
+updated: 2026-09-29
 type: concept
 tags: [adhd, executive-function, working-memory, attention, work, research]
-sources: [raw/papers/ratwani-2008-spatial-memory-task-resumption.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2088418166884139504-next-line-before-close.md, raw/articles/tweet-2096176512861089838-interruption-resumption-anchor.md]
+sources: [raw/papers/ratwani-2008-spatial-memory-task-resumption.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2088418166884139504-next-line-before-close.md, raw/articles/tweet-2096176512861089838-interruption-resumption-anchor.md, raw/articles/tweet-2104700180411064405-virtual-desktop-per-task.md]
 confidence: medium
 ---
 
@@ -22,6 +22,7 @@ Masicampo & Baumeisterの計画作成研究は、未完了目標をただ頭に�
 - 終了時に「次はここに数字を入れる」のような、次回そのまま実行できる一行を残してから閉じる。再開時に思い出すのではなく、終了時の文脈を[[external-memory]]へ渡す。^[raw/articles/tweet-2088418166884139504-next-line-before-close.md]
 - 電話など避けられない中断の直前には、作業中の行または次操作を付箋に一行で残す。電話当番の時間分割や静かな場所の集中枠と組み合わせると、再開の記憶を探す工程を減らせる可能性がある。個人投稿に基づく低信頼度の実践であり、付箋に機密情報を残さない。^[raw/articles/tweet-2096176512861089838-interruption-resumption-anchor.md]
 - 画面・紙・物理位置を、戻る場所が分かる形に保つ。
+- **案件・作業ごとに仮想デスクトップ（ワークスペース）を分ける**: 複数案件の切り替えで「さっきまで何をしていたか」を失い、復帰に時間がかかる場合、OSの仮想デスクトップを案件ごとに分け、切り替えても前のウィンドウ群を閉じずに残す。再開時の文脈を画面配置へ預ける当事者の低信頼度な実践で、メモリ消費の増加と引き換えに「えっと…」の時間を減らす。^[raw/articles/tweet-2104700180411064405-virtual-desktop-per-task.md]
 - [[screenpipe]]のような作業履歴検索や、[[i-have-adhd]]の現在地表示は、作業再開支援として読める。
 - [[digital-interruptions]]をまとめると、再開回数そのものを減らせる。
 

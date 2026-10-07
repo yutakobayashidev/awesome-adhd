@@ -1,7 +1,7 @@
 ---
 title: 時間管理
 created: 2026-07-22
-updated: 2026-09-18
+updated: 2026-09-29
 type: concept
 tags: [adhd, time-management, executive-function, attention, tool, lived-experience, japanese-context]
 sources: [raw/papers/fitz-2019-batching-smartphone-notifications-wellbeing.md, raw/papers/kushlev-2015-checking-email-less-stress.md, raw/papers/hiniker-2016-mytime-smartphone-non-use.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tiimo-homepage-2026.md, raw/articles/tweet-1740351903421337650-routine-timer-morning.md, raw/articles/tweet-2079859998449193147-hyperfocus-peak-time.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/articles/tweet-2079903068330574127-visible-time-arrival-readiness.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md, raw/articles/tweet-2080128266187190604-deadline-declaration-tactic.md, raw/articles/tweet-2081688580913545612-time-visualization-predict-record.md, raw/articles/tweet-2081731399271461102-gps-schedule-forced-systems.md, raw/articles/tweet-2082114468558090488-actual-task-duration-log.md, raw/articles/tweet-2082983162096029890-time-attack-gamification.md, raw/articles/tweet-2082923063763751422-multi-stage-reminder-cascade.md, raw/articles/tweet-2085741805275099550-hotcook-cooking-forgetfulness.md, raw/articles/tweet-2086014654325911629-timer-one-line-record.md, raw/articles/tweet-2085867026594336842-deadline-paper-first-step.md, raw/articles/tweet-2086193708740083838-morning-action-before-thinking.md, raw/articles/tweet-2086606283055202702-end-alarm-before-start.md, raw/articles/tweet-2086550541883277342-hyperfocus-stop-technology.md, raw/articles/tweet-2086659219496083720-fifteen-minute-single-goal-break.md, raw/articles/tweet-2086971764631040095-sleep-on-decisions-time-sense.md, raw/articles/tweet-2086991993071374820-morning-three-hour-focus-routine.md, raw/articles/tweet-2084915057650208912-adhd-pomodoro-no-extra-restarts-app.md, raw/articles/tweet-2087645502275776597-analog-clock-single-exit-alarm.md, raw/articles/tweet-2087670435681087636-office-walking-distance-lateness-environment.md, raw/articles/tweet-2087766095440781483-night-before-morning-prep.md, raw/articles/tweet-2087920921881309189-sixty-minute-twist-timer-meeting.md, raw/articles/tweet-2088068099551695288-artificial-early-deadline-pressure.md, raw/articles/tweet-1740396049225887887-station-departure-countdown-widget.md, raw/articles/tweet-1740384815730585736-routine-timer-morning-housework.md, raw/articles/tweet-2088204763397779721-waiting-mode-backward-alarm.md, raw/articles/tweet-2088264584587317280-outing-tasks-ordered-night-before.md, raw/articles/tweet-1831974163546038535-vibration-timer-pomodoro.md, raw/articles/tweet-2088430745987785009-routine-timer-playlist-morning.md, raw/articles/tweet-2088950567490191473-hyperfocus-ninety-minute-stop.md, raw/articles/tweet-2089276145225420933-artificial-deadline-date.md, raw/articles/tweet-2089306298018120095-single-departure-time-no-buffer-loop.md, raw/articles/tweet-2089524384524574723-flexible-meeting-time-contract.md, raw/articles/tweet-2089706380219564459-departure-buffer-physically-wait.md, raw/articles/tweet-2089720617516028204-rubber-band-wrist-kitchen-timer.md, raw/papers/lidstrom-holmqvist-2026-lgo-time-management-rct.md]
@@ -16,6 +16,13 @@ source_additions_2026-09-16-visible-timer: [raw/articles/tweet-21001995218629715
 source_additions_2026-09-17-priority-time-block: [raw/articles/tweet-2100163865195774193-priority-time-block-choice.md]
 source_additions_2026-09-17_research_watch: [raw/papers/nissley-tsiopinis-2026-school-ost-t2-organizational-skills.md]
 source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581531-externalize-daily-routine-thread.md]
+source_additions_2026-09-21-three-turn-day: [raw/articles/tweet-2101946280499195997-three-turn-day.md]
+source_additions_2026-09-22-transit-fire: [raw/articles/tweet-2102371115855155680-transit-alarm-focus-fire-timer.md]
+source_additions_2026-09-25-routine-rehearsal: [raw/articles/tweet-2103421807252693465-routine-margin-mental-rehearsal.md]
+source_additions_2026-09-25-prep-appointment-reverse-alarm: [raw/articles/tweet-2103462218515763458-three-time-tactics-teacher.md, raw/articles/tweet-2004140473657839653-reverse-countdown-alarm-gemini.md]
+source_additions_2026-09-28-five-more-minutes-short-deadline: [raw/articles/tweet-2104195787618128263-five-more-minutes-timer-first.md, raw/articles/tweet-2104103795693330463-short-deadline-before-free-time.md]
+source_additions_2026-09-28-time-measurement: [raw/articles/tweet-2103241252368269445-time-measurement-hyperfocus-trigger.md]
+source_additions_2026-09-29-time-blindness-research: [raw/articles/tweet-1992196380790812991-time-blindness-research-meta-analysis.md]
 ---
 
 # 時間管理
@@ -64,6 +71,7 @@ ADHD文脈の時間管理は、体感時間や「そろそろ」の感覚に頼�
 
 - **締切前の圧を前倒しで人工的に作る**: 本番直前の過集中に頼る代わりに、公式締切より前の自分用締切、人への「今日出します」宣言、残り時間が見えるタイマーを組み合わせ、緊張を安全な前倒し地点に作る。締切ギリギリで耐える根性ではなく、圧の発生場所を設計する時間管理。^[raw/articles/tweet-2088068099551695288-artificial-early-deadline-pressure.md]
 - **日中に複数の終了締切を置く**: 仕事だけを長時間だらだら続ける代わりに、ジムや事務など固定の予定を先に時間ブロックし、「この予定までにAを終える」という短い終了境界を一日の中に複数作る。遠い公式締切を待つのではなく、予定による外部の区切りを使う当事者の個人実践である。予定を詰め込みすぎず、休憩・移動・生活上の余白も残す。^[raw/articles/tweet-2099711846999851500-intra-day-deadlines.md]
+- **一日を有限の「3ターン」に分け、2ターンだけを実働目標にする**: 「今日一日」全体を頑張ろうとせず、朝・昼・夜などの区画に先に分け、そのうち2区画だけを作業対象にする。各区画の終わりを見える形にし、残りの区画は休息・生活・予備として残すことで、終わりの見えない長い一日を避ける当事者の低信頼度な実践。時刻や区画数は本人の生活に合わせ、休息を削るためには使わない。[[waiting-mode]]の予定連鎖とも関連する。^[raw/articles/tweet-2101946280499195997-three-turn-day.md]
 - **期限なしタスクにも仮の日付を入れる**: 公式締切がない作業は、まず仮の日付だけをカレンダーや紙に置く。精密な工程表ではなく『いつか』を消すための時間アンカーとして使い、[[task-initiation]]へ接続する。^[raw/articles/tweet-2089276145225420933-artificial-deadline-date.md]
 - **「重要だが急ぎでないこと」に定時枠を先に置く**: 締切がないため後回しになる活動は、優先順位を考え続ける代わりに、毎日・毎週の特定時刻をカレンダーへ確保する。その枠で行う候補を一つに固定しすぎず、その日の状態に合わせて選べる余地を残す。これは動画紹介を要約した低信頼度の実践候補であり、予定化が困りごとを解決する保証ではない。^[raw/articles/tweet-2100163865195774193-priority-time-block-choice.md]
 
@@ -83,16 +91,28 @@ ADHD文脈の時間管理は、体感時間や「そろそろ」の感覚に頼�
 - **出発前の余白は玄関待機・外待機で物理的に潰す**: 遅刻が「準備不足」より、家を出る直前の『あと一つだけ』で起きる場合、余白を増やすとかえって皿洗い・メール返信などが差し込まれる。靴を履いて玄関で待つ、先に外へ出るなど、余白に何もしない役割を与える。^[raw/articles/tweet-2089706380219564459-departure-buffer-physically-wait.md]
 - **安価なキッチンタイマーを身体装着する**: ダイソー等のキッチンタイマーに輪ゴムを通して腕時計風にし、身体に残る時間境界として使う実践がある。スマホを開かずにタイマーを持ち歩けるため、脱線を増やさない物理タイマーの一種として読める。^[raw/articles/tweet-2089720617516028204-rubber-band-wrist-kitchen-timer.md]
 - **開始と同時に別機器のタイマーを鳴らす**: 湯張りなど、始めた事実そのものを忘れやすい生活タスクでは、開始動作と同時にキッチンタイマーを起動する。完了時刻を覚え続けず音で戻るための外部合図にし、火気・湯張り設備では機器の安全機能や取扱説明も確認する。^[raw/articles/tweet-2090765524024332757-bath-fill-kitchen-timer.md]
+- **降車前の地点にアラームを置く**: 乗り過ごしを防ぎたい移動では、目的駅そのものではなく「2駅前」など余裕のある地点をアラームにする。移動中は調べ物の入口を閉じ、音楽など一つの低負荷な活動だけにすると注意の脱線を減らせる場合がある。必要な連絡・ナビゲーションは妨げず、個人実践として小さく試す。火気を使う作業では、開始と同時にタイマーをかけるが、タイマーだけに頼らず機器の安全機能と通常の安全手順を優先する。^[raw/articles/tweet-2102371115855155680-transit-alarm-focus-fire-timer.md]
 
 - **すき間時間は「長さ別メニュー」にして選択を減らす**: 5分・15分・30分など自分に使いやすい時間幅ごとに、できる作業を少数だけ事前登録する。空白ができるたびに「何をするか」を考えず、残り時間に対応する候補から選ぶ。休憩を選ぶ選択肢も最初から含め、空白を全て生産性で埋めるルールにはしない。個人の低信頼度な実践例。^[raw/articles/tweet-2091408866466754801-spare-time-task-menu.md]
 - **見積もり倍率を固定して予定に置く**: 所要時間の予測が楽観的に外れやすいなら、都度の気分で余白を決めず、まず自分の予測に一定の倍率（例: 2倍）を掛けるルールにする。実測ログがあれば倍率は見直す。これは出典未提示の個人実践であり、効果を一般化しない。^[raw/articles/tweet-2092440259871359148-estimate-double-rule.md]
 - **予定変更は「次の一手」へ縮約して外部から切り替える**: 急な変更を受けたら、変更内容を短くメモし、「今やることはこれだけ」と声に出して指差し確認する。次の行動へ移るタイマーを置き、必要なら信頼できる相手へ変更を伝えることで、頭内の再計画だけに頼らない。この投稿由来の個人実践は、[[external-memory]]・[[body-doubling]]・[[task-initiation]]を組み合わせた切替の足場として読める。^[raw/articles/tweet-2092446947265405087-schedule-change-reset.md]
+
+- **新しい日課は余白＋頭の中での手順リハーサルで組み直す**: 生活の大きな変化で日課を組み直す時、新しい日課に慣れるまでは予定の間に空白を設け、作業から次の作業へ移る「切り替え時間」まで見込む。余白を取れない場合の代替として、実際に始める前に新しい日課を頭の中で数回たどり、一つひとつの作業と次の作業への移りを想像して手順を飛ばさない。作業そのものより「作業間の移行」に目を向ける型。How to ADHD動画の抜粋要約に基づく低信頼度の実践。^[raw/articles/tweet-2103421807252693465-routine-margin-mental-rehearsal.md]
+
+- **予定の前に「準備の予定」を入れる**: 「19時に出る」ではなく「18時半から準備」までをカレンダーに書き、出発時刻だけでなく準備開始時刻を先に確保する。時間は残量が減っていくタイマーやアナログ時計で可視化し、作業前に予想した所要時間と実測を比べてズレを記録すると、見えなかった時間感覚が徐々に校正される。支援者から伝えられた内容の当事者共有であり、出発時刻ではなく完了・準備時刻で管理する既存実践と同系統。^[raw/articles/tweet-2103462218515763458-three-time-tactics-teacher.md]
+- **逆算アラームで準備工程ごとに区切る**: 出発時刻だけでなく「着替えを始める」「カバンをまとめる」など各準備工程へ逆算してアラームを設定し、全予定にはバッファ（例: 1.5倍）を見込む。AI（Gemini）が生成した助言を当事者が選んだもので、検証された支援情報ではないため参考にとどめる。^[raw/articles/tweet-2004140473657839653-reverse-countdown-alarm-gemini.md]
+
+- **夜の「あと5分」を言う前にタイマーを先に押す**: 夜の「あと5分」が際限なく伸びる時間感覚に対して、「あと5分」と言う前にスマホのタイマーを先に押し、鳴ったら途中でも一度立ち上がって、続きは明日の自分へ預ける切り上げ実践。体感時間ではなく外部タイマーに終了判定を移す。[[sleep]]と[[hyperfocus-control]]にまたがる。^[raw/articles/tweet-2104195787618128263-five-more-minutes-timer-first.md]
+- **まとまった自由時間より短い締切を先に置く**: 「時間があるほど動けなくなる」前提で、長い自由時間は締切ゼロの空白と同義であり、8時間の自由より30分後に人と会う約束が1つある方が確実に動ける。時間を空ける前に締切を置く、という順番が重要。[[task-initiation]]に接続する単一投稿（スレッド）由来の低信頼度の実践例。^[raw/articles/tweet-2104103795693330463-short-deadline-before-free-time.md]
+- **時間を測る「競技性」は着手の着火剤になるが、時間感覚は掴めない**: 「想定時間を書いてからストップウォッチで測りながら片付ける」ワークでは、測る競技性で過集中スイッチが入って速く片付けられたが、時間感覚そのものは改善しなかった、という当事者の正直な観察。時間の見える化は着手・加速のスイッチとして有効で、時間感覚の校正には実測ログ・補正倍率が別に必要。^[raw/articles/tweet-2103241252368269445-time-measurement-hyperfocus-trigger.md]
 
 ## 研究からの補足：時間管理介入
 
 Lidström Holmqvistら（2026）のスウェーデンでの実用的ランダム化試験は、ADHD・自閉スペクトラム症・精神疾患などにより時間管理が難しい成人75人を対象に、集団版「Let's Get Organised（LGO-S）」と通常支援（個別作業療法）を比較した。両群とも時間管理、整理・計画、感情調整、自己効力感、活動満足度が改善し、多くは3か月後も維持されたが、LGO-Sが通常支援を明確に上回る差は示されなかった。したがって、集団プログラムは有用な選択肢になりうる一方、「この形式だけが特別に効く」とは読まない。^[raw/papers/lidstrom-holmqvist-2026-lgo-time-management-rct.md]
 
 Nissley-Tsiopinisら（2026）の学校ベースRCTは、小学3〜5年生の整理・時間管理・計画（OTMP）困難に対するTier 2組織化スキル訓練を検討し、保護者評定の不安が高い子どもではOTMP/宿題問題への効果が大きい可能性を示した。一方で、ADHD診断の有無による効果差は明確ではなく、成人支援へ直接一般化する資料ではない。Wikiでは、時間管理を本人の努力だけでなく、学校環境・宿題設計・[[public-support]]上の足場として扱う材料にとどめる。^[raw/papers/nissley-tsiopinis-2026-school-ost-t2-organizational-skills.md]
+
+時間盲（Time Blindness）については、時間弁別・時間見積もり・時間再生などほぼすべての時間課題で誤差が大きいこと（Marx et al., 2022; Zheng et al., 2022）、成人ADHDでは注意・ワーキングメモリ・抑制を含むネットワーク全体の問題として理解すべきこと（Mette, 2023）、時間処理ネットワークの活動差（Hart et al., 2012）がメタ分析で示されつつある。これは本ページの「見える化」「5分刻み」「二重化締切」の対策を、単なる個人の工夫ではなく時間処理特性への対応として位置づける根拠候補になる。専門家アカウントの書誌付き投稿に基づくため、個別論文は一次文献で確認する。^[raw/articles/tweet-1992196380790812991-time-blindness-research-meta-analysis.md]
 
 ## 注意点
 

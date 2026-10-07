@@ -1,12 +1,15 @@
 ---
 title: 待機モード
 created: 2026-07-22
-updated: 2026-08-24
+updated: 2026-09-24
 type: concept
 tags: [adhd, time-management, executive-function, working-memory, attention, anxiety]
 sources: [raw/articles/waiting-mode-the-conversation-2026.md, raw/articles/tweet-2088204763397779721-waiting-mode-backward-alarm.md]
 confidence: medium
 source_additions_2026-08-24: [raw/articles/tweet-2091963783891857438-schedule-at-day-edges-waiting-mode.md]
+source_additions_2026-09-18-early-arrival: [raw/articles/tweet-2100876468205350915-early-arrival-forced-workspace.md]
+source_additions_2026-09-24-timer-permit: [raw/articles/tweet-2103109949022773264-waiting-mode-timer.md]
+source_additions_2026-09-24-bundle-day: [raw/articles/tweet-2101493494153875812-waiting-mode-bundle-day.md]
 ---
 
 # 待機モード
@@ -32,6 +35,9 @@ source_additions_2026-08-24: [raw/articles/tweet-2091963783891857438-schedule-at
 - **所要時間を記録する**: 実際に支度や移動に何分かかったかを残し、次回の見積もりを補正する。
 
 - **予定・出発・準備開始を先に置く**: 例として15:00予定なら14:00出発、13:30準備開始まで決め、13:30までは自由時間として扱う。予定を一日中頭で保持せず、準備開始アラームへ預けることで、予定前の時間を回収しやすくする。^[raw/articles/tweet-2088204763397779721-waiting-mode-backward-alarm.md]
+- **早く現地へ移動して待機を作業場所に変える**: 予定前の時間を家で使えず待ち続けるなら、起床後または十分早い時刻に待ち合わせ場所の近くへ移動し、カフェ等の安全な待機場所を短い作業枠として使う。遅刻回避と「そこで待つしかない」という外部制約を利用する個人実践であり、移動費、体力、天候、安全、利用規則、相手への連絡負荷を踏まえて選ぶ。^[raw/articles/tweet-2100876468205350915-early-arrival-forced-workspace.md]
+- **アラームまで他事OKを許可し、身体を動かす**: 予定まで何も手をつけない待機状態では、タイマーをセットして「アラームが鳴るまでは他のことをしてもOK」と自分に許可し、無理やりでも手や体を動かす。予定を頭で保持し続ける代わりにタイマーへ預け、前の時間を回す当事者実践。^[raw/articles/tweet-2103109949022773264-waiting-mode-timer.md]
+- **予定を同じ日にまとめて空白の日を作る**: 予定の前後が使えなくなる性質を前提に、予定を同じ日に集約し、予定のない空白の日を丸ごと確保する。一日単位で自由な日を作ることで、待機モードに奪われる日数を減らす当事者実践。予定を「午前か一日の最後へ寄せる」型とは日単位の集約が異なる。^[raw/articles/tweet-2101493494153875812-waiting-mode-bundle-day.md]
 
 ## 注意点
 

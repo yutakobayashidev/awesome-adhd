@@ -1,7 +1,7 @@
 ---
 title: 環境設計
 created: 2026-07-22
-updated: 2026-09-18
+updated: 2026-09-28
 type: concept
 tags: [adhd, executive-function, home, work, accessibility, tool, lived-experience, japanese-context]
 sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079760615485448609-ziplock-bag-in-bag.md, raw/articles/tweet-2078379045746848120-pp-sheet-zip-bags.md, raw/articles/tweet-2068357308481261936-clothing-uniform.md, raw/articles/tweet-2070840382343291218-heavy-blanket-sleep-hack.md, raw/articles/tiimo-homepage-2026.md, raw/articles/tweet-1739953040227287247-minimalism-less-stuff.md, raw/articles/tweet-1797396340231770380-geofence-auto-off.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/tweet-2080060334786887716-housework-automation-no-fold-laundry.md, raw/articles/tweet-2080065407822823866-night-decides-morning-trace-only.md, raw/articles/tweet-2080187975636509069-one-note-single-window-distraction-reduction.md, raw/articles/tweet-2080186209872351354-impulse-buying-notification-card-friction.md, raw/articles/tweet-2080130992845795353-soap-grater-bath-routine-hack.md, raw/articles/tweet-2080841443212665173-receipt-print-child-task-management.md, raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md, raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md, raw/articles/tweet-2081682049648439480-willpower-to-systems-three-tactics.md, raw/articles/tweet-2082058495449579544-subscription-model-tidying.md, raw/articles/tweet-2082035838532157764-night-prep-by-neurotype-morning-panic.md, raw/articles/tweet-2082131881970315336-infinite-socks.md, raw/articles/tweet-1276000118047531008-housework-automation-appliances.md, raw/articles/tweet-2085741805275099550-hotcook-cooking-forgetfulness.md, raw/articles/tweet-1740646259206373382-hanger-storage-boxes.md, raw/articles/tweet-2086158105579315645-exam-stationery-preplacement.md, raw/articles/tweet-2086658804285149597-fixed-tray-pouring-zone.md, raw/articles/tweet-2083770574933991552-sensory-load-posture-glasses.md, raw/papers/carr-2026-fielded-attention-adhd-context.md, raw/articles/tweet-2086748673787199621-forgetfulness-tool-bundle.md, raw/articles/tweet-2087147124240650316-door-knob-sports-gear-prep.md, raw/articles/tweet-2087132477525745945-single-task-hotpot-cooking.md, raw/articles/tweet-2087670435681087636-office-walking-distance-lateness-environment.md, raw/articles/tweet-2087766095440781483-night-before-morning-prep.md, raw/articles/tweet-2085290732919632166-robot-vacuum-floor-constraint.md, raw/articles/tweet-1740335770572034332-concierge-five-outfit-capsule.md, raw/articles/tweet-1740348604106387795-lost-first-storage-location.md, raw/articles/tweet-2088128495599890644-visible-fixed-location.md, raw/articles/tweet-2088122314894516524-duplicate-spares-by-location.md, raw/articles/tweet-1740396049225887887-station-departure-countdown-widget.md, raw/articles/tweet-1740384815730585736-routine-timer-morning-housework.md, raw/articles/tweet-1740450997737255310-ikea-measuring-cup-as-mug.md, raw/articles/tweet-2088454379410251809-smartphone-at-entrance-start-trigger.md, raw/articles/tweet-2088582900614844801-shopping-meal-system.md, raw/articles/tweet-2088557429147726317-remove-cause-before-study.md, raw/articles/tweet-2088805945656656356-residual-count-alert-automation.md, raw/articles/tweet-2089321593935925410-environment-switch-smartphone-cafe-silence.md, raw/articles/tweet-2089501687077646681-ninety-minute-smartphone-away-single-task.md, raw/articles/tweet-2089601897808474477-human-presence-workplace-cafe.md, raw/articles/tweet-2089621706415698135-visible-storage-wire-rack.md, raw/articles/tweet-1955833681530249477-frozen-meal-dedicated-freezer.md, raw/articles/tweet-2089934117664436674-mobile-order-forced-outing-deadline.md, raw/articles/tweet-2090271623433933188-visible-pending-box.md, raw/articles/tweet-2090091481843532208-cleaning-memory-items-separate-zone.md]
@@ -16,6 +16,12 @@ source_additions_2026-09-14-action-bundling: [raw/articles/tweet-120762054431449
 source_additions_2026-09-16-one-action-storage: [raw/articles/tweet-2099974128094629924-one-action-storage-decisions.md]
 source_additions_2026-09-16-visible-storage: [raw/articles/tweet-2100199521862971514-visible-timer-basket-clear-storage.md, raw/articles/tweet-2100199522286641337-hooks-keyreel-spares-notes-laundry-net.md]
 source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581531-externalize-daily-routine-thread.md]
+source_additions_2026-09-19-holding-box: [raw/articles/tweet-2101098958066235676-holding-box-scheduled-review.md]
+source_additions_2026-09-22-parenting-settings: [raw/articles/tweet-2102354471778931115-five-parenting-environment-settings.md]
+source_additions_2026-09-24-scaffold: [raw/articles/tweet-2103046963679678855-fixed-scaffold-free-content.md]
+source_additions_2026-09-25-template-return: [raw/articles/tweet-2102689427919389064-template-chores-routines.md, raw/articles/tweet-2103467303815835681-return-signal-before-going-out.md]
+source_additions_2026-09-28-morning-stimulus-cooker: [raw/articles/tweet-2104321010485047685-morning-sns-first-stimulus-design.md, raw/articles/tweet-2104162574262730874-auto-timer-cooker-replacement.md]
+source_additions_2026-09-28-home-env-ten: [raw/articles/tweet-2104168172861477285-ten-home-environment-settings-child.md]
 ---
 
 # 環境設計
@@ -83,6 +89,7 @@ source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581
 - **ワイヤーラック／スチール棚で隠さない収納にする**: 引き出しや扉の中へしまうと存在が消えやすい物は、ワイヤーラックやスチール製本棚の転用で視界に残す。片付いて見えるかより、使う瞬間に見つかるかを優先する可視収納。^[raw/articles/tweet-2089621706415698135-visible-storage-wire-rack.md]
 
 - **未決物の一時置き場を先に作る**: 片付けでは、判断できない物が出るたびに全体が止まりやすい。ラベル付きの見える紙袋やカードを置き、「今は決めないが失踪もしない」環境を作る。[[external-memory]]と組み合わせる。^[raw/articles/tweet-2090271623433933188-visible-pending-box.md]
+- **保留箱に日付と再確認日を付ける**: 捨てる／残すの判断で片付けが止まる物は、保留箱へ移して入れた日を記し、1か月後などの見直し予定をカレンダーへ登録する。「今ここで決める」負荷を外しながら、保留箱を永続的な隠し場所にしないための、物理的な箱と外部リマインダーの組み合わせ。処分は共有物・重要書類・再取得コストを確認してから行う。^[raw/articles/tweet-2101098958066235676-holding-box-scheduled-review.md]
 - **掃除場所と思い出鑑賞場所を分ける**: 写真や記念品で片付けが止まる場合、「見ないよう我慢する」のではなく、思い出の品が出てくる箱・机と、実際に掃除する場所を物理的に分ける。刺激を禁止せず、作業導線から外す環境設計として扱う。^[raw/articles/tweet-2090091481843532208-cleaning-memory-items-separate-zone.md]
 
 - **受け取り時刻のある用事を環境切り替えに使う**: カフェ等へ移動したいのに出られない時、モバイルオーダーで商品を先に注文し、受け取り時刻を外部の強制力にする。場所移動を「行けたら行く」から「取りに行く必要がある」へ変える環境設計。^[raw/articles/tweet-2089934117664436674-mobile-order-forced-outing-deadline.md]
@@ -93,6 +100,19 @@ source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581
 - **掃除の終了境界を先に置く**: 目移りして対象が増えやすい掃除では、開始前に「机の上だけ」のように範囲を決め、気になった別の場所は触らずメモへ退避し、15分などの終了タイマーが鳴ったら途中でも終える。着手の勢いを使いつつ、掃除が大掃除に拡大するのを範囲・記録先・時刻の三つで抑える個人実践。^[raw/articles/tweet-2097596147644973231-cleaning-exit-boundary.md]
 - **既存行動の直後に小さな維持作業をつなぐ**: 入浴の後に浴室から出る前に洗うよう、すでに起きる行動の出口へ数分の家事を固定する。本格的な掃除を毎回求めず、汚れがたまる前の最小工程へ分割する個人実践。浴室内での転倒、洗剤、同居者との分担は別途確認する。^[raw/articles/tweet-2096728311825383505-bath-exit-cleaning-routine.md]
 - **動ける動作へ小タスクを束ねる**: すでに起きている移動・行動を、新しいタスクの開始条件にする。たとえば給水場所へ行く際にゴミを一つ持つように、別途「ゴミを捨てに行く」判断を増やさず、既存の動線へ小さな用事を一つだけ載せる。運搬量、安全、共有空間のルールを超えない範囲で使う、単一投稿に基づく低信頼度の実践例。[[task-initiation]]、[[work-routines]]と接続する。^[raw/articles/tweet-1207620544314499079-action-bundling.md]
+
+- **家庭内の指示を、受け皿・合図・移行手順へ移す**: 学校プリントや脱いだ服は、ふたや仕切りのない大きなかごへ「入れるだけ」にし、朝の催促は決まったアラーム音・本人が受け入れやすい音楽など感情を挟みにくい合図へ置き換える。帰宅直後は休息・軽食などのクールダウンを挟み、ゲーム終了は予告、セーブ、終了後の小さな楽しみという移行儀式にする。宿題も全量でなく10分だけを合格条件にする。子どもを動かすためだけでなく、親子の衝突を減らす家庭環境の個人・事業者由来の実践案として扱う。感覚特性、学校の要件、年齢、本人の同意に合わせ、音やゲームの制限を一律に強制しない。^[raw/articles/tweet-2102354471778931115-five-parenting-environment-settings.md]
+
+- **土台だけ固定して中身は自由にする**: 起床時刻・仕事の順番・定位置の席など「決まった枠」だけを固定し、その中身（何をやるか・どう進めるか）は毎日変えてよいとする。ルーティンがないと崩れる不安と、毎日同じことの刺激不足という両立しにくい要求を、土台（スキャフォールド）と中身に分けて満たす生活設計。ASD寄りの安定欲求とADHD寄りの新奇欲求を同時に扱う低信頼度の個人実践として記録する。[[asd-adhd-structuring]]と接続する。^[raw/articles/tweet-2103046963679678855-fixed-scaffold-free-content.md]
+
+- **反復作業をテンプレ化して「気疲れ」を減らす**: 実行機能障害で日常に人並み以上に負荷がかかる前提で、家事やルーティーンワークをテンプレ化し、考えずに回せる型へ固定してエネルギー消費を下げる。反復作業の判断・記憶を根性でなく型へ逃がす家事環境設計。^[raw/articles/tweet-2102689427919389064-template-chores-routines.md]
+- **外出前に「帰る合図」を先に決める**: ADHD（刺激を求める）とASD（感覚過多）が同じ日にぶつかる時、衝動で出かけること自体は許容しつつ、「イヤホンを外したら帰る」「タイマーが鳴ったら帰る」のように退出条件を先に決めておく。出口だけを事前に用意し、感覚的な消耗や帰りそびれを防ぐ当事者の低信頼度な実践。^[raw/articles/tweet-2103467303815835681-return-signal-before-going-out.md]
+
+- **朝イチの最初の刺激をSNSより先に設計する**: 朝起きてすぐSNSを開くと「刺激を追うモード」に入り、片付け・洗濯・事務作業のような地味なタスクが急に重くなる。「片付けられない＝だらしない」ではなく、最初に何で脳を起動したかの問題と捉え、SNSより先にカーテンを開ける・水を飲む・机の上を1か所だけ片付ける、といった低刺激の動作から始める当事者実践。[[attention-control]]と[[work-routines]]に接続する。^[raw/articles/tweet-2104321010485047685-morning-sns-first-stimulus-design.md]
+- **自動タイマー付きの調理器具へ買い替える**: 火加減の管理が難しい古いコンロから、自動タイマー付きで蓋付き・油跳ねしないグリル付きの器具へ買い替えたことで、焦げや消し忘れの負担が減り、洗い物も減った、という当事者実践。家事の「火を見守る」という注意・時間の負荷を器具の自動化へ逃がす。^[raw/articles/tweet-2104162574262730874-auto-timer-cooker-replacement.md]
+- **「散らかしていい」カオティック・ゾーンと分解専用おもちゃ箱を設ける**: 片付けを叱り続けるより、部屋の一角を「ここは広げっぱなしでよい」と決め、分解・解体したい欲求は「これは分解していい」と決めた安全な物（古いおもちゃ等）へ向ける。叱る／叱られる場面を減らし、没頭と探求の出口を環境側へ用意する子育ての環境設計。電源コード・電池・ガラス部品は避け、大人が見守る。^[raw/articles/tweet-2104168172861477285-ten-home-environment-settings-child.md]
+- **ホワイトノイズ・フィジットトイ・色分けを学習環境へ置く**: 静かすぎると集中しにくい子には換気扇・自然音など一定の音、手持ち無沙汰には「見なくても触れる、音の出ない」フィジットトイ、情報は「宿題は青い箱」のように色で分ける。いずれも合う／合わないがあり、音や手遊びが逆に注意を奪う子もいるため、無理せず様子を見ながら試す。^[raw/articles/tweet-2104168172861477285-ten-home-environment-settings-child.md]
+- **「何もない壁」と「パーソナル・テント」で視覚・感覚の入口を減らす／休める**: 机の正面を無地の壁にして視界の情報量を減らし、光・音を遮れる小さなテントや段ボールハウスを「自分で休める場所」として置く。刺激過多で疲れやすい子の退避先と、注意が逸れない学習位置を環境側へ用意する。^[raw/articles/tweet-2104168172861477285-ten-home-environment-settings-child.md]
 
 ## 研究・概念から見た環境文脈
 

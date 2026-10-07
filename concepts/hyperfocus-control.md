@@ -1,7 +1,7 @@
 ---
 title: 過集中の制御
 created: 2026-07-22
-updated: 2026-09-03
+updated: 2026-09-28
 type: concept
 tags: [adhd, attention, executive-function, time-management, tool, lived-experience, japanese-context]
 sources: [raw/papers/hupfeld-2019-living-in-the-zone-hyperfocus-adhd.md, raw/papers/hupfeld-2024-adult-hyperfocus-questionnaire-validation.md, raw/papers/kang-2009-curiosity-reward-memory.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079859998449193147-hyperfocus-peak-time.md, raw/articles/tweet-2079844647199715690-hyperfocus-end-time-before-start.md, raw/articles/tweet-2080201263778771041-hyperfocus-visual-progress-tracking.md, raw/articles/tweet-2081575303542104352-short-time-disability-employment.md, raw/articles/tweet-2081718500041900538-hyperfocus-dont-stop-timer.md, raw/articles/tweet-2081895802356851193-hyperfocus-punctuate-water.md, raw/articles/tweet-2081966844601344356-post-it-search-drift.md, raw/articles/tweet-2002943114731003956-hyperfocus-entry-eight-tactics.md, raw/articles/tweet-2086606283055202702-end-alarm-before-start.md, raw/articles/tweet-2086550541883277342-hyperfocus-stop-technology.md, raw/articles/tweet-2087920921881309189-sixty-minute-twist-timer-meeting.md, raw/articles/tweet-1831974163546038535-vibration-timer-pomodoro.md, raw/articles/tweet-2088950567490191473-hyperfocus-ninety-minute-stop.md, raw/articles/tweet-2089676299358949645-hyperfocus-double-alarm-food-breaks.md]
@@ -9,6 +9,7 @@ confidence: medium
 source_additions_2026-08-28: [raw/articles/tweet-2093441419050704993-exit-conditions-hyperfocus.md]
 source_additions_2026-08-31: [raw/articles/tweet-2094436315047793087-external-interruption-hyperfocus.md]
 source_additions_2026-09-03: [raw/articles/tweet-2095346052744311160-exit-ritual-two-stage-warning.md]
+source_additions_2026-09-28-reduce-start-count: [raw/articles/tweet-2104416154156757381-reduce-start-count-minimize-breaks.md]
 ---
 
 # 過集中の制御
@@ -45,6 +46,7 @@ source_additions_2026-09-03: [raw/articles/tweet-2095346052744311160-exit-ritual
 - **外部からの中断をあらかじめ設計する**: 自力での切り上げが難しい時は、同意のある通話、予定、対面の確認など、外部から一度中断が入る条件を先に置く。通知を増やして注意を散らすことではなく、過集中の前に「いつ・何で戻るか」を環境側へ出す実践候補。相手の集中や勤務ルールを損なわない範囲で使う。投稿者が知人について記した又聞きの単一投稿であり、臨床的効果を示す根拠ではない。^[raw/articles/tweet-2094436315047793087-external-interruption-hyperfocus.md]
 
 - **二段階の終了予告と短い終了儀式**: 終了を急に判断せず、「あと5分」と予告してから「今終わり」と実行する二段階にする。タイマーを外部の終了合図として使い、区切りまで進んだらタブを閉じる・通知を切る・机上を一つ片づける、といった短い儀式を通じて次の行動へ移る。単一の個人投稿に基づく低信頼度の実践候補であり、医療的効果を示すものではない。^[raw/articles/tweet-2095346052744311160-exit-ritual-two-stage-warning.md]
+- **開始回数を減らし、休憩を最小化して過集中で突き進む**: 「開始コストが極めて高いので開始回数を減らすべき。一度始めたら倒れるまで過集中で突き進み、こまめな休憩は再起動を増やすだけ」という当事者主張。既存の「集中が乗っている時はタイマーで止めない」と同方向だが、休憩を能動的に削る点で、休息・睡眠・他タスク崩壊との両立に注意が必要。[[time-management]]の休憩設計と対にして読む。^[raw/articles/tweet-2104416154156757381-reduce-start-count-minimize-breaks.md]
 
 ## 研究メモ
 

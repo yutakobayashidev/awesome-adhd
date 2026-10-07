@@ -1,11 +1,12 @@
 ---
 title: 薬物療法
 created: 2026-07-22
-updated: 2026-08-13
+updated: 2026-09-25
 type: concept
-tags: [adhd, medication, guideline, diagnosis]
+tags: [adhd, medication, guideline, diagnosis, lived-experience]
 sources: [raw/articles/nice-ng87-recommendations-2026.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md, raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md, raw/papers/iwanami-2026-guanfacine-adult-adhd-japan-pms.md, raw/papers/garcia-argibay-2026-adhd-autism-medication-patterns-sweden.md]
 confidence: medium
+source_additions_2026-09-25: [raw/articles/tweet-2025394259176931463-medical-first-then-hacks.md]
 ---
 # 薬物療法
 薬物療法はADHD管理の一部だが、このWikiでは個別薬の推奨や服薬助言は行わない。NICE NG87は、薬の開始、維持、監視、服薬継続、中止検討を診療指針の中で扱っている。^[raw/articles/nice-ng87-recommendations-2026.md]
@@ -20,6 +21,10 @@ ADHDと診断された人のうち薬物療法を受けている割合を推定�
 ## 日本における成人ADHDへのグアンファシン（GXR）
 
 日本の成人ADHDを対象としたグアンファシン塩酸塩徐放錠（GXR）の市販後調査（Iwanamiら, 2026, 961人, 155施設）では、12カ月継続率45.2%、1%以上で報告された副作用は傾眠（15.0%）、浮動性めまい（4.0%）、倦怠感（3.7%）など。重篤な副作用は13人（1.4%）に17件報告された。臨床全般印象改善度（CGI-I）および患者による全般印象改善度（PGI-I）は観察期間を通じて改善し、ADHD-RS-IVの総得点・下位尺度もベースラインから有意に改善した（p<0.0001）。この研究は製造販売元（武田薬品工業）の社員が著者に含まれる市販後調査であり、RCTではない。日本の成人ADHD実臨床における一つの参照データとして扱い、治療判断の根拠にはしない。^[raw/papers/iwanami-2026-guanfacine-adult-adhd-japan-pms.md]
+
+## 当事者の声：まず医療、その上でライフハック
+
+当事者投稿には「ライフハックを1億集めても限界で、まず適切な医療を受け、その上でライフハックが効いてくる」という実感がみられる。これは診断・処方・治療方針を専門職に確認するという本Wikiの方針と整合するが、あくまで個人の体験談であり医学的根拠ではない。^[raw/articles/tweet-2025394259176931463-medical-first-then-hacks.md]
 
 ## 注意点
 薬の選択、用量、副作用、併用、運転への影響は個人差が大きく、国の承認状況や制度にも左右される。必ず専門職に確認する。

@@ -1,7 +1,7 @@
 ---
 title: 忘れ物・失くし物の対策
 created: 2026-07-22
-updated: 2026-09-18
+updated: 2026-09-28
 type: concept
 tags: [adhd, working-memory, executive-function, home, tool, lived-experience, japanese-context]
 sources: [raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079760615485448609-ziplock-bag-in-bag.md, raw/articles/tweet-2078379045746848120-pp-sheet-zip-bags.md, raw/articles/tweet-2068357308481261936-clothing-uniform.md, raw/articles/tweet-1740366768441602453-lock-check-key-cover.md, raw/articles/tweet-1740321810779103522-one-place-documents.md, raw/articles/tweet-2039229335836696862-forgetfulness-company-locker-fixed-bag.md, raw/articles/tweet-2080063711180701705-seria-forgetfulness-checker-summer-tasks.md, raw/articles/tweet-2080308025915785565-overdeposit-auto-payment.md, raw/articles/tweet-2081670676457591068-five-forgetfulness-systems.md, raw/articles/tweet-2081731399271461102-gps-schedule-forced-systems.md, raw/articles/tweet-2082131881970315336-infinite-socks.md, raw/articles/tweet-2082976727215857993-accept-forgetfulness-bring-spares.md, raw/articles/tweet-1740680164168913193-smart-lock-forgetfulness.md, raw/articles/tweet-2086748673787199621-forgetfulness-tool-bundle.md, raw/articles/tweet-2087147124240650316-door-knob-sports-gear-prep.md, raw/articles/tweet-2087185060562907424-fixed-sequence-departure-check.md, raw/articles/tweet-2087875589726175569-pay-receive-one-set-chant.md, raw/articles/tweet-1740408697166422428-stock-label-directly.md, raw/articles/tweet-1740348604106387795-lost-first-storage-location.md, raw/articles/tweet-2088128495599890644-visible-fixed-location.md, raw/articles/tweet-2088122314894516524-duplicate-spares-by-location.md, raw/articles/tweet-2088249303223652708-point-and-call-belongings-check.md, raw/articles/tweet-2088238475082674603-dm-call-find-phone.md, raw/articles/tweet-1741335759955857793-bell-on-wallet-airpods.md, raw/articles/tweet-2089910225205968955-touch-only-when-used.md]
@@ -13,6 +13,10 @@ source_additions_2026-09-10-dedicated-bag: [raw/articles/tweet-20979225170128077
 source_additions_2026-09-15-subject-zip-file: [raw/articles/tweet-1740389109255020660-subject-zip-file.md]
 source_additions_2026-09-17-camera-check: [raw/articles/tweet-2100450302587756727-camera-checklist-app.md]
 source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581531-externalize-daily-routine-thread.md]
+source_additions_2026-09-19-ai-planning-prompt: [raw/articles/tweet-2100887835536728329-ai-forgetfulness-planning-prompt.md]
+source_additions_2026-09-25-plush-remote: [raw/articles/tweet-1740340412177596822-plush-on-remote.md]
+source_additions_2026-09-25-money-tech: [raw/articles/tweet-2102911012953542709-money-tech-buy-duplicates.md]
+source_additions_2026-09-28-umbrella-always: [raw/articles/tweet-2104352639437939000-folding-umbrella-always-packed.md]
 ---
 
 # 忘れ物・失くし物の対策
@@ -23,6 +27,7 @@ X/Twitter由来の当事者・支援系投稿では、忘れ物対策は「思�
 
 - **玄関のランディングパッド**: 鍵・財布・スマホ・交通系カードなど毎日持ち出す物を、玄関近くのふた無しトレイ／かご／フックだけに集約する。出発時に「探す」のではなく「そこを見る」仕組みにする。
 - **出発前チェックリスト**: ドアの内側に「財布・鍵・スマホ・充電器・提出物」など、忘れがちな物だけを書いたチェックリストを貼る。リストは暗記対象ではなく、毎回見る外部記憶として扱う。
+- **AIに予定別の短いチェックリストを作らせる**: 外出・仕事・旅行などの予定を入力し、忘れそうな物、前日準備、出発前確認、通知、定位置・予備を順に洗い出させ、最後は重要項目だけの短いリストに絞る依頼テンプレートが投稿されている。生成結果を鵜呑みにせず、現地規則・安全条件・本人の必需品を確認し、AIへ渡す予定や第三者情報は最小限にする。^[raw/articles/tweet-2100887835536728329-ai-forgetfulness-planning-prompt.md]
 - **カメラで実物と照合する持ち物リスト**: 「覚えた」「リストにチェックした」で終えず、出発前に持ち物をスマホのカメラへ見せてリストと照合するアプリの例がある。確認を記憶・自己申告から実物の提示へ移す発想であり、アプリの識別精度、対応端末、データ取扱いは利用前に確認する。製品投稿に基づく低信頼度の実践候補で、医療的効果を示すものではない。^[raw/articles/tweet-2100450302587756727-camera-checklist-app.md]
 - **市販チェック盤の転用**: 忘れ物チェッカーのようなスライド式・物理式のチェック道具を、持ち物だけでなく宿題、練習、家事の残タスク一覧に転用する。紙のリストより「済／未」が目に残りやすい。
 - **必需品を「身につける一式」にして持ち替えを一回にする**: 携帯と財布を一体化して肩掛けにし、バッグ内の必須品は一つのポーチへまとめる。バッグを替える時は個々の物を移し替えず、そのポーチだけを移す。自宅内で携帯を探す場合は、腕時計などから音を鳴らせる探索機能を使う。個人の実践メモであり、端末・アクセサリの互換性や紛失防止設定は各自で確認する。^[raw/articles/tweet-2100745448470581531-externalize-daily-routine-thread.md]
@@ -59,6 +64,12 @@ X/Twitter由来の当事者・支援系投稿では、忘れ物対策は「思�
 - **財布・AirPodsなどに鈴を付ける**: 財布やイヤホンのように小さく失くしやすい物へ鈴を付けると、持っていない時は音がしないことで忘れに気づき、落とした時も音で気づきやすい。GPSタグより安価で電池不要な、物理音を使う紛失・忘れ物対策。^[raw/articles/tweet-1741335759955857793-bell-on-wallet-airpods.md]
 - **使用場所に予備を常備する**: 上履きのように「家から持参する」こと自体が失敗点になる物は、職場・学校など使用先へ予備を一つ置く。出発前チェックで思い出すことを唯一の防波堤にせず、忘れても当日の活動が止まらない冗長性を作る。費用、保管許可、衛生・サイズ更新を確認できる物に限定する。^[raw/articles/tweet-2091551619934830743-spare-shoes-at-destination.md]
 - **バッグへ物理的に固定する**: スポーツ用具や提出物など、準備済みでも手で持つ段階で置き忘れやすい物は、リュックの外ポケット・ストラップ等へ安全に固定し、バッグを持つ動作へ統合する。手に持つ別工程を消すことで、出発時に注意を向ける対象を減らす。破損・落下・周囲への接触や、学校・職場の規則を必ず確認する。^[raw/articles/tweet-2092721738421506108-bag-attached-sports-gear.md]
+
+- **リモコンにぬいぐるみを付けて大きく・目立たせる**: ソファの隙間に埋もれがちな小さなリモコンへぬいぐるみを付け、物理的に大きく・目立つ形にして失くしにくくする。#ADHDのパワー系ソリューション タグ由来の環境設計。小さく失くしやすい物を「見つけられる大きさ・形」へ変える点で、見える定位置や鈴を付ける実践と同系統。写真付きの単一投稿に基づく低信頼度の実践例。^[raw/articles/tweet-1740340412177596822-plush-on-remote.md]
+
+- **お金とテクノロジーで苦手を解決する**: メガネが毎朝見つからないなら同じものを3つ持つ、なくしたら躊躇せず買い直す、文章は自動修正・AI・音声入力で補う。苦手を努力で補うより、重複購入や道具・技術で外部化し、「もっと努力して」と消耗していたエネルギーを得意なことに振り向ける。場所別予備・買い直しを心理的ハードルごと許容する発想。^[raw/articles/tweet-2102911012953542709-money-tech-buy-duplicates.md]
+
+- **折り畳み傘を常時リュックへ入れておく**: 傘を忘れる・置き忘れる前提で、晴れの日でも常時折り畳み傘をリュックに入れておき、使い終わって乾かしたら即リュックへ戻す。「今日は雨か」「傘が必要か」という判断と持ち出しの記憶をやめ、傘をバッグの常備品にしてしまう忘れ物対策。^[raw/articles/tweet-2104352639437939000-folding-umbrella-always-packed.md]
 
 ## 注意点
 

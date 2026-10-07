@@ -1,12 +1,14 @@
 ---
 title: ワーキングメモリ
 created: 2026-07-22
-updated: 2026-09-04
+updated: 2026-09-20
 type: concept
 tags: [adhd, working-memory, executive-function, attention, lived-experience, japanese-context]
 sources: [raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md, raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md, raw/papers/ratwani-2008-spatial-memory-task-resumption.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2079789503863242941-forgetfulness-zero-checklist.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/fredrick-2020-sct-adhd-task-unrelated-thought.md, raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2081700413070512286-external-memory-justification.md]
 confidence: medium
 source_additions_2026-09-04-detailed-procedures: [raw/articles/tweet-2095646354387374409-detailed-procedure-externalization.md]
+source_additions_2026-09-20-written-instructions: [raw/articles/tweet-2101446239904739716-written-instructions-immediate-note.md]
+source_additions_2026-09-20-keyword-notes: [raw/articles/tweet-2101634940576350210-keyword-notes-immediate-reconstruction.md]
 ---
 
 # ワーキングメモリ
@@ -21,6 +23,8 @@ source_additions_2026-09-04-detailed-procedures: [raw/articles/tweet-20956463543
 - 試験・仕事の確認では、「気をつける」対象を頭の中に置かず、再発しやすいミス状況だけを[[careless-mistake-countermeasures]]として外へ出す。
 - ADHDの「部屋に入ったら目的を忘れる」「会話中に言いたいことが消える」は記憶力の低さではなく、注意が切り替わると脳内の情報が上書きされやすいワーキングメモリの特性。この一時保存の仕組みの違いを前提に、メモを「外付けメモリ」として遠慮なく使う姿勢が重要。^[raw/articles/tweet-2081700413070512286-external-memory-justification.md]
 - **手順を省略しないマニュアルにする**: 「次に何をするか」を保持できない場面では、作業を再開できる粒度で動作・判断条件・完了状態まで書く。自分用のメモ、引き継ぎ、AIへの依頼では「詳細な手順で出す」と明示し、暗黙の前提や飛ばされた中間工程を減らす。個人投稿に基づく低信頼度の実践候補であり、ADHDやワーキングメモリの医学的説明ではない。^[raw/articles/tweet-2095646354387374409-detailed-procedure-externalization.md]
+- **口頭指示を文字に残す**: 複数の依頼を受ける時は、相手にチャット等の文面で送ってもらうか、聞きながらその場で短くメモする。記憶力や「聞いたはず」に頼らず、後から確認できる記録を共有の確認手順として使う。これは低信頼度の個人実践であり、投稿内の認知機能に関する一般化は採用しない。^[raw/articles/tweet-2101446239904739716-written-instructions-immediate-note.md]
+- **会話中は単語だけ、直後に復元する**: 会議や口頭説明では、文として整えずに日付・担当・依頼・期限などの単語を縦に速記し、終了直後の約30秒で行動項目・確認事項へ補う。「聞く」「選ぶ」「文章化する」を同時に増やしすぎないための、単一投稿由来の低信頼度な実務上の試行案である。重要な内容は、相手との文面確認や正式記録を優先する。[[external-memory]]と[[work-routines]]に接続する。^[raw/articles/tweet-2101634940576350210-keyword-notes-immediate-reconstruction.md]
 
 ## 研究メモ
 

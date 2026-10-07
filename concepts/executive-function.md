@@ -1,11 +1,12 @@
 ---
 title: 実行機能
 created: 2026-07-22
-updated: 2026-08-31
+updated: 2026-09-25
 type: concept
 tags: [adhd, executive-function, attention, time-management, work, lived-experience, japanese-context]
 sources: [raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md, raw/papers/fuermaier-2013-complex-prospective-memory-adult-adhd.md, raw/papers/jylkka-2023-everyday-prospective-memory-adult-adhd.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md, raw/articles/tweet-2079178248676860144-time-blindness-countermeasures.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/screenpipe-homepage-2026.md, raw/papers/bergmann-2026-digital-cognitive-training-adult-adhd-rct.md, raw/papers/xu-2026-exercise-executive-functions-adult-adhd-meta-analysis.md, raw/papers/tan-2026-adult-adhd-assistive-technologies-scoping-review.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/deep-research-report-stt-neurodiversity-2026.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md, raw/papers/canu-2026-cbt-group-telehealth-college-adhd.md, raw/papers/solanto-2026-executive-self-management-college-adhd.md, raw/articles/tweet-2082444170292257176-five-decision-making-systems.md]
 source_additions_2026-08-31_research_watch: [raw/papers/velder-shukrun-2026-cog-fun-a-adult-adhd-case-series.md, raw/papers/single-2025-immersive-vr-cognitive-rehabilitation-adhd-review.md]
+source_additions_2026-09-25-smallest-item: [raw/articles/tweet-2103319553325285384-smallest-item-priority-paralysis.md]
 confidence: medium
 ---
 
@@ -22,6 +23,7 @@ confidence: medium
 - [[speech-to-text-neurodiversity-support|STT支援]]では、会議 transcript から action item を自動抽出し「要点・次の一手・未確定・後で確認」に振り分ける設計が、[[executive-function|実行機能]]の外部化として提案されている。ただし ASR 誤りが下流の要約を劣化させるため、低信頼箇所のハイライトと人間確認が必須。^[raw/articles/deep-research-report-stt-neurodiversity-2026.md]
 - [[waiting-mode]]のように、予定前の不確実性が着手・切り替え・優先順位づけを止めることがある。予定を早めに置く、前の時間を短い枠へ切る、リマインダーへ預ける、といった足場が実行機能負荷を下げる。^[raw/articles/waiting-mode-the-conversation-2026.md]
 - **決断力を支える5つの仕組み**: ADHDは「考える量が多すぎて整理が追いつかない」ため、決断は「もっと考える」ではなく「決める仕組み」で支える。(1)選択肢を3つ以下に絞る（ランチならA・B・Cの3択）、(2)制限時間を先に決める（「5分以内に決める」）、(3)70点でOKにする（100点の決断はほぼ存在しない）、(4)小さい決断を増やして練習する（今日着る服、食べる物を素早く決める）、(5)決断日記をつける（「何を決めたか」「結果どうだったか」を記録し、失敗と思った決断が大した問題になっていないことに気づく）。^[raw/articles/tweet-2082444170292257176-five-decision-making-systems.md]
+- **全部が最優先に感じて固まる時は「一番小さいやつ」を最初の一手にする**: 「重要なものから」と考えた瞬間、全項目が最優先になって動けなくなる時は、優先度づけそのものを一旦外し、サイズ・手間が最小の作業（例：電池交換）を入口にする。優先順位の決定を入口で要求せず、最小の完了で着手の流れを作る。単一投稿による低信頼度の実践例。^[raw/articles/tweet-2103319553325285384-smallest-item-priority-paralysis.md]
 
 ## 研究メモ
 

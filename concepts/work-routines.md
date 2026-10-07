@@ -1,7 +1,7 @@
 ---
 title: 仕事のルーティン
 created: 2026-07-22
-updated: 2026-09-14
+updated: 2026-09-28
 type: concept
 tags: [adhd, work, executive-function, time-management, tool, lived-experience, japanese-context]
 sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079499121107341499-two-tenths-work-rule.md, raw/articles/tweet-2079767897938051576-five-second-todo.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/tweet-1992406682652336231-long-task-ai-25min-breakdown.md, raw/articles/tweet-2080257873259716882-seven-failures-eighth-system.md, raw/articles/tweet-2080259380080161006-dont-be-careful-build-systems.md, raw/papers/gibbs-2026-female-adhd-academia-work.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/tweet-2081356392972038227-interruption-tally-three-workplace-tactics.md, raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md, raw/articles/tweet-2081575303542104352-short-time-disability-employment.md, raw/articles/tweet-2081888402581176448-self-distrust-procrastination-alert.md, raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md, raw/articles/tweet-2086105627697549630-grill-with-docs-milestone-review.md, raw/articles/tweet-2014465170400280892-systematize-steady-effort.md, raw/articles/tweet-2086307734161588450-two-queue-workstation.md, raw/articles/tweet-2086302039244718116-ai-prioritization-removes-choice.md, raw/articles/tweet-2086601199089049749-linear-checklist-pr-ai-final-ten-percent.md, raw/articles/tweet-2086701376911139129-ios-app-parallel-task-focus.md, raw/articles/tweet-2086659219496083720-fifteen-minute-single-goal-break.md, raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md, raw/articles/tweet-2086742519904420303-error-manualization-routine.md, raw/articles/tweet-2086889863656448054-left-right-task-split.md, raw/articles/tweet-2086935624599388361-early-delay-reporting.md, raw/articles/tweet-2086991993071374820-morning-three-hour-focus-routine.md, raw/articles/tweet-2086998621673968112-claude-code-remind-watch-organize.md, raw/articles/tweet-2087012072114569533-after-work-recovery-cost.md, raw/articles/tweet-2087094923179004098-twenty-minute-forced-break-agreement.md, raw/articles/tweet-2087416492082258023-ai-close-meeting-attention-residue.md, raw/articles/tweet-2087387483411738659-manual-ui-trade-admin-workflow.md, raw/articles/tweet-2087524179860246583-start-of-day-walltalk-task-capture.md, raw/articles/tweet-2087645349330698667-delegate-automate-execution.md, raw/articles/tweet-2087887849819459834-morning-ninety-minute-defense-time.md, raw/articles/tweet-2087920921881309189-sixty-minute-twist-timer-meeting.md, raw/articles/tweet-2088805945656656356-residual-count-alert-automation.md, raw/articles/tweet-2088914159073218947-automation-health-output-count.md, raw/articles/tweet-2088834572637380766-ai-secretary-always-on-checkins.md, raw/articles/tweet-2088920198589911187-work-variation-width.md, raw/articles/tweet-2089374389334573266-document-checklist-quality-gate.md, raw/articles/tweet-2089305319868657792-now-or-memo-paper-schedule-todo.md, raw/articles/tweet-2089501687077646681-ninety-minute-smartphone-away-single-task.md, raw/articles/tweet-2089646987637580066-batch-same-phase-work.md, raw/articles/tweet-2090002469308998006-boredom-structured-load-exercise-deadline.md, raw/articles/tweet-2089934117664436674-mobile-order-forced-outing-deadline.md]
@@ -28,6 +28,17 @@ source_additions_2026-09-11-work-rotation: [raw/articles/tweet-20984271702931747
 source_additions_2026-09-13-calendar-commitment: [raw/articles/tweet-2098723132941140012-calendar-commitment-deadline.md]
 source_additions_2026-09-13-failure-system-repair: [raw/articles/tweet-2099112005122904219-failure-system-repair.md]
 source_additions_2026-09-14-brief-clarification: [raw/articles/tweet-2099467139925381507-work-brief-clarification.md]
+source_additions_2026-09-18-failsafe-layers: [raw/articles/tweet-2100945829511242141-work-failsafe-layers.md]
+source_additions_2026-09-21_research_watch: [raw/papers/pimenova-2026-ai-copresence-developers-adhd.md]
+source_additions_2026-09-21-completion-time: [raw/articles/tweet-2101993844363428297-completion-time-declaration.md]
+source_additions_2026-09-21-three-turn-day: [raw/articles/tweet-2101946280499195997-three-turn-day.md]
+source_additions_2026-09-22-output-quality-gate: [raw/articles/tweet-2102224363311247676-output-quality-gate-monitoring.md]
+source_additions_2026-09-24-automation-retry: [raw/articles/tweet-2102894528755896541-automation-retry-reversible.md]
+source_additions_2026-09-24-job-fit-checklist: [raw/articles/tweet-2102679171751362671-job-structure-fit-checklist.md]
+source_additions_2026-09-25-actual-execution: [raw/articles/tweet-2103329897854689607-verify-actual-execution.md]
+source_additions_2026-09-25-automation-stop: [raw/articles/tweet-2103352546983334272-automation-stop-detection.md, raw/articles/tweet-2103363871356735724-stopping-mechanism-visibility.md]
+source_additions_2026-09-28-job-strength-weakness-ratio: [raw/articles/tweet-2104342517147914618-job-strength-weakness-ratio.md]
+source_additions_2026-09-28-ai-close-units: [raw/articles/tweet-2104454734690275467-ai-close-tasks-small-units.md, raw/articles/tweet-2104453799155020171-ai-delegation-open-loops.md]
 confidence: low
 ---
 
@@ -57,7 +68,10 @@ confidence: low
 - **自動化も一発では決まらない──作って、壊して、その日のうちに作り直す**: 意志力に頼らず仕組みで回すのがADHDの基本だが、自動化そのものが最初から完璧に動くわけではない。AIを使ったX投稿の自動化を試みた投稿者は、初回設計が失敗したその日のうちに設計を作り直し、夜間にAIが原稿生成・別AIが検品・予約投稿に積む3段階の仕組みに落ち着けた。決意をやめて仕組みにし、仕組みも直しながら運用する。^[raw/articles/tweet-2081220465864187989-ai-automation-iterate-fix-systems.md]
 - **「減っていく残数」を通知対象にする**: 予約投稿や在庫のように、最初に積んだ分が減っていく仕組みは、出力が続いている間も補充が必要ならまだ手動運用である。残り本数を数え、残り3本未満のような閾値で知らせる仕掛けを置くと、棚が空になる前に補充へ戻れる。[[external-memory]]と[[environment-design]]を使った自動化の保守ルーティン。^[raw/articles/tweet-2088805945656656356-residual-count-alert-automation.md]
 - **自動化の健康指標を「起動」から「成果物の増加」へ変える**: 夜間補充や予約投稿のような仕組みは、時間どおりに起動していても0件投入のまま空回りすることがある。ログの成功・失敗ではなく、前日より在庫や成果物が増えたかを確認項目にし、増えていなければ理由調査へ回す。自動化の保守も[[external-memory]]へ逃がす実践。^[raw/articles/tweet-2088914159073218947-automation-health-output-count.md]
+- **自動化が止まったら真因を時刻つきで特定し、再試行を足す**: 朝の定時配信が出なかった時、ログを追って6時50分の回線瞬断を真因と特定し、タスクへ再試行（3回・10分間隔）を追加して元へ戻せる設定にした、という当事者の実録がある。仕組み化の失敗を「注意不足」にせず、発生時刻・原因・再試行・復旧可能性を外へ置く自動化の保守ルーティンとして読める。自動化の停止方法・通知・責任・データ取扱いは運用前に決め、職場の安全・承認手順を優先する。^[raw/articles/tweet-2102894528755896541-automation-retry-reversible.md]
+- **「予定」ではなく「実測」で実行を確認する**: 予定表や配信スケジュールを見ていると「順調」に見えても、実際には投稿・配信されていないことがある。「投稿する予定だったか」ではなく「実際に投稿されたか」を問い、予定表の横に「実際に実行されたかを確認できる場所」を置く。既存の「成果物の増加を健康指標にする」「完了を状態で検証する」と同系統だが、予定 vs 実測の対比として明文化した点が新しい。単一投稿（中小企業経営者の実録）に基づく低信頼度の実践例。^[raw/articles/tweet-2103329897854689607-verify-actual-execution.md]
 - **短時間集中×障害者雇用の組み合わせ**: 週40時間勤務で体調不良と短期離職を繰り返していたAuDHD当事者が、障害者雇用の短時間勤務に切り替え、集中が入る2〜3時間だけ全力を出し、それ以外は流す戦略に転換。体調不良時の対応を事前に相談・合意し、疲れたら過集中を強制リセットする習慣を組み合わせた結果、ミスが激減し、運動や自分の時間を確保できるようになった。長時間耐えるより短時間集中の方が結果的に生産性が上がる。^[raw/articles/tweet-2081575303542104352-short-time-disability-employment.md]
+- **仕事の構造との相性をチェックリストで自己点検する**: チームワーク前提、頼まれ事が絶えない、裁量がない、複数案件の同時管理、小さなミスが信用問題になる、場所が固定、質よりスピード、褒められない、アイデアが「余計なこと」扱い、といった項目を数え、3個で「ちょっとキツい」、5個で「かなり消耗」、7個以上で「相性を見直してもよい」とするチェックリストが投稿されている。ADHDは能力より仕事の構造との相性で消耗度が変わる、という前提の自己点検であり、診断や転職判断の根拠にはしない。職種・配慮・制度は個別事情と専門職の助言による。^[raw/articles/tweet-2102679171751362671-job-structure-fit-checklist.md]
 
 - **「自分はやらない人間」と信頼して後回しセンサーを育てる**: ADHDの後回し系トラブルを減らす最大の要因は、「自分がやらない人間であること」を深く信頼すること。後回しにしようとした瞬間に「だからお前は今やれ」と内なるアラートを出せるようになると、ADHD TAX（後回しによる損）が激減する。仕組み化の根底にあるのも同じ発想——自分の意志力を信用しないからこそ、環境やルールで強制する。意志力への期待を手放すことが、実は最も強力な自己管理戦略になる。^[raw/articles/tweet-2081888402581176448-self-distrust-procrastination-alert.md]
 - **調子のよい時に外部の拘束を予約する**: 将来の意欲が下がることを前提に、元気な時に締切、人との約束、または小さな自動化を先に設定する。失敗の罰を強めるのでなく、次の行動が始まる時刻・相手・処理を外へ置く「事前コミットメント」として扱う。相手を巻き込む場合は負担と同意を確認し、自動化は誤作動・個人情報の扱いを点検する。単一の個人投稿による低信頼度の実践例。^[raw/articles/tweet-2093896186273071116-precommitment-external-structure.md]
@@ -121,6 +135,8 @@ confidence: low
 - **ミス後は謝罪だけで閉じず、次の仕組みを短く伝える**: ミスを報告・謝罪する必要がある場面では、「気をつけます」で終える代わりに、次回の提出前チェック日時、締切の数日前に入れるアラーム、または同意を得た短い相互確認など、すでに入れた再発防止の手順を一つ具体的に示す。反省の深さを競うのでなく、次に変わる作業条件を共有するための会話上のチェックポイントとして使う。相互確認は相手の時間、機密、職場ルールを尊重し、許可なく負担を転嫁しない。個人投稿に基づく低信頼度の実践例。^[raw/articles/tweet-2094715646240030882-repair-system-commitment.md]
 
 - **失敗の型ごとに「外部の受け皿」を一対一で置く**: 仕事での「忘れる」「抜ける」「後回し」「見落とす」「頭が散らかる」を一括で注意力の問題にせず、順にリマインダー、チェックリスト、公式締切より2日前の自分用締切、AIを含む第二確認、AIによる論点整理へ割り当てる。AIは確認・整理の補助であって責任の移転先ではないため、渡す業務・第三者情報を最小化し、出力・送信は本人が確認する。低信頼度の個人実践例。^[raw/articles/tweet-2095878027540566484-reminders-checklist-ai-review.md]
+- **「成果物なし」と「品質ゲート未通過」を別に記録する**: 予定枠で出力がなかった時、未作成だけを原因にせず、成果物の有無と検品・承認済みの印の有無を分けて点検する。枠の時刻、成果物の有無、合格印の有無を短期ログに並べ、最初に欠けた段階を次の改善対象にする。たとえば提出・公開・自動処理は品質ゲートを通った印がある時だけ進める。安全・品質・承認の正式手順は省略せず、印だけの確認で済ませない。単一のX投稿に基づく低信頼度の実務実践。^[raw/articles/tweet-2102224363311247676-output-quality-gate-monitoring.md]
+- **工程ごとの防御層でミスを止める**: 「忘れるな」と注意を重ねる代わりに、失敗しやすい工程を一つずつ特定し、時刻固定・開始トリガー・アラーム・一枚のチェックリスト・完了記録・必要時の別担当確認を重ねる。失敗が起きた時は人格や注意力の不足として終えず、「どの工程で抜け、そこでどう検知・復旧できるか」を次の防御層へ変換する。品質・安全・権限分担は職場の正式な手順を優先し、相互確認を他者へ一方的に押し付けない。単一のX投稿に基づく低信頼度の実務提案。^[raw/articles/tweet-2100945829511242141-work-failsafe-layers.md]
 - **AIを「誰が・いつ・何を・どうしたか」の抜け検査役に限定する**: 報告書はまず仮の文章を書き、AIに要約させて結論から組み直す。次に「誰が、いつ、何を、どうしたか分からない箇所はあるか」と質問して、省略しがちな情報を第二確認する。AIを著者や最終判断者にせず、下書きの要約と欠落検査に限る。業務・個人情報は入力せず、組織の情報管理規則に従い、最終出力は本人が確認する。^[raw/articles/tweet-2098019180717150590-ai-report-omission-check.md]
 - **仕事を「意志で回す」から「戻れる仕組み」へ寄せる**: 気が散る端末は視界外へ置く、開始対象は最初の一つへ絞る、使う道具と手順を固定する、手順は都度マニュアルを参照する、複雑な仕事は物を取りに行く段階まで分解する、といった小さな制約を重ねる。開始は5分・2分など小さな完了単位にし、予定が崩れること自体より戻り先があることを重視する。本人の職場実践をまとめた低信頼度の例であり、業務品質、安全、就業規則を優先する。^[raw/articles/tweet-2098305680851738724-work-system-q-and-a.md]
 
@@ -132,6 +148,15 @@ confidence: low
 
 - **毎朝10分で対象を決め、余白と終業時刻で「60点」を守る**: 資料の微調整などに際限なく時間を使って他の仕事・休息を削りやすい場合、朝に10分だけ取り、その日に基本的に扱うタスクを決める。予定は3時間程度のイレギュラー用バッファを残し、一定時刻以降は仕事をしない境界を先に置く。投稿者個人の実践であり、数値や勤務条件を一般化せず、職場の締切・安全・労務ルールに合わせて調整する。^[raw/articles/tweet-2097176422943269130-sixty-point-work-boundaries.md]
 
+- **完了時刻を先に宣言して、完成度の上限を外へ置く**: 資料やメールを終わらせられず細部へ入り続ける時は、「○時に出す／ここで共有する」と完了時刻を先に決め、必要なら関係者へ短く伝える。完成度を自分の感覚だけで判定せず、時刻を終了条件にする低信頼度の個人実践である。公式締切、品質基準、相手への連絡は守り、時刻だけを理由に安全・法令・重要な確認を省略しない。[[time-management]]と[[task-initiation]]に接続する。^[raw/articles/tweet-2101993844363428297-completion-time-declaration.md]
+- **一日の仕事を「2ターンまで」に限定する**: 終わりのない一日として仕事を抱える代わりに、朝・昼・夜など事前に区切った複数ターンのうち、実働目標を2ターンに限定する。残りを回復・生活・予備に残し、各ターンの終わりを明示することで、仕事が一日全体を占有する感覚を下げる当事者の低信頼度な実践。勤務時間、休憩、顧客対応、職場ルールを優先し、個人で勝手に業務時間を短縮する用途にはしない。[[time-management]]・[[waiting-mode]]と接続する。^[raw/articles/tweet-2101946280499195997-three-turn-day.md]
+
+- **自動化は「止まったとき」まで設計する**: 予約投稿や定期処理の自動化では「ストックが減ったら通知」だけでなく「完全に止まったら通知」まで作る。自動化すると人が確認する機会が減るため、問題は「止まること」より「止まったことに誰も気づけないこと」。動かすところまででなく、異常に気づけるところまで設計し、静かな停止で仕事が止まり続ける事故を避ける。^[raw/articles/tweet-2103352546983334272-automation-stop-detection.md]
+- **「止める仕組み」には「止まった理由が見える仕組み」も併せる**: 二重処理防止・承認待ち・二重チェックなどミスを防ぐために作った仕組みは、逆に仕事を静かに止めやすい。「止める仕組み」を作ったら「何が・なぜ・いつから止まっているか」が見える仕組みも用意し、仕事を止めないこと以上に「止まったらすぐ分かること」を優先する。^[raw/articles/tweet-2103363871356735724-stopping-mechanism-visibility.md]
+
+- **職務の得意:不得意の比重を2:8から6:4へ変える職選び**: 転職・職種選びでは「何となく興味がある」で飛び込まず、得意が活きて不得意が目立たない業務比重（目安6:4）を選び、不得意は対策で補う。得意・不得意の分析から始め、不得意を直すより得意で武器を作る。[[executive-function]]の外部化にも接続する当事者・支援系の実践。^[raw/articles/tweet-2104342517147914618-job-strength-weakness-ratio.md]
+- **AIエージェントには「小さくClose」を優先し、未完了ループを防ぐ**: 思いついたことをAIへ即実行させて並行作業を増やすより、タスクを小さい単位で閉じることを優先させる。逆にAIへ任せ続けるとCloseしないタスクが増えて心が持たなくなるため、委任の単位と完了条件を先に決める。個人投稿に基づく低信頼度の実践。^[raw/articles/tweet-2104454734690275467-ai-close-tasks-small-units.md]^[raw/articles/tweet-2104453799155020171-ai-delegation-open-loops.md]
+
 ## 研究から見える職場・高等教育の支え
 
 GibbsとBialocerkowski（2026）は、オーストラリアのADHD女性11人（教員志望学生、大学院生、教師）へのインタビューから、高等教育・職場での内的困難、感情、個人的動機、個別化した道具や適応策、対人関係、制度的要因を整理している。小規模質的研究なので一般化は慎重にしつつ、仕事のルーティンは本人の工夫だけでなく、同僚・教員・職場文化・[[public-support]]とつながっている点を示す。^[raw/papers/gibbs-2026-female-adhd-academia-work.md]
@@ -141,6 +166,10 @@ GibbsとBialocerkowski（2026）は、オーストラリアのADHD女性11人（
 ## 動的な職場での注意足場
 
 Araら（2026）の建設現場インタビューは、ADHDの生産性課題が机上作業だけでなく、安全、作業順序、現場調整、状況把握が同時に走る環境で強く現れることを示す。提案されるAI/VR支援は、本人を監視する仕組みではなく、次の作業、危険な割り込み、社会的な伴走感を場面に合わせて補う足場として読むのがよい。^[raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md]
+
+## AIコプレゼンスと開発者の仕事足場
+
+Pimenovaら（2026）は、ADHDを持つ開発者が、人間のボディダブリング、ペアプログラミング、AIエージェントを状況で使い分けていると報告した。人間の相手は専門性、オンボーディング、安心できる確認に向くが、観察される不安や機密・評判管理の負担も大きい。AIは「評価しない同席者」として、作業の骨格作り、ドキュメント把握、次の説明要求、待ち時間中の流れ維持に使われるが、生成物の責任と監査は人間側に残る。仕事ルーティンとしては、AIを常時監視者ではなく、開始時のセットアップ、作業中の非侵襲的チェックイン、AI待ち時間やタスク境界に合わせた休憩提案に限定する設計が示唆される。^[raw/papers/pimenova-2026-ai-copresence-developers-adhd.md]
 
 ## 会議と非同期の文脈適合
 

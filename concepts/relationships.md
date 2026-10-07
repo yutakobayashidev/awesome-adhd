@@ -1,11 +1,13 @@
 ---
 title: ADHDと人間関係
 created: 2026-07-24
-updated: 2026-08-17
+updated: 2026-09-29
 type: concept
 tags: [adhd, relationships, executive-function, emotion-regulation, impulsivity, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md, raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md, raw/articles/tweet-2083028275752783965-relationship-reconnect-one-message.md, raw/articles/tweet-2086135350314061910-five-person-relationship-reminders.md, raw/articles/tweet-2086407172221759835-no-script-implementation-intention.md, raw/articles/tweet-2089457453100380595-name-repeat-feature-memo.md]
+sources: [raw/articles/tweet-2057461664791077048-relationship-shelf-life-countermeasures.md, raw/articles/tweet-2082068756692685166-calendar-visualization-keep-present.md, raw/articles/tweet-2083028275752783965-relationship-reconnect-one-message.md, raw/articles/tweet-2086135350314061910-five-person-relationship-reminders.md, raw/articles/tweet-2086407172221759835-no-script-implementation-intention.md, raw/articles/tweet-2089457453100380595-name-repeat-feature-memo.md, raw/articles/tweet-2101389739467358289-parroting-processing-buffer.md]
 confidence: low
+source_additions_2026-09-25-greet-face: [raw/articles/tweet-1740365098630406505-greet-everyone-face-memory.md]
+source_additions_2026-09-29-single-task: [raw/articles/tweet-2104778742958793026-single-task-delegation-partner.md]
 ---
 
 # ADHDと人間関係
@@ -36,7 +38,7 @@ ADHDのパートナーとの約束や予定の共有では、口頭での会話�
 
 ## 背景メカニズム
 
-- **新規性→ドパミン→好印象**: 初対面では新規性刺激でドパミンが放出され、普段以上の社交性・エネルギーが出る。
+- **新規性→ドパミン→好印象**: 初対面では新規性刺激でドーパミンが放出され、普段以上の社交性・エネルギーが出る。
 - **日常化→ドパミン低下→関心減退**: 関係が日常に変わると刺激が減り、脳が次の刺激を求め始める。相手には「冷たくなった」と伝わる。
 - **ワーキングメモリ弱さ→約束忘れ・返信遅れ**: 記憶に留めておくのが難しく、悪意なく連絡が滞る。
 - **RSD→些細な指摘を全否定と受け取る**: 相手の軽微な注意を人格否定と捉え、過剰反応してしまう。
@@ -56,6 +58,18 @@ RSD（拒絶敏感性）の具体的対策は[[emotion-regulation#RSD（拒絶�
 ## 名前を覚える負荷を仕組みにする
 
 人名を覚えることを「相手への関心」や記憶力だけに任せず、聞いた直後に復唱し、会話中にも名前を呼び、別れた直後にスマホへ「名前＋非センシティブな特徴」を残す。次回会う前に見返せば、対人場面の[[working-memory]]を[[external-memory]]へ逃がせる。特徴メモは外見や家庭事情などのセンシティブ情報を増やしすぎず、本人特定や失礼な分類にならない最小限にする。^[raw/articles/tweet-2089457453100380595-name-repeat-feature-memo.md]
+
+## 顔を覚える負荷を挨拶で迂回する
+
+人の顔を覚えるのが苦手な場合、すれ違う人全員ににこやかに挨拶しておくことで、相手を認識できなくても円滑な関係を保つ。顔認識の苦手を「全員に挨拶」という一律動作で迂回し、記憶への依存を下げる対処。[[working-memory]]と[[external-memory]]をまたぐ対人場面の実践。^[raw/articles/tweet-1740365098630406505-greet-everyone-face-memory.md]
+
+## 呼びかけ直後の「反復バッファ」
+
+突然の依頼で内容理解が数秒遅れる時は、反射的な「は？」の代わりに、聞こえた短い依頼をそのまま反復する。反復を確認と処理待ちの定型句にしておくと、返答を急ぐ圧力を下げつつ、内容の取り違えにも気づきやすい。相手との会話では、聞き取れなかった場合や重要な依頼では、理解できたかを改めて確認する。個人投稿に基づく低信頼度の実践候補であり、ADHDの医学的説明や対人支援の一般的な推奨ではない。^[raw/articles/tweet-2101389739467358289-parroting-processing-buffer.md]
+
+## マルチタスクを外してシングルタスクへ絞る（役割の設計）
+
+ADHD傾向のあるパートナーには、並行処理や切り替えの多い「家事」というマルチタスク全体を相手側（配偶者）が引き受け、本人には「自室の片付け」というシングルタスクだけに集中させる、という役割設計の例がある。LDK・台所・水回りの清掃とロボット掃除機を先に済ませておくことで、本人が片付けをしない言い訳を作れない環境も併せて作る。マルチタスクを外して着手・完遂の負荷を下げる発想であり、[[task-initiation]]や[[environment-design]]とも接続する。単一投稿の低信頼度な当事者（配偶者）実践であり、役割分担の一般解や対人支援の推奨ではない。^[raw/articles/tweet-2104778742958793026-single-task-delegation-partner.md]
 
 ## 注意点
 

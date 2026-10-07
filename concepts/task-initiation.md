@@ -1,9 +1,9 @@
 ---
 title: 着手支援
 created: 2026-07-22
-updated: 2026-09-18
+updated: 2026-09-29
 type: concept
-tags: [adhd, executive-function, attention, time-management, work, tool, lived-experience, japanese-context]
+tags: [adhd, executive-function, attention, time-management, school, work, tool, lived-experience, japanese-context]
 sources: [raw/articles/tweet-2090052007751217600-three-start-patterns.md, raw/articles/focusmate-homepage-2026.md, raw/articles/waiting-mode-the-conversation-2026.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md, raw/articles/tweet-2081363947450712183-boring-to-interesting-conversion-tactic.md, raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md, raw/articles/tweet-1995472174837068093-sleep-in-pe-uniform-morning-routine.md, raw/articles/tweet-2081302504999207021-self-commentary-task-initiation.md, raw/articles/tweet-2081752543818821682-eight-adhd-tricks.md, raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md, raw/articles/tweet-2082977786084683856-morning-cafe-environment-switch.md, raw/articles/tweet-2082793578904846370-no-todo-list-immediate-action.md, raw/articles/tweet-2083030892310942096-timelapse-self-recording.md, raw/articles/tweet-2082658478016053276-phone-call-body-doubling.md, raw/articles/tweet-2089768299999703211-work-call-body-doubling.md, raw/articles/tweet-2089896496695214305-zoom-now-body-doubling-admin.md, raw/articles/tweet-2002943114731003956-hyperfocus-entry-eight-tactics.md, raw/articles/tweet-2085924875181363581-no-folder-first-drop-one-item.md, raw/articles/tweet-2086193708740083838-morning-action-before-thinking.md, raw/articles/tweet-2085933607072485405-single-task-notification-off.md, raw/articles/tweet-2085680350315827567-himmel-role-model-imitation.md, raw/articles/tweet-2086044768136831454-reward-bundling-task-initiation.md, raw/articles/tweet-2085867026594336842-deadline-paper-first-step.md, raw/articles/tweet-2086059865575657531-minimum-verb-task-resolution.md, raw/articles/tweet-1141299353497161728-one-sentence-task-splitting.md, raw/articles/tweet-2086316627231170570-first-action-on-paper.md, raw/articles/tweet-2086302039244718116-ai-prioritization-removes-choice.md, raw/articles/tweet-2089146950558113832-ai-brain-dump-priority-prompt.md, raw/articles/tweet-2086256158608928882-housework-gamification.md, raw/articles/tweet-1980832956349300817-myndmap-goal-check-in.md, raw/articles/tweet-2086659219496083720-fifteen-minute-single-goal-break.md, raw/articles/tweet-2086991993071374820-morning-three-hour-focus-routine.md, raw/articles/tweet-2086998621673968112-claude-code-remind-watch-organize.md, raw/articles/tweet-2087328213190217749-thoughts-inbox-evening-triage.md, raw/articles/tweet-2084915057650208912-adhd-pomodoro-no-extra-restarts-app.md, raw/articles/tweet-2087416492082258023-ai-close-meeting-attention-residue.md, raw/articles/tweet-2087487424754757725-ai-empty-function-first-step.md, raw/articles/tweet-2088880046996152439-codex-claude-code-state-support.md, raw/articles/tweet-2087645349330698667-delegate-automate-execution.md, raw/articles/tweet-2087783566897991746-stale-idea-ai-handover.md, raw/articles/tweet-2087887849819459834-morning-ninety-minute-defense-time.md, raw/articles/tweet-2088068099551695288-artificial-early-deadline-pressure.md, raw/articles/tweet-2089276145225420933-artificial-deadline-date.md, raw/articles/tweet-2089245859645133240-fixed-start-cue.md, raw/articles/tweet-1011452472458502145-vocalize-open-avoidant-task.md, raw/articles/tweet-1263751107001499653-discord-zoom-task-dump.md, raw/articles/tweet-2088309691353079858-immediate-reward-pairing.md, raw/articles/tweet-2088454379410251809-smartphone-at-entrance-start-trigger.md, raw/articles/tweet-2088489145278620041-interest-injection-start.md, raw/articles/tweet-2088557429147726317-remove-cause-before-study.md, raw/articles/tweet-2026984818442178853-five-minutes-sixty-percent-rest.md, raw/articles/tweet-2088971788453580825-procrastinate-bad-habits-friction.md, raw/articles/tweet-2089321593935925410-environment-switch-smartphone-cafe-silence.md, raw/articles/tweet-2088786301571289251-reward-task-first.md, raw/articles/tweet-2089601897808474477-human-presence-workplace-cafe.md, raw/articles/tweet-2089934117664436674-mobile-order-forced-outing-deadline.md, raw/articles/tweet-2091012485365305802-holiday-first-action-night-before.md, raw/papers/kang-2009-curiosity-reward-memory.md, raw/papers/masicampo-2011-plan-making-unfulfilled-goals.md]
 source_additions_2026-08-26: [raw/articles/tweet-2092573234235691486-current-action-five-minute-todo.md]
 source_additions_2026-08-28: [raw/articles/tweet-2093172638063493366-five-minute-launch-only.md]
@@ -25,6 +25,23 @@ source_additions_2026-09-15: [raw/articles/tweet-2099803252510646601-compassiona
 source_additions_2026-09-16-tasque: [raw/articles/tweet-2099844764455915801-tasque-single-task-course.md]
 source_additions_2026-09-16-timer-start: [raw/articles/tweet-2100027391599124957-timer-start-is-complete.md]
 source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581531-externalize-daily-routine-thread.md]
+source_additions_2026-09-19-research-cutoff: [raw/articles/tweet-2101257651875385502-five-minute-research-cutoff.md]
+source_additions_2026-09-20-background-stimulus: [raw/articles/tweet-1798367137691767210-background-video-morning-prep.md]
+source_additions_2026-09-21-start-resume-plus-one: [raw/articles/tweet-2101574868051562964-start-switch-resumption-plus-one.md]
+source_additions_2026-09-21_research_watch: [raw/papers/pimenova-2026-ai-copresence-developers-adhd.md]
+source_additions_2026-09-21-completion-time: [raw/articles/tweet-2101993844363428297-completion-time-declaration.md]
+source_additions_2026-09-22-study-environment: [raw/articles/tweet-2102231421649821933-study-physical-lock-sprints-location.md]
+source_additions_2026-09-22-ten-tips: [raw/articles/tweet-2102323500656857376-ten-task-initiation-tips.md]
+source_additions_2026-09-23-commute-idling: [raw/articles/tweet-2102646718852378628-commute-idling-task-start.md]
+source_additions_2026-09-24-pen-in-hand: [raw/articles/tweet-2102965445599142338-pen-in-hand-start.md]
+source_additions_2026-09-24-dopamine-menu: [raw/articles/tweet-2103116700963225858-dopamine-menu.md]
+source_additions_2026-09-25-work-bgm: [raw/articles/tweet-1975766626399367189-uninteresting-video-work-bgm.md]
+source_additions_2026-09-25-vocalize-ahh: [raw/articles/tweet-1276770061278040065-vocalize-ahhh-start.md]
+source_additions_2026-09-28-external-pressure-deadline: [raw/articles/tweet-2104103795693330463-short-deadline-before-free-time.md, raw/articles/tweet-2104103772020785195-external-pressure-ignition-fuel.md]
+source_additions_2026-09-28-start-from-bugs-you: [raw/articles/tweet-2104376626582876236-start-from-what-bugs-you.md]
+source_additions_2026-09-28-start-count-defer-when: [raw/articles/tweet-2104416154156757381-reduce-start-count-minimize-breaks.md, raw/articles/tweet-2104403630514401455-defer-decide-when-first.md]
+source_additions_2026-09-28-bgm-dialogue-lecture: [raw/articles/tweet-1743926787309289837-dialogue-vs-lecture-background-sound.md]
+source_additions_2026-09-29-engine-stages: [raw/articles/tweet-2104746374151676297-engine-stages-light-task-ladder.md]
 ---
 
 # 着手支援
@@ -39,7 +56,11 @@ source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581
 - **残り件数を消し、現在の動作秒数だけを見る**: サブタスク・残タスクを視界から外し、「今やること」と手を動かした秒数だけを表示するToDoアプリ案がある。5分を既定の集中単位にして、未完了全体の圧ではなく次の短い実行へ注意を戻す設計として扱う。開発中アプリの投稿に基づく低信頼度の実践候補であり、効果は未検証。^[raw/articles/tweet-2092573234235691486-current-action-five-minute-todo.md]
 
 - **着手スイッチを3型に分けて選ぶ**: 動き出しが弱い時は、①ミニタスクで作業興奮を起こす、②人目やタイムリミットで緊張感を借りる、③ガム・コーヒーなど固定行動を開始儀式にする、という3系統から自分に合う型を作る。^[raw/articles/tweet-2090052007751217600-three-start-patterns.md]
+- **内容に没入しない背景刺激を開始儀式にする**: 朝の支度の開始抵抗が強い場合、毎回ほぼ同じ長さで、強い興味を引かないが適度に音のある動画・音声を流し、支度の開始・継続と結び付ける個人実践がある。内容が注意を奪う、音が負担になる、安全確認が必要な場面では使わない。^[raw/articles/tweet-1798367137691767210-background-video-morning-prep.md]
+- **あえて興味のない内容を流して「適度に脳を奪う」**: 作業への着手抵抗が強い場合、興味のない人文系の対談動画などを作業用BGMに流し、適度に脳のリソースを奪うことで開始への心理的抵抗を下げる個人実践がある。没入を避けるためにあえて興味のないジャンルを選ぶ点と、聞き込むうちに内容が分かるようになって面白くなり、次の題材が必要になる失敗モードが新しいディテール。単一投稿による低信頼度の実践例。^[raw/articles/tweet-1975766626399367189-uninteresting-video-work-bgm.md]
+- **背景音を「対談／講義」で目的別に使い分ける**: 静かな環境では妄想が始まって集中が続かない場合、喫茶店で作業するか、家では「広告が入らない・再生時間が長い・程よく意味が分からない」という基準で選んだ公的機関の人文系の知識人の対談を流して環境を作る、という実践がある。対談は会話のキャッチボールが第三者同士で完結するため意識が持っていかれないが、講義形式（放送大学など）は話者が自分に語りかけていると脳が認識するため引き付けられ、逆にストレスになる、という使い分け。^[raw/articles/tweet-1743926787309289837-dialogue-vs-lecture-background-sound.md]
 - **身体だけ動かすモード**: やる気や納得感を待たず、椅子に座る、ファイルを開く、手を動かすなど、最初の身体動作だけを目標にする。
+- **道具を先に握り、最初の身体動作を済ませる**: 絵仕事の着手ハックとして、スマホを持つ手を作業道具（ペン）を持つ手へ置き換える。「やろうとする前に行動するとやれる」という原則を使い、仕事の最初の行動（ペンを持つ）を開始前に済ませておく。脱線先のスマホを手から外す点で[[attention-control]]と[[environment-design]]にも接続する、単一投稿に基づく低信頼度の個人実践。^[raw/articles/tweet-2102965445599142338-pen-in-hand-start.md]
 - **「3分でやめてよい」を先に許可して、道具だけ触る**: ゲームを始めたいが起動できない場合、遊ぶこと自体ではなくコントローラーを手に取ることだけを開始条件にする。開始前に「3分で終了してよい」という退出条件を置き、長く続ける義務への抵抗を下げる。当事者の単一投稿に基づく低信頼度の実践例。^[raw/articles/tweet-2091723111896883238-three-minute-permission-start.md]
 - **「5分だけ起動して閉じる」を許可する**: 好きな活動でも起動そのものが重い時は、継続・完了・成果を求めず、アプリや道具を5分だけ起動して閉じてよい、と開始条件を下げる。フルコミットの要求を外し、まず物理的なウォームアップだけを通す、単一投稿に基づく低信頼度の実践候補。^[raw/articles/tweet-2093172638063493366-five-minute-launch-only.md]
 - **共有・見張り**: タスクをアプリや同僚へ共有し、一人で抱え込まない。[[external-memory]]と軽いアカウンタビリティを合わせる。
@@ -77,6 +98,7 @@ source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581
 - **ごほうび行動と面倒タスクを束ねる**: 面倒なことを単体で始めようとせず、好きなカフェ・番組・おやつなどの報酬行動と必ずセットで発動させる。報酬を「終わったらいつか」ではなく、事務作業をカフェに持っていく、番組を見る前に連絡1件を済ませる、といった着手ボタンとして使う。^[raw/articles/tweet-2086044768136831454-reward-bundling-task-initiation.md]
 - **締切タスクを紙・最初の一歩・前倒しカレンダーへ分解する**: 締切直前の高揚に頼らず、やることを紙に書き、「レポートを書く」ではなく「タイトルだけ決める」まで縮め、自分用締切を2日前にカレンダー登録する。[[time-management]]と[[external-memory]]を同時に使う先延ばし対策。^[raw/articles/tweet-2085867026594336842-deadline-paper-first-step.md]
 - **タスクを「最小の動詞」まで強制的に下げる**: 「掃除」「返信」「予約」のような大きな名詞タスクを見て固まる場合、次に身体ができる1動作へ変換する。例: 掃除→ゴミ袋を広げる、返信→宛名を書く、予約→電話帳を開く。所要時間より「次に何をすべきか」が迷子になる問題へ効く着手補助。^[raw/articles/tweet-2086059865575657531-minimum-verb-task-resolution.md]
+- **下調べを5分で打ち切り、実作業へ移る**: 比較・検索を始めると調べ続けて作業の熱量が消える場合、最初の5分だけを「下調べ時間」として可視タイマーで区切る。調査の十分さを判定し続けず、タイマー終了を実作業へ移る合図にする個人実践。安全・品質・法令順守に必要な確認を省略する用途には使わない。^[raw/articles/tweet-2101257651875385502-five-minute-research-cutoff.md]
 - **「1文章だけ」で大課題を割る**: レポートや資料作成のような大きな課題は、「完成させる」ではなく「1文章だけ書く」まで縮める。分割後の単位は成果物全体ではなく、作業興奮が起きる入口として設計する。^[raw/articles/tweet-1141299353497161728-one-sentence-task-splitting.md]
 - **一番重いタスクは、最初の1動作だけ紙に書く**: 15分で終わる書類やメールでも、頭の中では『始める』だけが巨大化することがある。中身にはまだ着手せず、ファイルを開く、封筒を出す、1行目の欄を見る、のような最初の身体動作だけを紙に書き、脳が拒否する余地を小さくする。^[raw/articles/tweet-2086316627231170570-first-action-on-paper.md]
 - **書類は「開封だけ」の固定10分枠にする**: 封筒を開く、読む、対応するまでを一度に求めず、週1回など短い固定枠では「開封だけ」を目的にする。未処理の書類をいつ向き合うかという判断を先に日程へ移し、フルコミットへの抵抗を下げる当事者由来の低信頼度な実践候補。期限・支払いがある書類はこの枠を待たず、到着時に期限を外部記憶へ登録する。^[raw/articles/tweet-2093896497696027037-weekly-envelope-opening-window.md]
@@ -109,9 +131,13 @@ source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581
 - **朝の最初90分は本命タスク専用にする**: メール返信やSlack既読は短い完了報酬が強く、重いタスクの着手を横取りしやすい。始業直後90分だけ通知・メール・チャットを開かず、本命タスクを先に進める防衛枠を置くと、小タスクの達成感へ逃げる前に作業興奮を起こしやすい。[[work-routines]]側の集中枠設計としても扱う。^[raw/articles/tweet-2087887849819459834-morning-ninety-minute-defense-time.md]
 
 - **締切前の集中を「前倒し締切＋宣言＋見えるタイマー」で再現する**: 直前だけ動けるパターンを責めるのではなく、公式締切より早い地点に小さな本番を作る。人に出す時刻を宣言して逃げ道を減らし、残り時間をタイマーで可視化すると、着手の圧をギリギリ前に移せる。^[raw/articles/tweet-2088068099551695288-artificial-early-deadline-pressure.md]
+- **完了時刻を先に言葉にする**: 完璧に仕上げようとして着手・提出が遅れる時は、「○時に終える／共有する」と終了時刻を先に宣言し、完了条件を時間境界へ移す。単一投稿由来の低信頼度な実践であり、重要な確認・安全手順を削る理由にはしない。^[raw/articles/tweet-2101993844363428297-completion-time-declaration.md]
 - **締切のないタスクに仮の日付を貼る**: 期限がないことで始まらない作業には、完成度の高い計画より先に『仮の締切日』を1つ書き込む。公式な約束でなくても、タスクに日付という外部の起動合図を付け、無期限ゾーンへ沈むのを防ぐ。^[raw/articles/tweet-2089276145225420933-artificial-deadline-date.md]
 - **決まった動きを開始・復帰の合図にする**: 気分で作業モードへ切り替えようとせず、毎回同じ動作を『机に向かう』『休憩から戻る』合図にする。たとえば席に着く前の飲み物準備、タイマー開始、決まった姿勢など、脳内の気分待ちを身体の固定手順へ移す。^[raw/articles/tweet-2089245859645133240-fixed-start-cue.md]
+- **開始儀式・一行アンカー・「プラスワン」を組み合わせる**: 重い仕事へ直接入らず、飲み物を用意するなど簡単で毎回同じ行動を開始合図にする。途中で別の予定タスクへ切り替える時は、前の作業の再開地点を一行残してから移り、発生する家事・雑務は「新たに1件＋もう1件」だけ処理して積み残しを少しずつ減らす。当事者の単一投稿に基づく低信頼度の個人実践であり、優先順位・安全・締切が必要な作業を放置する根拠にはしない。^[raw/articles/tweet-2101574868051562964-start-switch-resumption-plus-one.md]
 - **タイマーを押した時点で「開始は完了」とみなす**: タスクを終えることではなく、タイマー開始ボタンを押すことだけを今回の達成条件にする。作業時間や成果を先に要求せず、開始儀式そのものを小さな完了として扱い、着手直前の抵抗を下げる単一投稿由来の低信頼度な実践候補。^[raw/articles/tweet-2100027391599124957-timer-start-is-complete.md]
+
+- **移動時間を「アイドリング」にして、着席前に最初の一手を決める**: 机に着いてから「何をするか」を考えず、出勤・移動・散歩など既存の短い移行時間に、その日の最初の一手を決める役割を固定する。目的は通勤手段を増やすことではなく、作業場所へ着いた時点で選択を終えている状態を作ること。移動を使えない日は、開始前の数分へ同じ役割を置く。当事者の単一投稿に基づく低信頼度な実践例であり、ADHDや集中への効果を保証するものではない。^[raw/articles/tweet-2102646718852378628-commute-idling-task-start.md]
 
 - **声を出しながら回避タスクを開く**: メールを開くのが怖い、確認が嫌で先延ばしになる、といった入口では、『あー』など意味の薄い声を出しながら開く実践がある。考える・怖がる・開くを同時に処理しようとせず、発声と身体動作で入口だけ通過するバグ技として扱う。^[raw/articles/tweet-1011452472458502145-vocalize-open-avoidant-task.md]
 
@@ -124,6 +150,8 @@ source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581
 - **興味要素を無理やり混ぜて、タスクを『存在する候補』へ引き上げる**: 『めんどくさいけどやるか』の“けど”が起動しない時、タイマーで競争にする、音楽で作業自体に刺激を足す、誰かに実況しながらやる、など別の報酬・興味を借りて着手する。既存のゲーム化・セルフ実況・[[body-doubling]]を、『興味のないタスクを脳が拾える形へ変換する』一群の戦術として整理できる。^[raw/articles/tweet-2088489145278620041-interest-injection-start.md]
 - **勉強しない原因を先に潰す**: 「勉強するぞ」と意志を強めるより、勉強を妨げる条件を消す。ベッドでだらだらするならベッドを遠くする、風呂後に勉強しないなら風呂前に勉強を置く、というように行動前の環境・順番を変える。習慣化には投稿者の場合約1か月かかったとされ、[[environment-design]]としても扱える。^[raw/articles/tweet-2088557429147726317-remove-cause-before-study.md]
 - **開始までの「手数」を数えて前日配置で削る**: 宿題なら「ランドセルを開ける→連絡帳・プリント・筆箱を探す→机を空ける→座る」のように、開始前の工程を列挙する。教材と筆記具をいつもの席に開いて置くなど、最初の一動作が「座る」だけになるよう工程を前倒しする。開始の催促を親の声に頼らず、タイマーを固定の合図にする学校・家庭向けの低信頼度な実践例。^[raw/articles/tweet-2095712203920007318-reduce-startup-steps-timer-cue.md]
+- **学習を図解・物理ロック・短い枠・場所替えへ分ける**: 暗記一辺倒でなく、学ぶ内容を図解して関係を外へ出す。スマホが注意を奪う場合は、本人の同意と安全・連絡手段を確保した上で、学習中だけ物理的に手の届かない場所へ置くなど端末の入口を制限する。30分程度の短い学習枠を一日に複数置き、場所も一定期間ごとに変えて、同じ環境で注意が切れる状態をリセットするという個人投稿の組合せ例。保護者等による端末管理は年齢・本人の同意・必要な連絡・プライバシーを尊重し、投稿の成績談を一般化しない。^[raw/articles/tweet-2102231421649821933-study-physical-lock-sprints-location.md]
+- **開始前の選択をさらに削り、終了・退出も先に決める**: 「PCを開く」「名前を書く」だけを最初の一手にし、前日の文・見出しの途中で止めて翌朝の白紙を避ける。既存習慣の直後に連結し、立ったまま1文だけ打つなど、考える前に身体を動かす。さらに「11時になったらやめる」「5分で閉じてよい」「下書き以下でよい」と終了時刻・退出条件・初稿の品質下限を先に置くと、着手が長時間の拘束や完全さを要求しない形になる。単一投稿由来の低信頼度な実践であり、期限・品質・安全確認が必要な作業を省略する根拠にはしない。^[raw/articles/tweet-2102323500656857376-ten-task-initiation-tips.md]
 - **5分着手＋6割完成＋休む判断**: 先延ばし、完璧主義、脳内会議が重なって固まる時は、完成を目指さず5分だけ手をつける。生成AIを使ってもよく、まず未着手状態を崩す。細部にこだわりすぎる時は6割でよいと割り切り、一人会議が止まらない時は疲労サインとして休む判断も候補に入れる。[[energy-management]]と接続する低信頼度の実践メモ。^[raw/articles/tweet-2026984818442178853-five-minutes-sixty-percent-rest.md]
 
 - **先延ばしを望まない行動へ向ける**: スマホやSNSのような「やめたい習慣」には、触るまでの物理・認知ハードルを増やす。スマホを玄関に置く、Xを開く前に英単語テストを挟むなど、実行しても学習が進み、先延ばししてもSNSから離れられる二重勝ちの入口設計にする。^[raw/articles/tweet-2088971788453580825-procrastinate-bad-habits-friction.md]
@@ -132,6 +160,10 @@ source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581
 
 - **一日の最初に「ご褒美の作業」を置く**: 「1分だけ」すら重い時は、まず好きな作業・ご褒美作業を一日の最初に置き、動き出しそのものへ即時報酬を貼り付ける。終わった後の報酬ではなく、起動時に脳が拾える刺激として使う点で、既存の報酬バンドル実践と近い。^[raw/articles/tweet-2088786301571289251-reward-task-first.md]
 - **最初の1分を「好きで完了できる作業」にする**: 一日の開始で、1分以内に終えられて比較的好きなタスクを先に完了させる。重い本題の前に小さな完了を置き、始動そのものへの抵抗を下げる当事者の実践例。どの作業が効くか、効果の程度は個人差があり、医療的な効果を示すものではない。^[raw/articles/tweet-2094556336491307078-one-minute-reward-task-start.md]
+
+- **「エンジンの段階」を作り、軽くて楽しいタスクから徐々に負荷を上げる**: 作業を始めればやる気は出るが、最初のタスクが重いと着手すらできない前提で、一日の初めに「軽くて楽しいタスク」を必ず置き、そこから段階的に負荷を上げる暖機運転の梯子を設計する。やる気を意志ではなく仕組み・段階設計で出す。既存の「一日の最初にご褒美の作業を置く」と近いが、単発の報酬ではなく負荷を段階的に上げる点が異なる。単一投稿由来の低信頼度な実践例。^[raw/articles/tweet-2104746374151676297-engine-stages-light-task-ladder.md]
+
+- **一日をコース料理に見立てたドーパミン・メニュー**: 刺激・報酬の強さ別に「前菜（1分スクワットなど着手の壁を壊す軽い身体動作）→メイン（深い没入）→サイド（雑務にPodcastを重ねて退屈を無効化）→デザート（SNS15分の短いご褒美）→スペシャル（長期の楽しみ）」を並べる。着手・退屈・報酬を段階に分けて、気分ではなく料理の順番のように選べるようにする型。単一投稿に基づく低信頼度の実践候補。^[raw/articles/tweet-2103116700963225858-dopamine-menu.md]
 
 - **「人はいるが自分に興味がない」場所へ通う**: 自宅・書斎・作業部屋のように一人でだらけられる環境では着手できない場合、カフェ・図書館・公園など、人目はあるが強く監視されない場所へ物理的に移動する。監督ではなく適度な緊張感を外部スイッチにする方法で、[[body-doubling]]と[[environment-design]]の中間にある。^[raw/articles/tweet-2089601897808474477-human-presence-workplace-cafe.md]
 
@@ -143,6 +175,16 @@ source_additions_2026-09-18-routine-thread: [raw/articles/tweet-2100745448470581
 
 - **途中締切と責めない進捗確認を相談して置く**: 最終締切だけでは動き出しにくい大きな課題では、下書きごとの締切や同僚との定期チェックインを、本人の合意のもとに設定する。確認は督促・羞恥のためでなく、次の着手機会を外部に作るものとして扱う。タイマーや来客予定も同じく開始の手がかりになり得る一般向け実践案であり、合う頻度・方法には個人差がある。^[raw/articles/tweet-2099803252510646601-compassionate-progress-checkins.md]
 - **AIを開く前に「出口の名詞」を一つ決める**: 「考える」「整理する」のような曖昧な動詞のままAIを開かず、「報告書」「比較表」「動く仕組み」など、その回で残す成果物を名詞で一つ書く。終わり方と捨てる案の境界を先に置き、選択肢が増えてフリーズするのを防ぐ、個人投稿由来の低信頼度な開始手順。^[raw/articles/tweet-2099828632717795561-ai-output-noun.md]
+
+- **AIとの同席を「声をかける手間の少ない開始相手」にする**: 開発者インタビュー研究では、人にボディダブリングを頼みたいが「迷惑では」「見られている」と感じて開始できない参加者がいた。AIエージェントは社会的評価を弱めた状態で、最初の構造化、質問、要約、コード骨格などを返し、着手前の空白を崩す相手になりうる。ただし、人間の検証・安心感・専門判断を完全に置き換えるものではなく、AI利用自体が流れを壊す場合や機密を渡せない場合は使わない。^[raw/papers/pimenova-2026-ai-copresence-developers-adhd.md]
+
+- **「あーー」と発声して嫌なタスクへ着手する（バグ技）**: 先延ばしにしていた嫌な行動は、声に出して「あーー」と言いながら行うと着手しやすい、という当事者間で広く共有された工夫。マルチタスクの苦手さを逆手に取り、発声を着手の着火剤にする。歯医者の予約に適用して実効を確認したという高エンゲージメントの体験談（9万いいね超）であり、既存の「声を出しながら回避タスクを開く」と同じ系統。^[raw/articles/tweet-1276770061278040065-vocalize-ahhh-start.md]
+
+- **まとまった自由時間より短い締切を先に置く**: 「時間があるほど動けなくなる」前提で、長い自由時間は締切ゼロの空白と同義。8時間の自由より30分後に人と会う約束が1つある方が確実に動けるので、時間を空ける前に短い締切・約束を置く。[[time-management]]に接続する単一投稿（スレッド）由来の低信頼度の実践例。^[raw/articles/tweet-2104103795693330463-short-deadline-before-free-time.md]
+- **起動の燃料は「やる気」ではなく外から来る締切と強制力**: 予定が詰まった日の方が動け、予定ゼロの日ほど動けないのは、起動スイッチが外圧（締切・人の目）を頼りにしているため。自由時間が増えるほど動けなくなる前提で、外側に起動の燃料（締切・約束・人の目）を用意する。^[raw/articles/tweet-2104103772020785195-external-pressure-ignition-fuel.md]
+- **優先順位づけより「気になったものから着手」してシングルタスクで仕留める**: 優先順位を決めても結局気になったものから手をつけてしまうなら、優先順位づけ自体を省き、気になったものから順に1つずつシングルタスクで仕留める方が仕事が回る、という当事者実践。興味・関心の流れを逆手に取り、タスクを一つに絞って完遂する。^[raw/articles/tweet-2104376626582876236-start-from-what-bugs-you.md]
+- **開始コストが高いから開始回数を減らし、休憩を最小化する**: ADHDは開始コストが極めて高いため、開始回数を減らす必要があり、一度始めたら倒れるまで過集中で突き進み、こまめな休憩を挟まない方が総労力が下がり成果が上がる、という当事者主張。既存の「反ポモドーロ設計」と同方向で、再起動コストに合わせて休憩の有無を調整する。消耗・睡眠・他タスクとの兼ね合いは[[hyperfocus-control]]と[[time-management]]で見る。^[raw/articles/tweet-2104416154156757381-reduce-start-count-minimize-breaks.md]
+- **後回しにするなら「いつやるか」だけ先に決める**: 放置期間が長いほど「今さら」の重みで手をつけにくくなるため、先延ばしする時は内容の計画ではなく実行時刻だけを先に決める。着手そのものへの抵抗を下げる低信頼度の個人実践。^[raw/articles/tweet-2104403630514401455-defer-decide-when-first.md]
 
 ## 研究メモ
 

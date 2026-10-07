@@ -1,10 +1,11 @@
 ---
 title: 自己実験（人体実験アプローチ）
 created: 2026-07-23
-updated: 2026-08-18
+updated: 2026-09-24
 type: concept
 tags: [adhd, executive-function, lived-experience, tool, work, home]
-sources: [raw/articles/tweet-2080292256523936015-adhd-self-experimentation-method.md, raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md, raw/articles/tweet-2089044426756854257-conditions-self-manual.md]
+sources: [raw/articles/tweet-2080292256523936015-adhd-self-experimentation-method.md, raw/articles/tweet-2080984407700111391-subtraction-boredom-true-interests.md, raw/articles/tweet-2089044426756854257-conditions-self-manual.md, raw/articles/tweet-2102733271448854685-konjac-brain-load-calibration.md]
+source_additions_2026-09-24-unstable-rotation: [raw/articles/tweet-2102744799677964439-unstable-rotation.md]
 confidence: low
 ---
 
@@ -70,6 +71,12 @@ ADHDの人は適性の差が激しいため、「向いている分野」だけ�
 2. 「続かなかった」もデータ。「この方法は自分に合わなかった」と記録する
 3. 成功／失敗ではなく「合う／合わない」で判断する。価値判断を手放す
 4. しばらく経ってから再挑戦してもよい。タイミングや状況で結果が変わることがある
+
+## 負荷を「気軽にやれる範疇」に合わせて逐次調整する
+
+開始の数秒で躊躇するのは、タスクが「気軽にやれる範疇」を超えて重くなっているサイン。そこで開始ラインを、最初の数秒を余裕で突破できる水準まで下げ、しばらく転がして様子を見る。余裕が出たら量を増やし、きつくなったら「全力で減らす」。あわせて、ADHDは「コンニャク脳」なので堅固なルーティンを組み立てようとするより、積んでは崩し、崩れずに残った部分だけを拾う方が合う、という当事者実践がある。[[task-initiation]]の開始ライン調整と接続し、[[work-routines]]の固定手順を絶対視しない立場としても読める。^[raw/articles/tweet-2102733271448854685-konjac-brain-load-calibration.md]
+
+- **定型発達的な「毎日整える」を逆転させる**: 「毎日コツコツ」より「思い出した日に爆速」、「朝から動く」より「午後から始動」、「全部ちゃんとやる」より「1個だけ決めて徹底」、「ルーティンを守る」より「変化を許す習慣」を選ぶ。無理に毎日整えず、不安定なまま回すという当事者視点の原則。^[raw/articles/tweet-2102744799677964439-unstable-rotation.md]
 
 ## 関連ページ
 

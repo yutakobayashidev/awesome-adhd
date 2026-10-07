@@ -2,9 +2,9 @@
 title: ケアレスミス対策
 type: concept
 created: 2026-07-23
-updated: 2026-09-16
+updated: 2026-09-29
 tags: [adhd, working-memory, executive-function, school, work, lived-experience, japanese-context]
-sources: [raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md, raw/articles/tweet-2086742519904420303-error-manualization-routine.md, raw/articles/tweet-2089665226186908143-confirmation-done-mark-checklist.md, raw/articles/tweet-2099762658509742550-file-spine-alignment-check.md]
+sources: [raw/articles/tweet-2080159574649401476-careless-mistake-situation-note.md, raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md, raw/articles/tweet-2086742519904420303-error-manualization-routine.md, raw/articles/tweet-2089665226186908143-confirmation-done-mark-checklist.md, raw/articles/tweet-2099762658509742550-file-spine-alignment-check.md, raw/articles/tweet-2101869056492024174-multimodal-document-review.md, raw/articles/tweet-2104699597956534762-careless-mistake-three-step-review.md]
 confidence: low
 ---
 
@@ -21,6 +21,8 @@ confidence: low
 - **棚の状態に「正しく戻った」印を残す**: 紙ファイルを並べる棚では、背表紙をまたぐ一本線を引き、線の連続性を戻し間違い・欠落の視覚チェックにする。ファイル名や並び順を記憶して確認する代わりに、物理状態の崩れを見つける低コストの品質ゲートとして使える。機密情報や公文書の取扱い・ラベル規則を優先し、共用ファイルは管理者の許可を得る。^[raw/articles/tweet-2099762658509742550-file-spine-alignment-check.md]
 - **ミス原因を処理単位へ分解し、行為をマニュアル化する**: ミスを見つけたら「自分はダメ」ではなく、どの処理・判断・確認でズレたかを対象化し、その場面で行う動作列を細かく書く。数学学習の投稿では、この反復で心理的負担を下げたとされ、日常生活のルーティン化にも応用できる。^[raw/articles/tweet-2086742519904420303-error-manualization-routine.md]
 
+- **「印→原因を1つ言葉にする→次の見直しは1か所」の最小3手順**: ミスを「性格」や「注意不足」として叱る・自戒する代わりに、①間違えた箇所に印、②原因を「1つだけ」言葉にする、③次の見直しではその1か所だけを見る、という手順に落とす。原因と言葉を1つに絞り、見直し対象を1か所に絞ることで、注意負荷を下げつつ反復可能な確認を作る。親・支援者が勉強を見る場面の投稿で、低信頼度。^[raw/articles/tweet-2104699597956534762-careless-mistake-three-step-review.md]
+
 ## 5つのミス防止仕組み
 
 ADHDの人は「ミスをなくそう」とするより、ミスが起きても防げる仕組みを作る方が効果的。能力不足ではなくうっかりミス（不注意ミス）が多いからであり、仕事ができるADHDの人ほど「忘れる前提」で仕組みを作っている。^[raw/articles/tweet-2082018626513817874-five-mistake-prevention-systems.md]
@@ -34,6 +36,10 @@ ADHDの人は「ミスをなくそう」とするより、ミスが起きても�
 ## 確認不安を閉じるチェック欄
 
 確認回数を増やしても不安が残る場合、「宛先・本文・添付・最終確認完了」のような短いチェック欄を通し、最後に「確認済み」を残して次へ進む。ポイントは安心感が出るまで見るのではなく、必要な確認が終わった事実を外へ残すこと。メール送信・提出物・申請フォームなど、確認がループしやすい仕事では、[[external-memory]]と[[work-routines]]を兼ねる品質ゲートになる。^[raw/articles/tweet-2089665226186908143-confirmation-done-mark-checklist.md]
+
+## 見直しを別経路へ切り替える
+
+同じ画面を続けて読むだけでは見落としが残る場合、確認経路を一つだけ変える。個人実践では、時間を空ける、フォントや表示媒体を変えて初見に近づける、読み上げで耳から検品する、という切替が挙げられた。チェックリストは「数字・日付・宛名・添付」の4項目までに絞り、頭の中に保持しない。重要度・機密性が高い文書は、手順と権限を定めた相互レビューを組み合わせ、相手の得意分野を交換材料にできる。送信期限、アクセシビリティ、守秘義務に合わせて経路を選び、読み上げや共有に機密情報を渡さない。^[raw/articles/tweet-2101869056492024174-multimodal-document-review.md]
 
 ## 注意点
 

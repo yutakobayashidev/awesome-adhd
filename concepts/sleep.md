@@ -1,10 +1,14 @@
 ---
 title: 睡眠
 created: 2026-07-22
-updated: 2026-08-27
+updated: 2026-09-28
 type: concept
 tags: [adhd, sleep, home, emotion-regulation, lived-experience, japanese-context, research]
 sources: [raw/articles/tweet-2070840382343291218-heavy-blanket-sleep-hack.md, raw/articles/tweet-2079678863580500109-hyperfocus-end-first.md, raw/articles/tweet-2082035838532157764-night-prep-by-neurotype-morning-panic.md, raw/papers/micic-2026-delayed-sleep-wake-phase-disorder-review.md]
+source_additions_2026-09-24-heyasupo-sleep: [raw/articles/tweet-2102717111227576616-sleep-environment-parenting-thread.md]
+source_additions_2026-09-24-night-30min: [raw/articles/tweet-2103109173965942993-thirty-min-before-sleep.md]
+source_additions_2026-09-28-morning-light: [raw/articles/tweet-2104168172861477285-ten-home-environment-settings-child.md]
+source_additions_2026-09-28-bgm-dialogue-lecture: [raw/articles/tweet-1743926787309289837-dialogue-vs-lecture-background-sound.md]
 confidence: medium
 ---
 
@@ -16,6 +20,10 @@ ADHD関連のX/Twitter投稿では、睡眠は過集中、スマホ利用、感�
 
 - 暑くて重い布団をかけにくい季節に、胸から腹へ重く畳んだ毛布だけを載せ、重さの感覚を局所的に作るという投稿があった。
 - 夜のSNS・ゲーム・作業の過集中対策として、始める前に終了アラーム、アプリブロッカー、ロックボックス、退室などの[[hyperfocus-control]]を仕込む方法がある。
+- **入浴・重み・寝る前の確認を「眠りの環境」として整える**: 発達特性のある子の睡眠環境について、布団に入る約90分前に38〜40度のぬるめ入浴で体温をゆっくり下げる、重みブランケットは体重10%前後を目安に顔を覆わない（研究では客観的な入眠時間・睡眠時間に大きな変化は示されていない）、寝る前の「時間割揃えた？」などの確認・反省会をやめてイラスト・チェックリスト・指さし・固定ルーティンへ置き換える、というスレッドがある。いずれも環境調整の体験談・提案であり、睡眠の持続的な困難や服薬との関係は専門職へ相談する。^[raw/articles/tweet-2102717111227576616-sleep-environment-parenting-thread.md]
+- **寝る前30分を「何もしなくていい時間」として先に確保**: 「自由時間が奪われる」感覚で布団に入りにくい場合、寝る前の30分をあらかじめ何もしなくてよい時間として確保しておく。時間を取り上げられる感覚を和らげ、就寝へ移りやすくする当事者実践。^[raw/articles/tweet-2103109173965942993-thirty-min-before-sleep.md]
+- **朝の高照度光を生活導線へ組み込む**: ADHD・ASDの子では睡眠の問題が多く、寝つきの悪さがある子では夜の眠気を促すホルモンが出始める時刻が遅れている報告もある。朝食の席を窓際にする、起きたらカーテンを開けるなど、朝に確実に光を浴びる導線を作ると体内時計が夜型へずれにくい。^[raw/articles/tweet-2104168172861477285-ten-home-environment-settings-child.md]
+- **眠れぬ夜に講義形式の専門的な話で意識を「強制終了」させる**: ワーキングメモリへの負荷が大きい人では、専門性の高い講義（放送大学など）を流すと短時間で意識がシャットダウンする体験談があり、これを利用して入眠へつなげる当事者実践がある。対談より講義形式の方が与えられる負荷が大きく、眠る用途では講義を選ぶ、という使い分け。睡眠障害の治療ではなく、単一投稿（連投）による低信頼度の体験談として扱う。^[raw/articles/tweet-1743926787309289837-dialogue-vs-lecture-background-sound.md]
 
 ## 特性別・前夜の準備で朝のパニックを防ぐ
 

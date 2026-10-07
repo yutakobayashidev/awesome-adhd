@@ -1,11 +1,12 @@
 ---
 title: 公的支援
 created: 2026-07-22
-updated: 2026-09-07
+updated: 2026-09-28
 type: concept
 tags: [adhd, public-support, guideline, school, work]
 sources: [raw/articles/nice-ng87-recommendations-2026.md, raw/papers/gibbs-2026-female-adhd-academia-work.md, raw/articles/tweet-2086407145357279659-reduce-writing-oral-answer-processing-speed.md, raw/articles/jasso-dnc-university-entrance-accommodations-2026-08.md]
 source_additions_2026-09-07_research_watch: [raw/papers/australia-2026-adhd-assessment-treatment-access-quality.md, raw/papers/beaux-2024-guiding-empowerment-model-neurodiversity-online-higher-ed.md]
+source_additions_2026-09-28_research_watch: [raw/papers/lillis-2026-adhd-care-pathways-aotearoa-nz.md]
 confidence: medium
 ---
 
@@ -34,6 +35,8 @@ GibbsとBialocerkowski（2026）の質的研究は、ADHD女性の高等教育�
 ## アクセスと質を同時に設計する
 
 オーストラリアの論考（2026）は、ADHD評価への需要増に対して、単に窓口を増やすだけでなく、成人診断の複雑さ、共有ケア、専門職研修、長い評価時間への支払い、グループプログラム、全国的なデジタル心理教育・自己管理支援を組み合わせる必要を論じている。これは日本制度へ直接移せる処方箋ではないが、[[diagnosis-and-management]]と[[digital-adhd-support]]を公的支援の中でどう位置づけるかの参考になる。^[raw/papers/australia-2026-adhd-assessment-treatment-access-quality.md]
+
+ニュージーランド（アオテアロア）の論考（2026）は、2026年2月から家庭医・ナースプラクティショナーによる成人ADHDへの刺激薬処方開始が認められた制度変更を、公平性・診断品質・費用・持続可能性の観点から検討している。アクセス改善の可能性はある一方、研修・能力基準・運用指針が義務化されていないため、診断品質・併存症対応・処方安全に懸念が残り、サービス提供形態によって公平性に差が出ると論じる。窓口拡大だけでなく研修・資源・実施枠組みを整えないと恩恵は偏る、というオーストラリアと同系の政策論として読む。^[raw/papers/lillis-2026-adhd-care-pathways-aotearoa-nz.md]
 
 Beauxら（2024）のGuiding Empowerment Modelは、オンライン高等教育で神経多様な学生や一時的制約のある学生に対し、学生本人の自己主張だけへ負担を戻さず、感覚処理、社会的つながり、環境制約、タスク管理、複数形式の教材アクセス、多様な協働手段を学習環境側で用意する発想を示す。ADHD特化の臨床資料ではないが、学校支援を「配慮申請後の個別対応」だけでなく、標準環境のアクセシビリティとして考える補助線になる。^[raw/papers/beaux-2024-guiding-empowerment-model-neurodiversity-online-higher-ed.md]
 

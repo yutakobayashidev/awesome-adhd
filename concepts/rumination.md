@@ -1,11 +1,12 @@
 ---
 title: 反すう
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-09-28
 type: concept
-tags: [adhd, emotion-regulation, anxiety, depression, research, attention]
+tags: [adhd, emotion-regulation, anxiety, depression, research, attention, lived-experience, japanese-context]
 sources: [raw/papers/fredrick-2020-sct-adhd-task-unrelated-thought.md, raw/papers/gelner-2024-adhd-rumination-negative-affect-psychotic-like.md, raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
 confidence: medium
+source_additions_2026-09-28-lived-experience: [raw/articles/tweet-2104231375872385332-rumination-move-body-distance.md]
 ---
 
 # 反すう
@@ -23,6 +24,10 @@ Gelnerら（2024）は、非臨床サンプル188人と7日間の経験サンプ
 ## 支援との接点
 
 Cochraneレビューでは、成人ADHDに対する[[cognitive-behavioural-therapy]]が不安や抑うつの二次的困りごとを改善する可能性も示唆されている。反すうを扱う支援は、ADHD中核症状だけでなく感情面の負荷を下げる文脈で読む。^[raw/papers/lopez-2018-cbt-adults-adhd-cochrane.md]
+
+## 当事者の実践
+
+- **体を動かして一時的に途切れさせ、環境・人から離れて頻度を減らす**: 反芻を意志で止めようとせず、物理的に体を動かして一時的に途切れさせる。根本的には反芻を引き起こす環境や人から離れて頻度を減らすのが最適解だった、という当事者実践。反芻を自己責めや「治すべきもの」ではなく特性と捉える視点も含む。[[emotion-regulation]]と接続する単一投稿由来の低信頼度の実践例。^[raw/articles/tweet-2104231375872385332-rumination-move-body-distance.md]
 
 ## 注意点
 

@@ -1,11 +1,12 @@
 ---
 title: 診断と管理
 created: 2026-07-22
-updated: 2026-09-07
+updated: 2026-09-28
 type: concept
 tags: [adhd, diagnosis, guideline, medication, therapy, public-support]
 sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/nice-ng87-appendices-2008.md, raw/papers/popit-2026-prevalence-pharmacologically-treated-adhd-meta-analysis.md]
 source_additions_2026-09-07_research_watch: [raw/papers/australia-2026-adhd-assessment-treatment-access-quality.md]
+source_additions_2026-09-28_research_watch: [raw/papers/lillis-2026-adhd-care-pathways-aotearoa-nz.md]
 confidence: high
 ---
 
@@ -38,6 +39,8 @@ NICEは、診断後に本人や家族・支援者と構造化された話し合�
 ## アクセス拡大と診断品質の両立
 
 オーストラリアのADHD評価・治療体制に関する論考（2026）は、待機時間、自己負担、専門医不足がある中で、一般医の役割拡大だけでは診断品質が落ちる危険もあると指摘する。成人診断では発達歴、補足情報、鑑別診断、生活イベントが実行機能に与える影響を丁寧に見る必要があるため、アクセス改善は、長時間評価への診療報酬、構造化研修、共有ケア、集団プログラム、デジタル心理教育・自己管理支援と一体で設計すべきだという主張である。国制度に依存する政策論であり、個別診断の代替にはしない。^[raw/papers/australia-2026-adhd-assessment-treatment-access-quality.md]
+
+ニュージーランド（アオテアロア）の論考（2026）も同方向で、2026年2月から家庭医・ナースプラクティショナーによる成人ADHDへの刺激薬処方開始が認められた制度変更を扱う。アクセス改善にはなる一方、研修・能力基準・運用指針の義務化が無いため診断品質・併存症対応・処方安全に懸念があるとし、成人ADHD評価の時間的負荷が一次医療の負担になることを指摘する。国制度に依存する政策論であり、個別診断の代替にはしない。^[raw/papers/lillis-2026-adhd-care-pathways-aotearoa-nz.md]
 
 
 ## 関連

@@ -1,13 +1,14 @@
 ---
 title: ボディダブリング
 created: 2026-07-23
-updated: 2026-09-14
+updated: 2026-09-21
 type: concept
 tags: [adhd, executive-function, attention, work, home, relationships, tool, lived-experience]
 sources: [raw/articles/focusmate-homepage-2026.md, raw/articles/tweet-2079936763024322772-body-doubling-phone-call.md, raw/articles/x-tmiyatake-admin-night-2026.md, raw/articles/body-doubling-life-admin-sources-2026.md, raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md, raw/articles/tweet-1263751107001499653-discord-zoom-task-dump.md, raw/articles/tweet-2089768299999703211-work-call-body-doubling.md, raw/articles/tweet-2089896496695214305-zoom-now-body-doubling-admin.md, raw/articles/tweet-2090645446649905599-no-agenda-call-body-doubling.md]
 source_additions_2026-08-23: [raw/articles/tweet-2091465476341960817-remote-work-artificial-scaffolding.md]
 source_additions_2026-09-12: [raw/articles/tweet-2098787980903366929-bathroom-body-doubling.md]
 source_additions_2026-09-14: [raw/articles/tweet-2099081656707527123-accountability-practice-community.md]
+source_additions_2026-09-21_research_watch: [raw/papers/pimenova-2026-ai-copresence-developers-adhd.md]
 confidence: low
 ---
 
@@ -52,6 +53,10 @@ AIは人間のボディダブリング相手とは異なる利点を持つ。深
 投稿者は具体的なプロンプトを公開しており、「褒める→構造化→次の一手→質問」の4ステップでタスク消化を促進するAIコーチとして使える。特に、報告を1つのチャットに溜め続けることで、AIが横断的に「前回うまくいったときも朝イチで着手している」「詰まるのはいつも人に連絡する系のタスク」といった勝ちパターン・負けパターンを発見してくれる点が、人間のコーチより優れている。
 
 Barkleyの「他人の実行機能を借りている」という説明を拡張すれば、AIは「機械の実行機能を借りている」状態と言える。[[task-initiation]]、[[external-memory]]、[[work-routines]]と組み合わせて使う。^[raw/articles/tweet-2081891109413007381-ai-task-coach-prompt.md]
+
+### 開発者向けAIコプレゼンス研究（2026）
+
+Pimenovaら（2026）は、ADHDを持つソフトウェア開発者14人への半構造化インタビューから、人間同士のボディダブリング／ペアプログラミングと、Claude Code・GitHub Copilotなどを含むAIベースの「同席感」を比較している。人間の同席は社会的支え、オンボーディング、専門的検証を与える一方で、評価不安、評判管理、画面や作業内容のプライバシー負担も生む。AI同席は、判断されにくい相手としてタスクの外部化、確認、フロー維持を助けるが、コード品質や高リスク判断の責任までは引き受けないため、人間による検証や共有メンタルモデルは残る。質的・プレプリント研究なので効果量や一般化は限定し、[[digital-adhd-support]]と[[work-routines]]の設計示唆として読む。^[raw/papers/pimenova-2026-ai-copresence-developers-adhd.md]
 
 ## 関連
 

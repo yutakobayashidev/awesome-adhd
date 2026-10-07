@@ -1,10 +1,12 @@
 ---
 title: 白黒思考（0か100か思考）
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-09-24
 type: concept
 tags: [adhd, executive-function, emotion-regulation, anxiety, parenting, lived-experience, japanese-context]
 sources: [raw/articles/tweet-1970853461433753680-white-black-thinking-countermeasures.md]
+source_additions_2026-09-24-sixty-percent: [raw/articles/tweet-2103109457664471301-sixty-percent-first.md]
+source_additions_2026-09-24-wrong-power-solutions: [raw/articles/tweet-1876056692011757803-wrong-power-solutions.md]
 confidence: low
 ---
 
@@ -40,6 +42,14 @@ Yes/Noの2択ではなく、3〜5段階のカードや尺度を作り、日常�
 - 「全部ダメだ」→「ここはうまくいかなかった」
 - 大人が「グレーの言い方」のモデルになることで、子どもも少しずつ中間表現を学ぶ。
 
+## 完璧主義をなくすより、完璧にする順番を後ろへずらす
+
+完璧主義が強く「1行目が決まらない」まま白紙の前で止まりやすい場合、「まず6割で最後まで通して、そこから直す」と決める。完璧主義をなくすのではなく、完璧にする順番を後ろにずらす発想で、最初の完成度を下げて着手を通す。[[task-initiation]]の「5分着手＋6割完成」と重なる、単一投稿に基づく低信頼度の実践候補。^[raw/articles/tweet-2103109457664471301-sixty-percent-first.md]
+
+## パワー系ソリューションの失敗形
+
+強い解決策（パワー系ソリューション）が白黒思考のまま過剰に振れると、かえって選択肢・人間関係・時間・持ち物を失わせることがある。当事者投稿では「借りるくらいなら買う」「貸すくらいならあげる」「迷うくらいなら全部やらない」「急ぐくらいなら遅れる」「片付けるくらいなら捨てる」という誤学習された極端策が挙げられた。パワー系解決そのものを否定するのではなく、衝動的に「0か100か」で決めた極端策は逆効果になり得る失敗形として記録し、[[impulsivity-countermeasures]]の環境・会計・外部記憶へ逃がす設計と対で扱う。^[raw/articles/tweet-1876056692011757803-wrong-power-solutions.md]
+
 ## 背景
 
 即決してしまうのは、認知的負荷が高く安心を求めているからかもしれない。周囲の大人がその仕組みに目を向け理解を示すだけで、本人の負担感は減る可能性がある。
@@ -53,6 +63,7 @@ Yes/Noの2択ではなく、3〜5段階のカードや尺度を作り、日常�
 - [[emotion-regulation]]
 - [[executive-function]]
 - [[impulsivity-countermeasures]]
+- [[reset-compulsion]]
 - [[rumination]]
 - [[parenting]]
 - [[external-memory]]

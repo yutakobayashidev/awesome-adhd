@@ -1,12 +1,15 @@
 ---
 title: 注意制御と妨害刺激
 created: 2026-07-23
-updated: 2026-08-24
+updated: 2026-09-28
 type: concept
 tags: [adhd, attention, executive-function, research]
 sources: [raw/papers/forster-2014-distraction-task-irrelevant-stimuli-adhd.md, raw/articles/tweet-2080187975636509069-one-note-single-window-distraction-reduction.md, raw/papers/kasatskii-2023-perceptual-load-ide-adhd.md, raw/articles/tweet-2081356392972038227-interruption-tally-three-workplace-tactics.md, raw/articles/tweet-2081363947450712183-boring-to-interesting-conversion-tactic.md, raw/articles/tweet-2085933607072485405-single-task-notification-off.md, raw/articles/tweet-2086067401779548493-visual-audio-efficiency-styles.md, raw/articles/tweet-2086588348848837086-ear-blocking-noise-boundary.md, raw/articles/tweet-2083770574933991552-sensory-load-posture-glasses.md, raw/papers/carr-2026-fielded-attention-adhd-context.md, raw/articles/tweet-2088920198589911187-work-variation-width.md, raw/articles/tweet-2090251801463529921-lyrics-free-music-pink-noise.md, raw/papers/ain-2026-mind-wandering-affective-valence-adhd-ema.md, raw/articles/tweet-2090423617716994431-hide-red-notification-badges.md, raw/papers/raffaelli-2025-thought-content-variability-adhd-context.md]
 confidence: medium
 source_additions_2026-08-23: [raw/articles/tweet-2091433622880629062-super-single-task-physical-friction.md]
+source_additions_2026-09-28-comparison-targets: [raw/articles/tweet-2102210266557735127-hide-comparison-targets-hyperfocus.md]
+source_additions_2026-09-28-read-switch: [raw/articles/tweet-2104529361433223224-audiobook-plus-paper-dual-input-reading.md, raw/articles/tweet-2104568076301689180-subject-batching-weekly-not-parallel.md]
+source_additions_2026-09-28-bgm-dialogue-lecture: [raw/articles/tweet-1743926787309289837-dialogue-vs-lecture-background-sound.md]
 ---
 
 # 注意制御と妨害刺激
@@ -31,9 +34,13 @@ Kasatskiiらは、IDE上のプログラミング課題で知覚負荷（視覚�
 - **視覚フィードバック型と音境界型を試し分ける**: タスクを書き出して終わったら消すことで進む人もいれば、タイマーやホワイトノイズで外界との境界を作ると過集中へ入りやすい人もいる。ADHD向け対策を万能化せず、[[external-memory]]の視覚化と音環境のどちらが作業を進めるか小さく試す。^[raw/articles/tweet-2086067401779548493-visual-audio-efficiency-styles.md]
 
 - **歌詞なし音楽＋ピンクノイズで音の境界を作る**: 頭の中や周囲音がうるさい時、歌詞なし音楽とピンクノイズを重ねて、作業中の聴覚環境を固定する体験談がある。医療的効果ではなく、注意が散る入口を音で均す低信頼度のセルフ実験として扱う。^[raw/articles/tweet-2090251801463529921-lyrics-free-music-pink-noise.md, raw/papers/ain-2026-mind-wandering-affective-valence-adhd-ema.md]
+- **静かすぎる環境で妄想が始まる人へ、あえて音を足す**: 周囲音を減らす[[attention-control]]とは逆に、静かな環境では妄想・空想が始まって集中が続かないタイプには、喫茶店で作業するか、家では「広告が入らない・再生時間が長い・程よく意味が分からない」人文系の知識人の対談を流して環境を作る実践がある。静けさ自体が注意の散る入口になる場合の音環境の足し算として扱う。^[raw/articles/tweet-1743926787309289837-dialogue-vs-lecture-background-sound.md]
 
 - **赤い未読バッジを消す／隠す**: 集中中に未読バッジが視界へ入り続けるなら、アプリのバッジ通知を無効化するか、通知領域を視界外へ置く。通知を「後で処理する」という判断ではなく、視覚的な入口そのものを減らす環境調整として扱う。投稿由来の低信頼度の実践例であり、効果は個人差がある。^[raw/articles/tweet-2090423617716994431-hide-red-notification-badges.md]
 - **「超シングルタスク」で脱線先を先に消す**: 文章作業ならスマホを電源オフにして手の届かない引き出しへ入れ、ブラウザを閉じ、作業アプリだけを開く。単に我慢するのでなく、物理的距離と画面上の選択肢削減で、注意が移る先を少なくする。個人の低信頼度な実践例であり、緊急連絡が必要な時は代替連絡手段を確保する。[[environment-design]]と組み合わせる。^[raw/articles/tweet-2091433622880629062-super-single-task-physical-friction.md]
+- **上の比較対象を視界から消してエネルギー流出を防ぐ**: 完璧主義とワーキングメモリの少なさから、自分より上（特に同年代・年下）を見ただけでエネルギーが消えて動けなくなる、という当事者主張。比較を生む対象を視界・接触から減らすことを、注意資源を奪う刺激の除去として扱う。「下を見て調子に乗る」という競争的・攻撃的な表現を含むため、単一投稿の低信頼度な個人実践として慎重に扱い、[[emotion-regulation]]と[[all-or-nothing-thinking]]へ接続する。^[raw/articles/tweet-2102210266557735127-hide-comparison-targets-hyperfocus.md]
+- **音声＋紙の二重入力で読書を途切れさせない**: 読書中に視線が泳いだり意識が別のことに逸れやすい場合、Audible（音声）を流しながら同じ紙の本を開いて読むと、どちらか一方の入力が途切れても文章摂取が続く。注意が逸れて止まる前提で、入力チャネルを二重化して読む動作を維持する低信頼度の個人実践。^[raw/articles/tweet-2104529361433223224-audiobook-plus-paper-dual-input-reading.md]
+- **科目は並行ローテーションせず週単位でまとめる**: 短いスパンでの頭の切り替えが苦手な場合、複数科目を毎日並行して回すより、1科目を週単位などまとまった塊で回す方が合う、という当事者の振り返り。切り替え回数そのものを減らすブロック化として扱い、[[task-initiation]]や[[work-routines]]の「工程を束ねる」発想とも接続する。^[raw/articles/tweet-2104568076301689180-subject-batching-weekly-not-parallel.md]
 
 ## 文脈としての注意
 

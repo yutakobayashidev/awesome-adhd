@@ -1,11 +1,12 @@
 ---
 title: エネルギー管理（ADHDバーンアウト対策）
 created: 2026-07-23
-updated: 2026-08-19
+updated: 2026-09-29
 type: concept
 tags: [adhd, executive-function, time-management, work, home, lived-experience]
 sources: [raw/articles/tweet-2079957567120564475-adhd-burnout-energy-management.md, raw/articles/tweet-2008757004173799597-brain-fatigue-physical-countermeasures.md, raw/articles/tweet-2081726188532477959-low-gi-diet-brain-fog.md, raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md, raw/articles/tweet-2087012072114569533-after-work-recovery-cost.md, raw/articles/tweet-2088294258113479117-no-thinking-walk-brain-fatigue.md, raw/articles/tweet-2026984818442178853-five-minutes-sixty-percent-rest.md, raw/articles/tweet-2088834068779835687-rest-training-breath-stretch-pole.md, raw/articles/tweet-2090002469308998006-boredom-structured-load-exercise-deadline.md]
 confidence: low
+source_additions_2026-09-29-buffer: [raw/articles/tweet-2104848655161475283-buffer-resources-good-periods.md]
 ---
 
 # エネルギー管理（ADHDバーンアウト対策）
@@ -69,6 +70,7 @@ ADHDは目先のコストしか見えず、「今の損」に鈍感で「未来�
 - **休養をトレーニングとして扱う**: 疲れてから横になるだけでなく、副交感神経モードへ早く入る練習として、呼吸エクササイズやストレッチポールのような低刺激の身体介入を使う体験談がある。医療効果ではなく、[[sleep]]や[[environment-design]]と接続する回復ルーティン候補として扱う。^[raw/articles/tweet-2088834068779835687-rest-training-breath-stretch-pole.md]
 
 - **暇を休息扱いせず、低〜中強度の負荷枠を設計する**: 仕事などの外部構造が急に消えると、自由時間が回復ではなく退屈・焦り・反すうの温床になる場合がある。会社所属を推奨する話ではなく、毎日の運動や締切のある作業など、会社が担っていた強制力の代替を自分で置くエネルギー管理として読む。カフェイン過剰摂取などで無理に覚醒を作る方向へ流れないよう、負荷は安全で調整可能な形にする。^[raw/articles/tweet-2090002469308998006-boredom-structured-load-exercise-deadline.md]
+- **動ける時期に資源を前倒しで「貯める」バッファ設計**: 「全くやる気が出ない時期」が周期的に来る前提で、好調な時期に、お金だけでなく作り置きの食事（生活のバッファ）と報告できる仕事の成果（仕事のバッファ）を先に作っておく。貯めがあれば、追い詰められて焦って決める回数が減る。引用元は散財→転職の無限ループを断つバッファとして位置づける。[[external-memory]]や[[environment-design]]と接続する単一投稿由来の低信頼度の実践例。^[raw/articles/tweet-2104848655161475283-buffer-resources-good-periods.md]
 
 ## 関連ページ
 

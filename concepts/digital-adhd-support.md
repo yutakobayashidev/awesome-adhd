@@ -1,7 +1,7 @@
 ---
 title: ADHD向けデジタル支援
 created: 2026-07-23
-updated: 2026-09-15
+updated: 2026-09-28
 type: concept
 tags: [adhd, tool, research, therapy, diagnosis, medication, school, work, accessibility, policy]
 sources: [raw/articles/deep-research-report-ai-software-adhd-2026.md, raw/articles/tiimo-homepage-2026.md, raw/articles/screenpipe-homepage-2026.md, raw/articles/focusmate-homepage-2026.md, raw/articles/nice-ng87-recommendations-2026.md, raw/papers/pubmed-adhd-ema-daily-life-adolescents-2026.md, raw/papers/arxiv-cognitive-personal-informatics-chi26-2026.md, raw/papers/akca-2026-neuroinclusive-emotion-regulation-uxr.md, raw/papers/arakawa-2026-calmreminder-parental-engagement.md, raw/papers/nordby-2024-blended-emotion-dysregulation-adult-adhd.md, raw/papers/wilens-2024-treating-executive-function-youth-adhd-review.md, raw/papers/kennedy-2026-mhealth-emi-adhd-high-risk-alcohol.md, raw/papers/yitzhak-2025-emotional-pendulum-adhd-ema.md, raw/papers/ben-dor-cohen-2024-emotional-dysregulation-coping-adult-adhd.md, raw/articles/tweet-2085784093686669451-ai-command-thread-project-memory.md, raw/articles/tweet-2086105627697549630-grill-with-docs-milestone-review.md, raw/articles/tweet-2086302039244718116-ai-prioritization-removes-choice.md, raw/articles/tweet-2086307734161588450-two-queue-workstation.md, raw/articles/tweet-1980832956349300817-myndmap-goal-check-in.md, raw/articles/tweet-2086701376911139129-ios-app-parallel-task-focus.md, raw/papers/ara-2026-adhd-productivity-construction-ai-vr.md, raw/papers/selin-2026-self-tracking-masking-neurodivergent.md, raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md, raw/articles/tweet-2086998621673968112-claude-code-remind-watch-organize.md, raw/articles/tweet-2084915057650208912-adhd-pomodoro-no-extra-restarts-app.md, raw/articles/tweet-2087416492082258023-ai-close-meeting-attention-residue.md, raw/articles/tweet-2087750857970565344-ai-history-auto-task-display.md, raw/papers/montoya-2026-ai-quest-based-therapy-adhd-case-report.md, raw/articles/tweet-2088476213589491939-one-tool-notification-subtraction.md, raw/articles/tweet-2088732461316636961-gemini-voice-google-tasks.md, raw/articles/tweet-2088880046996152439-codex-claude-code-state-support.md, raw/articles/tweet-2088834572637380766-ai-secretary-always-on-checkins.md, raw/articles/tweet-2088485397483708626-anyplanner-lockscreen-task-timeline.md, raw/articles/tweet-2089146950558113832-ai-brain-dump-priority-prompt.md, raw/papers/lee-2026-vr-mindfulness-college-adhd-rct.md, raw/papers/kennedy-2024-ema-perceived-adhd-symptoms-adolescents.md]
@@ -14,6 +14,8 @@ source_additions_2026-09-01: [raw/articles/tweet-2094773017733955723-action-butt
 source_additions_2026-09-02-single-intake: [raw/articles/tweet-2095278344183099400-ai-single-intake-now-three.md]
 source_additions_2026-09-07_research_watch: [raw/papers/australia-2026-adhd-assessment-treatment-access-quality.md, raw/papers/beaux-2024-guiding-empowerment-model-neurodiversity-online-higher-ed.md]
 source_additions_2026-09-15: [raw/articles/tweet-2099828632717795561-ai-output-noun.md]
+source_additions_2026-09-21_research_watch: [raw/papers/pimenova-2026-ai-copresence-developers-adhd.md]
+source_additions_2026-09-28-ai-close-loops-strengths: [raw/articles/tweet-2104454734690275467-ai-close-tasks-small-units.md, raw/articles/tweet-2104453799155020171-ai-delegation-open-loops.md, raw/articles/tweet-2104463501582291175-adhd-weaknesses-ai-strengths.md]
 confidence: medium
 ---
 
@@ -97,6 +99,10 @@ Singleら（2025）のVR認知リハビリ系統的レビューは、15研究を
 - **ロック画面・ウィジェット型タスク管理アプリ**: AnyPlannerの投稿では、思いついたタスクを「あとで」へ一時退避し、1日の流れをタイムラインで見せ、柔軟な通知、カレンダー連携、PC/Apple Watch対応で再提示する設計が示されている。製品投稿なので効果検証とは分けるが、[[external-memory]]と[[time-management]]を端末の常時表示へ寄せる実装例。^[raw/articles/tweet-2088485397483708626-anyplanner-lockscreen-task-timeline.md]
 - **予定を単一カレンダーへ集約し、連携入力を使う**: ダブルブッキングや予約日の取り違えを経験した投稿者は、Googleカレンダーを唯一の予定表にし、メール・予約サイトから自動連携できる予定は手入力を減らすために使うとした。Geminiを入れ間違い防止の補助に使う提案もあるが、これは製品機能・個人実践の範囲であり、予定の正確性を保証するものではない。複数端末で同じカレンダーを確認できることは[[external-memory]]と[[time-management]]の実装例になる一方、カレンダー共有・AI連携の権限と予定データのプライバシーを確認する。^[raw/articles/tweet-2092924129762775308-google-calendar-single-source-auto-sync.md]
 - **AI利用前に成果物名を固定する**: 「考えたい」「整理したい」のままチャットを開くと案や選択肢だけが増える場合、先に「比較表」「報告書」「動く仕組み」など、今回残すものを名詞で一つ指定する。ツール選びより出口を先に定義し、生成物の採否と完了判定をしやすくする低信頼度の個人実践例である。AIへ渡す内容は必要最小限にし、出力・実行結果は本人が確認する。^[raw/articles/tweet-2099828632717795561-ai-output-noun.md]
+- **AIコプレゼンスは「非評価的な同席」と「責任ある検証」を分けて設計する**: Pimenovaら（2026）の開発者インタビューでは、AIコーディング支援は人間相手より小話・評価不安・観察される緊張を減らし、思考の外部化、コード骨格作成、ドキュメント要約、リアルタイム確認でフローを保ちやすいと語られた。一方で、ミッションクリティカルなコード、アーキテクチャ判断、AI生成物の監査は本人に戻り、ペア作業中に片方だけがAIへ高速に投げると共有メンタルモデルが壊れる。ADHD向けAI支援は、人の代替ではなく、着手・流れ維持・休憩タイミングを助けつつ、専門的検証やプライバシー境界を明示する道具として扱う。^[raw/papers/pimenova-2026-ai-copresence-developers-adhd.md]
+- **AIエージェントにはタスクを小さい単位でCloseすることを優先させる**: ADHD傾向のエンジニアがAIエージェントを使う時、「思いついたことを即実行させて並行作業する」より「AIにはタスクを小さい単位でCloseすることを優先させる」助言の方が、未完了タスクの蓄積ストレスを抑えられる、という当事者実践。^[raw/articles/tweet-2104454734690275467-ai-close-tasks-small-units.md]
+- **AIへの委任は未完了タスクを増やす「諸刃の剣」**: 集中している作業をAIへ任せ続けると、小さな「やること」がCloseされないまま増え続け、ADHDの「残タスクがストレスになる」特性とぶつかって心が持たなくなる、という注意。委任する単位と完了条件を先に決める。^[raw/articles/tweet-2104453799155020171-ai-delegation-open-loops.md]
+- **「ADHDの苦手＝AIの得意」を外部の脳として使う**: 整理する・順番をつける・要約する・文章にする・思い出す、というADHDが日常で叱られてきた苦手がAIの得意分野と一致する、という整理。AIを外部の脳として使い始めて仕事の詰まり方が変わった当事者の報告。クラウドAIへ渡す内容は最小化し、出力を本人が確認する。^[raw/articles/tweet-2104463501582291175-adhd-weaknesses-ai-strengths.md]
 ## 実装上の要点
 
 - AIは診断の代行ではなく、臨床家・教師・本人・保護者の意思決定を支える補助として設計する。

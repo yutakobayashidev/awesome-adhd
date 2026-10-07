@@ -1,12 +1,13 @@
 ---
 title: 衝動性対策
 created: 2026-07-23
-updated: 2026-09-09
+updated: 2026-09-24
 type: concept
 tags: [adhd, impulsivity, executive-function, tool, lived-experience, japanese-context]
 sources: [raw/articles/tweet-2080186209872351354-impulse-buying-notification-card-friction.md, raw/articles/tweet-2081682049648439480-willpower-to-systems-three-tactics.md, raw/articles/tweet-2081695224825626992-mental-accounting-auto-save.md, raw/articles/tweet-2081760716277899506-shopping-impulse-investment.md, raw/articles/tweet-2081662616582361210-dopamine-addiction-systems.md, raw/articles/tweet-2081992548311298078-physical-money-controls.md, raw/articles/tweet-2081905102391300471-credit-limit-auto-transfer.md, raw/articles/tweet-2081938632881955135-taxi-cost-benefit-reframe.md, raw/articles/tweet-2082047175236759863-overspending-social-three-countermeasures.md, raw/articles/tweet-2083039955907985690-money-management-five-tactics.md, raw/articles/tweet-2082377839211389129-asset-building-dopamine-hijack.md, raw/articles/tweet-2086225948614303824-fixed-cost-one-item-review.md, raw/papers/ruf-2023-diet-physical-activity-impulsivity-adult-adhd-ema.md, raw/articles/tweet-2086971764631040095-sleep-on-decisions-time-sense.md, raw/articles/tweet-2087011129990300065-overnight-budget-before-spending.md, raw/articles/tweet-2087516955498709345-future-passbook-cashflow.md, raw/articles/tweet-2088748316020604979-payday-money-guardrails.md, raw/articles/tweet-2089094947009859850-separate-living-budget-account.md, raw/articles/tweet-2089547898518466725-purchase-friction-not-waiting.md]
 source_additions_2026-08-22: [raw/articles/tweet-2091120949928284489-core-possessions-list.md]
 source_additions_2026-09-09: [raw/articles/tweet-2097555987599409210-shopping-choice-constraint.md]
+source_additions_2026-09-24-wrong-power-solutions: [raw/articles/tweet-1876056692011757803-wrong-power-solutions.md]
 confidence: low
 ---
 
@@ -39,6 +40,7 @@ confidence: low
 - **生活費口座を物理的な月間上限にする**: 意志で我慢するのではなく、生活費用口座に月予算だけを入れ、そこが空になったら終了とする。未来の支払いを抽象的に考えるより、残高という見える数字で「使える量」を制限する家計向けの物理策。^[raw/articles/tweet-2089094947009859850-separate-living-budget-account.md]
 - **未来通帳で資金繰りを先に見る**: 過去の通帳を眺めるだけでは、月末に資金不足へ気づくタイミングが遅すぎる。Excelやスプレッドシートに、決まっている返済・家賃・リース・サブスク、平均化した仕入れや人件費を仮入力し、来月・2〜3か月後、できれば1〜2年先の残高を先に作る。正確さより「ないより見える」ことを優先し、支払い不能が数日前ではなく数か月前に見える状態を作る。衝動性対策というより、[[external-memory]]と[[work-routines]]で未来の支払いを現在の視界へ引き戻す経営・家計向けの実践。^[raw/articles/tweet-2087516955498709345-future-passbook-cashflow.md]
 - **購買衝動を資産形成欲で打ち消す**: ADHDは「目先の報酬」に弱く我慢に限界があるため、「資産を積み上げたい」という別の依存・欲求で衝動を打ち消す方が成功率が高い。衝動買いのドーパミンを消費から積立へリダイレクトする発想。支出を減らす努力より、増やすことにハマる方がADHDの脳に合致する。^[raw/articles/tweet-2082377839211389129-asset-building-dopamine-hijack.md]
+- **極端な「パワー系解決」が逆効果になる型を自覚する**: 「借りるくらいなら買う」「貸すくらいならあげる」「迷うくらいなら全部やらない」「片付けるくらいなら捨てる」のように、白黒思考が強い解決策として誤学習されると、選択肢・人間関係・時間・持ち物を失わせることがある。衝動を我慢するのでも、極端策で即決するのでもなく、入口を減らす・会計で区切る・外部記憶へ逃がす設計へ寄せる当事者実践の失敗形として読む。[[all-or-nothing-thinking]]と接続する。^[raw/articles/tweet-1876056692011757803-wrong-power-solutions.md]
 
 ## EMA研究からの注意
 
@@ -54,3 +56,4 @@ Rufら（2023）は成人ADHDを含む参加者に3日間のEMAを行い、食�
 - [[external-memory]]
 - [[digital-interruptions]]
 - [[executive-function]]
+- [[reset-compulsion]]
